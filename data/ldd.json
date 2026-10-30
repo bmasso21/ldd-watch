@@ -13,7 +13,10 @@
       "manufacturer": "Revolution Medicines, Inc.",
       "approval_date": "2026-08-26",
       "indication": "Metastatic pancreatic adenocarcinoma, adults, after at least one prior systemic therapy or not candidates for multiagent systemic therapy",
-      "dosage_forms": ["tablet 100 mg", "tablet 150 mg"],
+      "dosage_forms": [
+        "tablet 100 mg",
+        "tablet 150 mg"
+      ],
       "ndcs": [],
       "distribution_type": "limited_network",
       "pharmacies": [
@@ -53,6 +56,419 @@
       "verified_date": null,
       "next_review_date": "2027-01-29",
       "notes": "TO VERIFY: pull the full specialty pharmacy network list from the rasonque.com HCP/access page and (ON)Path program materials. Add Onco360 intake phone/fax from onco360.com. Add NDCs from openFDA NDC directory once indexed."
+    },
+    {
+      "id": "aflibercept-ayyh",
+      "brand": "PAVBLU",
+      "generic": "aflibercept-ayyh",
+      "manufacturer": "Amgen",
+      "approval_date": "2026-10-22",
+      "indication": "Neovascular (wet) age-related macular degeneration, macular edema following retinal vein occlusion, diabetic macular edema, diabetic retinopathy (biosimilar to Eylea 2 mg)",
+      "dosage_forms": [
+        "injection, intravitreal, 2 mg/0.05 mL (40 mg/mL) single-dose vial",
+        "injection, intravitreal, 2 mg/0.05 mL (40 mg/mL) single-dose prefilled syringe"
+      ],
+      "ndcs": [
+        "85006-8092-1",
+        "85006-2908-1"
+      ],
+      "distribution_type": "open",
+      "pharmacies": [],
+      "hub_program": null,
+      "rems": false,
+      "cold_chain": true,
+      "controlled_substance": false,
+      "sources": [
+        {
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/761298Orig1s000Approv.pdf",
+          "type": "fda",
+          "date_checked": "2026-10-29",
+          "note": "BLA 761298 original approval 2024-08-23 (Amgen); vial + PFS; no REMS in approval package."
+        },
+        {
+          "url": "https://www.drugs.com/pro/pavblu.html",
+          "type": "other",
+          "date_checked": "2026-10-29",
+          "note": "Label revised 5/2026. HOW SUPPLIED lists NDC 85006-8092-1 (PFS carton) and 85006-2908-1 (vial carton). Refrigerate 2-8C."
+        },
+        {
+          "url": "https://www.managedhealthcareexecutive.com/view/yesafili-an-eylea-biosimilar-launches-with-a-price-of-1-445",
+          "type": "other",
+          "date_checked": "2026-10-29",
+          "note": "Pavblu on US market since Oct 2024; provider-administered ophthalmology channel; Amgen $0 copay program for commercially insured. No specialty pharmacy named."
+        }
+      ],
+      "confidence": "low",
+      "status": "draft",
+      "verified_by": null,
+      "verified_date": null,
+      "next_review_date": "2027-04-27",
+      "notes": "Physician-administered intravitreal biologic distributed through wholesalers/specialty distributors (buy-and-bill); no limited pharmacy network found. The 2026-10-22 date in the issue could not be tied to a specific FDA action in sources checked; BLA 761298 was originally approved 2024-08-23 and the label was last revised 5/2026 (possibly a supplement/new presentation). Verify the 2026-10-22 action on Drugs@FDA. openFDA NDC query blocked by proxy; NDCs taken from the drugs.com label copy."
+    },
+    {
+      "id": "aflibercept-mrbb",
+      "brand": "AHZANTIVE",
+      "generic": "aflibercept-mrbb",
+      "manufacturer": "Formycon AG / Klinge Biopharma (US commercialization: Valorum Biologics)",
+      "approval_date": "2026-10-22",
+      "indication": "Neovascular (wet) age-related macular degeneration, diabetic macular edema, diabetic retinopathy, macular edema following retinal vein occlusion (biosimilar to Eylea 2 mg)",
+      "dosage_forms": [
+        "injection, intravitreal"
+      ],
+      "ndcs": [],
+      "distribution_type": "open",
+      "pharmacies": [],
+      "hub_program": null,
+      "rems": false,
+      "cold_chain": true,
+      "controlled_substance": false,
+      "sources": [
+        {
+          "url": "https://www.pearceip.law/2025/10/02/formycon-klinge-valorum-set-for-q4-2026-biosimilar-aflibercept-us-launch-following-regeneron-settlement/",
+          "type": "other",
+          "date_checked": "2026-10-29",
+          "note": "Original FDA approval June/July 2024; Regeneron settlement permits US launch Q4 2026; Valorum Biologics holds exclusive US/Canada license. No distribution details."
+        },
+        {
+          "url": "https://www.ophthalmologytimes.com/view/us-fda-approves-aflibercept-mrbb-ahzantive-eylea-biosimilar-from-formycon",
+          "type": "other",
+          "date_checked": "2026-10-29",
+          "note": "Approval coverage (2024); no launch, distribution, or pharmacy details."
+        }
+      ],
+      "confidence": "low",
+      "status": "draft",
+      "verified_by": null,
+      "verified_date": null,
+      "next_review_date": "2027-04-27",
+      "notes": "Not yet launched in the US as of 2026-10-29 (launch permitted Q4 2026 under Regeneron settlement). Physician-administered intravitreal biologic; expected buy-and-bill via wholesalers like other aflibercept biosimilars. The 2026-10-22 date in the issue could not be tied to a specific FDA action in sources checked (original approval 2024). No manufacturer HCP/access page found; openFDA NDC query blocked by proxy."
+    },
+    {
+      "id": "aflibercept-abzv",
+      "brand": "ENZEEVU",
+      "generic": "aflibercept-abzv",
+      "manufacturer": "Sandoz",
+      "approval_date": "2026-10-22",
+      "indication": "Neovascular (wet) age-related macular degeneration, macular edema following retinal vein occlusion, diabetic macular edema, diabetic retinopathy (biosimilar to Eylea 2 mg)",
+      "dosage_forms": [
+        "injection, intravitreal"
+      ],
+      "ndcs": [],
+      "distribution_type": "open",
+      "pharmacies": [],
+      "hub_program": null,
+      "rems": false,
+      "cold_chain": true,
+      "controlled_substance": false,
+      "sources": [
+        {
+          "url": "https://www.pearceip.law/2026/02/18/new-indication-alert-sandozs-biosimilar-aflibercept-fda-approved-for-additional-retinal-indications/",
+          "type": "other",
+          "date_checked": "2026-10-29",
+          "note": "Original approval Aug 2024 (nAMD); label expanded Feb 2026; US launch permitted Q4 2026 under Regeneron settlement. No distribution details."
+        },
+        {
+          "url": "https://www.managedhealthcareexecutive.com/view/yesafili-an-eylea-biosimilar-launches-with-a-price-of-1-445",
+          "type": "other",
+          "date_checked": "2026-10-29",
+          "note": "Enzeevu expected to launch Q4 2026; provider-administered ophthalmology channel."
+        }
+      ],
+      "confidence": "low",
+      "status": "draft",
+      "verified_by": null,
+      "verified_date": null,
+      "next_review_date": "2027-04-27",
+      "notes": "Not yet launched in the US as of 2026-10-29 (launch permitted Q4 2026). Physician-administered intravitreal biologic; expected buy-and-bill via wholesalers. The 2026-10-22 date in the issue could not be tied to a specific FDA action in sources checked. No manufacturer HCP/access page found; openFDA NDC query blocked by proxy."
+    },
+    {
+      "id": "bepirovirsen",
+      "brand": "HIBSAGO",
+      "generic": "bepirovirsen",
+      "manufacturer": "GlaxoSmithKline",
+      "approval_date": "2026-10-20",
+      "indication": "Chronic hepatitis B in adults without cirrhosis, in combination with nucleos(t)ide analogue therapy, in patients on NrtI for at least 6 months with suppressed HBV DNA and HBsAg <= 3000 IU/mL by an FDA-authorized test (Roche Elecsys HBsAg II quant II RxDx companion diagnostic)",
+      "dosage_forms": [
+        "injection, subcutaneous (two injections per weekly dose; up to 24 weeks; self-administration permitted after first dose)"
+      ],
+      "ndcs": [],
+      "distribution_type": "unknown",
+      "pharmacies": [],
+      "hub_program": {
+        "name": "Together with HIBSAGO (Together with GSK)",
+        "phone": "1-844-225-5894",
+        "url": "https://www.togetherwithgsk.com/hibsago/hibsago/"
+      },
+      "rems": false,
+      "cold_chain": null,
+      "controlled_substance": false,
+      "sources": [
+        {
+          "url": "https://www.togetherwithgsk.com/hibsago/hibsago/",
+          "type": "manufacturer",
+          "date_checked": "2026-10-29",
+          "note": "Placeholder page: 'Coming soon: A new patient support program for eligible HIBSAGO patients.' Lists coverage verification, cost support, and 1:1 patient support. Phone 1-844-CALL-TwGSK (1-844-225-5894), Mon-Fri 8am-8pm ET. No specialty pharmacy or distribution information yet."
+        },
+        {
+          "url": "https://ir.ionis.com/node/35161",
+          "type": "press_release",
+          "date_checked": "2026-10-29",
+          "note": "Ionis release on GSK's US approval, 2026-10-20: priority review + Breakthrough Therapy; six-month treatment with at-home administration after first dose. No launch timing, distribution, or REMS mentioned."
+        },
+        {
+          "url": "https://www.contagionlive.com/view/fda-approves-hibsago-first-antisense-therapy-chronic-hepatitis-b",
+          "type": "other",
+          "date_checked": "2026-10-29",
+          "note": "Boxed warning: on-treatment hepatic flares and thrombocytopenia; weekly platelet monitoring. Links to FDA press release and GSK US press release. No REMS mentioned."
+        },
+        {
+          "url": "https://www.pharmacytimes.com/view/fda-approves-bepirovirsen-first-aso-for-chronic-hepatitis-b",
+          "type": "other",
+          "date_checked": "2026-10-29",
+          "note": "Notes specialty pharmacy teams will need to add companion diagnostic step to PA/referral workflows; trial dose 300 mg weekly x 24 weeks. No pharmacy network named."
+        }
+      ],
+      "confidence": "low",
+      "status": "draft",
+      "verified_by": null,
+      "verified_date": null,
+      "next_review_date": "2027-01-27",
+      "notes": "Strong specialty-pharmacy candidate (self-injected antisense oligonucleotide, boxed warning, companion-diagnostic-gated, weekly lab monitoring) but no pharmacy network, launch date, or distribution model is public yet; the GSK hub page is a 'coming soon' placeholder. No REMS found in news coverage; FDA REMS@FDA database and FDA press release could not be fetched (proxy blocked). Also blocked: hibsago.com and us.gsk.com press release. Re-check hibsago.com HCP access page and togetherwithgsk.com/hibsago at next review; openFDA NDC query blocked by proxy. Fetch-blocked URLs: https://www.hibsago.com, https://us.gsk.com/en-us/media/press-releases/hibsago-bepirovirsen-approved-in-the-us-for-the-treatment-of-chronic-hepatitis-b-chb/, https://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment."
+    },
+    {
+      "id": "sodium-citrate-cienby",
+      "brand": "CIENBY",
+      "generic": "sodium citrate",
+      "manufacturer": "Fresenius Medical Care Renal Therapies Group, LLC",
+      "approval_date": "2026-10-19",
+      "indication": "Anticoagulant for regional citrate anticoagulation (RCA) of the extracorporeal circuit during CVVHD or CVVHDF with the multiFiltratePRO system (Ci-Ca protocol), adults and pediatric patients >= 40 kg",
+      "dosage_forms": [
+        "injection/solution, 40 g/L sodium citrate (136 mmol/L citrate), 1,500 mL bag"
+      ],
+      "ndcs": [],
+      "distribution_type": "open",
+      "pharmacies": [],
+      "hub_program": null,
+      "rems": false,
+      "cold_chain": false,
+      "controlled_substance": false,
+      "sources": [
+        {
+          "url": "https://www.placera.se/pressmeddelanden/fresenius-medical-care-fresenius-medical-care-brings-kidney-care-innovation-to-critical-care-patients-with-u-s-launch-of-multifiltratepro-20261022",
+          "type": "press_release",
+          "date_checked": "2026-10-29",
+          "note": "Fresenius Medical Care press release (PR Newswire mirror, 2026-10-22): FDA cleared multiFiltratePRO and approved Cienby and Calrezdy on 2026-10-19; controlled rollout moving to full availability; hospital CKRT product sold with the device. Adverse event line 1-800-323-5188. No specialty pharmacy."
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft",
+      "verified_by": null,
+      "verified_date": null,
+      "next_review_date": "2027-04-27",
+      "notes": "Hospital/ICU CKRT solution supplied with the multiFiltratePRO system through Fresenius Medical Care's institutional channel; not a retail or specialty pharmacy product. openFDA NDC query blocked by proxy."
+    },
+    {
+      "id": "calcium-chloride-calrezdy",
+      "brand": "CALREZDY",
+      "generic": "calcium chloride",
+      "manufacturer": "Fresenius Medical Care Renal Therapies Group, LLC",
+      "approval_date": "2026-10-19",
+      "indication": "Calcium substitution during regional citrate anticoagulation with CVVHD or CVVHDF on the multiFiltratePRO system (Ci-Ca protocol), adults and pediatric patients >= 40 kg",
+      "dosage_forms": [
+        "injection/solution, 14.7 g/L calcium chloride dihydrate (100 mmol/L calcium), 1,500 mL ready-to-use bag"
+      ],
+      "ndcs": [],
+      "distribution_type": "open",
+      "pharmacies": [],
+      "hub_program": null,
+      "rems": false,
+      "cold_chain": false,
+      "controlled_substance": false,
+      "sources": [
+        {
+          "url": "https://www.placera.se/pressmeddelanden/fresenius-medical-care-fresenius-medical-care-brings-kidney-care-innovation-to-critical-care-patients-with-u-s-launch-of-multifiltratepro-20261022",
+          "type": "press_release",
+          "date_checked": "2026-10-29",
+          "note": "Fresenius Medical Care press release (PR Newswire mirror, 2026-10-22): approved 2026-10-19 alongside Cienby and multiFiltratePRO clearance; controlled rollout to full availability; institutional CKRT channel. No specialty pharmacy."
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft",
+      "verified_by": null,
+      "verified_date": null,
+      "next_review_date": "2027-04-27",
+      "notes": "Hospital/ICU CKRT solution supplied with the multiFiltratePRO system through Fresenius Medical Care's institutional channel; not a retail or specialty pharmacy product. openFDA NDC query blocked by proxy."
+    },
+    {
+      "id": "rivaroxaban-oral-suspension",
+      "brand": "YULZETY",
+      "generic": "rivaroxaban",
+      "manufacturer": "Rosemont Pharmaceuticals Holdings, Inc.",
+      "approval_date": "2026-10-16",
+      "indication": "Stroke/systemic embolism risk reduction in nonvalvular AF; treatment of DVT/PE and reduction of recurrence; DVT prophylaxis after hip/knee replacement; VTE prophylaxis in acutely ill medical patients; pediatric VTE treatment and thromboprophylaxis after Fontan (>= 12 kg)",
+      "dosage_forms": [
+        "oral suspension, 2 mg/mL",
+        "oral suspension, 4 mg/mL"
+      ],
+      "ndcs": [],
+      "distribution_type": "open",
+      "pharmacies": [],
+      "hub_program": null,
+      "rems": false,
+      "cold_chain": false,
+      "controlled_substance": false,
+      "sources": [
+        {
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/221033Orig1s000ltr.pdf",
+          "type": "fda",
+          "date_checked": "2026-10-29",
+          "note": "NDA 221033 approval letter signed 2026-10-16; oral suspension 2 mg/mL and 4 mg/mL; no REMS."
+        },
+        {
+          "url": "https://www.webmd.com/drugs/yulzety-rivaroxaban",
+          "type": "other",
+          "date_checked": "2026-10-29",
+          "note": "Room-temperature storage; discard 60 days after opening; dosing syringe supplied; Rosemont contact 844-638-2235. Ordinary retail prescription."
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft",
+      "verified_by": null,
+      "verified_date": null,
+      "next_review_date": "2027-04-27",
+      "notes": "505(b)(2) oral liquid formulation of a widely available anticoagulant; no specialty or limited-distribution signals found. openFDA NDC query blocked by proxy."
+    },
+    {
+      "id": "cevimeline-oral-solution",
+      "brand": "EVOXAC oral solution",
+      "generic": "cevimeline hydrochloride",
+      "manufacturer": "Cosette Pharmaceuticals, Inc.",
+      "approval_date": "2026-10-15",
+      "indication": "Symptoms of dry mouth in adults with Sjogren's disease (liquid formulation for patients who have difficulty swallowing capsules)",
+      "dosage_forms": [
+        "oral solution"
+      ],
+      "ndcs": [],
+      "distribution_type": "open",
+      "pharmacies": [],
+      "hub_program": null,
+      "rems": false,
+      "cold_chain": false,
+      "controlled_substance": false,
+      "sources": [
+        {
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/221183Orig1s000ltr.pdf",
+          "type": "fda",
+          "date_checked": "2026-10-29",
+          "note": "NDA 221183 approval letter signed 2026-10-15; Cosette Pharmaceuticals; oral solution; no REMS."
+        },
+        {
+          "url": "https://drug-dev.com/?p=150401",
+          "type": "press_release",
+          "date_checked": "2026-10-29",
+          "note": "Cosette expects US commercial availability by end of 2026; no distribution or pharmacy channel named."
+        },
+        {
+          "url": "https://business.optum.com/en/support/professionalrx-resources/rx-news-102326.html",
+          "type": "pbm",
+          "date_checked": "2026-10-29",
+          "note": "Optum Rx news 2026-10-23 lists Evoxac oral solution as a new formulation approval; no limited-distribution flag."
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft",
+      "verified_by": null,
+      "verified_date": null,
+      "next_review_date": "2027-04-27",
+      "notes": "New formulation of an established retail oral drug; not launched yet (expected by end of 2026). No specialty signals. openFDA NDC query blocked by proxy."
+    },
+    {
+      "id": "pritelivir",
+      "brand": "HOVILPRI",
+      "generic": "pritelivir mesylate",
+      "manufacturer": "AiCuris Anti-infective Cures AG (Asahi Kasei Therapeutics, Inc.)",
+      "approval_date": "2026-10-09",
+      "indication": "Mucocutaneous HSV lesions refractory, with or without documented resistance, to acyclovir, valacyclovir, or famciclovir, in immunocompromised adults",
+      "dosage_forms": [
+        "tablet, 100 mg (400 mg loading dose day 1, then 100 mg once daily)"
+      ],
+      "ndcs": [],
+      "distribution_type": "unknown",
+      "pharmacies": [],
+      "hub_program": null,
+      "rems": false,
+      "cold_chain": false,
+      "controlled_substance": false,
+      "sources": [
+        {
+          "url": "https://www.asahi-kasei.com/news/2026/e261013",
+          "type": "manufacturer",
+          "date_checked": "2026-10-29",
+          "note": "Asahi Kasei Therapeutics approval announcement: 'HOVILPRI is expected to be available in the United States before the end of 2026.' HCP site www.hovilprihcp.com; PI at hovilprihcp.com/pdf/prescribing-information.pdf. No distribution, specialty pharmacy, hub, or REMS mentioned."
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/221154Orig1s000ltr.pdf",
+          "type": "fda",
+          "date_checked": "2026-10-29",
+          "note": "NDA 221154 approved 2026-10-09 to AiCuris Anti-infective Cures AG; tablets; no REMS; PREA and 505(o) resistance PMRs; 48-month expiry at 20-25C."
+        },
+        {
+          "url": "https://www.drugs.com/hovilpri.html",
+          "type": "other",
+          "date_checked": "2026-10-29",
+          "note": "100 mg tablets, imprint AIC 1; manufacturer Asahi Kasei Therapeutics, Cary NC; manufacturer contact 1-844-835-6947, www.HOVILPRI.com. No NDC or distribution info."
+        },
+        {
+          "url": "https://pharmaphorum.com/news/aicuris-acquisition-delivers-new-drug-asahi-kasei",
+          "type": "other",
+          "date_checked": "2026-10-29",
+          "note": "US launch expected before end of 2026; no pricing or distribution disclosed."
+        }
+      ],
+      "confidence": "low",
+      "status": "draft",
+      "verified_by": null,
+      "verified_date": null,
+      "next_review_date": "2027-01-27",
+      "notes": "Likely specialty/limited candidate (orphan-sized immunocompromised population, small US commercial organization, first-in-class oral antiviral) but no pharmacy network or distribution model has been published; product not yet launched (expected before end of 2026). Manufacturer phone 1-844-835-6947 from drugs.com is the general product line, not a confirmed hub. No REMS. Fetch-blocked URL: https://www.hovilprihcp.com (manufacturer HCP site, the only source that could support 'high'). Re-check hovilprihcp.com access/ordering pages and specialty pharmacy press releases at next review. openFDA NDC query blocked by proxy."
+    },
+    {
+      "id": "iopamidol-oral",
+      "brand": "ISOVUE READI",
+      "generic": "iopamidol",
+      "manufacturer": "Bracco Diagnostics Inc.",
+      "approval_date": "2026-10-09",
+      "indication": "Oral contrast for CT of the abdomen and pelvis to delineate the gastrointestinal tract in adults and pediatric patients",
+      "dosage_forms": [
+        "oral solution (contrast agent)"
+      ],
+      "ndcs": [],
+      "distribution_type": "open",
+      "pharmacies": [],
+      "hub_program": null,
+      "rems": false,
+      "cold_chain": false,
+      "controlled_substance": false,
+      "sources": [
+        {
+          "url": "https://www.fda.gov/media/189964/download",
+          "type": "fda",
+          "date_checked": "2026-10-29",
+          "note": "FDA multi-disciplinary review for NDA 018735/S-075 (Isovue oral use for abdominopelvic CT, 6 or 9 mg iodine/mL); applicant Bracco Diagnostics; review recommends approval. Does not name 'Isovue Readi'."
+        },
+        {
+          "url": "https://www.bracco.com/en-us/x-ray-ct",
+          "type": "manufacturer",
+          "date_checked": "2026-10-29",
+          "note": "Bracco US X-ray/CT product page: Isovue products ordered via Bracco ordering-information pages and account representatives (findarep.diag.bracco.com); no Isovue Readi listing yet; no pharmacy involvement."
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft",
+      "verified_by": null,
+      "verified_date": null,
+      "next_review_date": "2027-04-27",
+      "notes": "Imaging contrast agent sold to hospitals and imaging centers directly by Bracco or through its device/contrast distributors; not a pharmacy-dispensed product. The 'Isovue Readi' brand name did not appear in any fetched source; the FDA review for the oral-use supplement (NDA 018735/S-075) is the closest match. Fetch-blocked URL: https://www.bracco.com/en-us/product/ordering-information-isovue. openFDA NDC query blocked by proxy."
     }
   ]
 }
