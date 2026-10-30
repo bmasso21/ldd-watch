@@ -1,0 +1,61 @@
+name: Enrich records from openFDA
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Max records to process (0 = all)"
+        default: "0"
+  schedule:
+    - cron: "41 11 1 * *"   # 1st of month, 11:41 UTC — refresh NDCs/labels
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install jsonschema
+
+      - name: Enrich
+        env:
+          OPENFDA_API_KEY: ${{ secrets.OPENFDA_API_KEY }}
+        run: |
+          python scripts/enrich_openfda.py --limit "${{ github.event.inputs.limit || '0' }}" > enrich.log
+          tail -3 enrich.log
+          python scripts/validate.py
+
+      - name: Open PR if anything changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet data/ldd.json; then echo "no changes"; exit 0; fi
+          BR="enrich/openfda-$(date -u +%Y%m%d-%H%M)"
+          git config user.name "ldd-watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git checkout -b "$BR"
+          git add data/ldd.json
+          git commit -m "Enrich records from openFDA ($(date -u +%Y-%m-%d))"
+          git push -u origin "$BR"
+          {
+            echo "Automated openFDA enrichment: generic names, manufacturers, approval dates, dosage forms, NDCs, indications, REMS/cold-chain flags."
+            echo "Only empty fields were filled; nothing researcher-supplied was overwritten."
+            echo
+            echo '```'
+            tail -1 enrich.log
+            echo '```'
+            echo
+            echo "<details><summary>Per-record log</summary>"
+            echo
+            echo '```'
+            head -400 enrich.log
+            echo '```'
+            echo "</details>"
+          } > body.md
+          gh pr create --base main --head "$BR" --title "Enrich records from openFDA ($(date -u +%Y-%m-%d))" --body-file body.md
