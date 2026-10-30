@@ -2,3 +2,5 @@ hits.csv
 *.csv
 __pycache__/
 report.md
+agent/raw_*.json
+agent/batch_*.json
