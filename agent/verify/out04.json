@@ -1,0 +1,1047 @@
+[
+  {
+    "brand": "ESPEROCT",
+    "generic": "antihemophilic factor (recombinant), glycopegylated-exei",
+    "manufacturer": "Novo Nordisk",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "NovoCare",
+      "phone": "1-844-668-6732",
+      "url": "http://www.novocare.com"
+    },
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Manufacturer HCP cost/coverage page (novomedlink.com/rare-bleeding-disorders/products/treatments/esperoct/cost-coverage.html) names no specialty pharmacies and does not describe distribution as limited/exclusive. Not on TRICARE Oct 2026 LDD list. CVS Specialty on file is unverified by any source found."
+  },
+  {
+    "brand": "Eticovo",
+    "generic": "etanercept-ykro",
+    "manufacturer": "Samsung Bioepis",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "No manufacturer access page or LDD source found; search returned only approval news and payer PA policies. Not on TRICARE Oct 2026 LDD list. Etanercept biosimilar is not generally an LDD; AllianceRx Walgreens on file unverified (and the product has reportedly not been commercially launched in the US)."
+  },
+  {
+    "brand": "EULEXIN",
+    "generic": "flutamide",
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Brand Eulexin (flutamide) is a discontinued brand with multi-source generics; no LDD source found and not on TRICARE Oct 2026 LDD list. Likely not an LDD at all. No search spent beyond the TRICARE list check."
+  },
+  {
+    "brand": "Evkeeza",
+    "generic": "evinacumab-dgnb",
+    "manufacturer": "Regeneron",
+    "pharmacies": [
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.orsini.com/orsini-specialty-pharmacy-selected-to-be-the-exclusive-specialty-pharmacy-partner-for-evkeeza/",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Orsini press release (Nov 27, 2023): 'selected to be the exclusive specialty pharmacy partner for Evkeeza', 'selected by Regeneron'. Evkeeza is an IV infusion (HCP-administered) but is dispensed through Orsini per the release; not on TRICARE Oct 2026 LDD list. Regeneron myRARE hub not seen on page, so hub left null. Matches current_type 'exclusive'."
+  },
+  {
+    "brand": "EVOMELA",
+    "generic": "melphalan hydrochloride for injection",
+    "manufacturer": "Acrotech Biopharma",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "IV conditioning/chemotherapy agent administered in hospital/clinic (provider-administered); payer medical policies (Credence Blue, FEP, Cigna) treat it as a medical-benefit drug. Not a specialty-pharmacy LDD. Not on TRICARE Oct 2026 LDD list. CVS Specialty/Optum on file unverified."
+  },
+  {
+    "brand": "Evrysdi",
+    "generic": "risdiplam",
+    "manufacturer": "Genentech",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "TRICARE Oct 2026 LDD list: Evrysdi -> ACCREDO (matches file). No Genentech access page naming pharmacies retrieved; Genentech product-distribution page does not list Evrysdi. Hub (Genentech SMA My Way) not seen on a fetched page so left null."
+  },
+  {
+    "brand": "EXJADE",
+    "generic": "deferasirox",
+    "manufacturer": "Novartis",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Multi-source generic deferasirox now available; not on TRICARE Oct 2026 LDD list. Only related source found was a 2015 Pharmacy Times item on Avella being selected by Novartis to dispense Jadenu (not Exjade), no exclusivity language. CVS Specialty on file unverified; likely no longer an LDD."
+  },
+  {
+    "brand": "Exkivity",
+    "generic": "mobocertinib",
+    "manufacturer": "Takeda",
+    "pharmacies": [
+      {
+        "name": "Biologics by McKesson",
+        "source_url": "https://www.mckesson.com/about-us/newsroom/press-releases/2021/exkivity-available-biologics-mckesson",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "McKesson 2021 release: Biologics 'was selected by Takeda ... as a specialty pharmacy provider for EXKIVITY' (no exclusive language). PRODUCT WITHDRAWN: Takeda voluntarily withdrew Exkivity from the US market (2023-2024) after confirmatory trial miss (Drug Topics, BioWorld, Community Oncology). Record should be flagged inactive. Not on TRICARE Oct 2026 list."
+  },
+  {
+    "brand": "EXONDYS 51",
+    "generic": "eteplirsen",
+    "manufacturer": "Sarepta Therapeutics",
+    "pharmacies": [
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.businesswire.com/news/home/20200205005491/en",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Orsini Feb 2020 release (about Vyondys 53) states Orsini is also 'a limited distribution partner' for Exondys 51; 'limited distribution partners' language, not exclusive. Exondys 51 is an IV infusion (often home infusion via SP). SareptAssist referenced (www.SareptAssist.com) but no phone shown, so hub left null. Not on TRICARE Oct 2026 LDD list."
+  },
+  {
+    "brand": "Exservan",
+    "generic": "riluzole oral film",
+    "manufacturer": "Mitsubishi Tanabe Pharma America (developed/manufactured by Aquestive Therapeutics)",
+    "pharmacies": [
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://www.biospace.com/mitsubishi-tanabe-pharma-america-announces-exservan-riluzole-is-now-available-in-the-u-s-for-the-treatment-of-als",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://www.managedhealthcareexecutive.com/view/pantherx-chosen-as-pharmacy-provider-for-exservan-to-treat-als",
+        "source_type": "other",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "EXSERVAN Out-of-Pocket Assistance Program (via PANTHERx); JourneyMate",
+      "phone": "1-855-457-6968",
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "MTPA launch release: 'Access to EXSERVAN is available through a single specialty pharmacy, PANTHERx Rare Pharmacy' (federal channels exempt) - treated as exclusive-equivalent. PANTHERx phone 1-855-743-9275. Not on TRICARE Oct 2026 LDD list. Consistent with current_type 'exclusive'."
+  },
+  {
+    "brand": "Eylea",
+    "generic": "aflibercept",
+    "manufacturer": "Regeneron",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Intravitreal injection administered by retina specialists; distributed to physicians via specialty distributors/wholesalers (Drug Store News noted Apothecary Shops wholesale arm and Diplomat distributing to physicians). Provider-administered buy-and-bill, NOT a specialty-pharmacy LDD. Not on TRICARE Oct 2026 LDD list. EYLEA4U is the support program (name seen in search titles only; phone/URL not seen on fetched page so hub null)."
+  },
+  {
+    "brand": "Eylea HD",
+    "generic": "aflibercept 8 mg",
+    "manufacturer": "Regeneron",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Same as Eylea: intravitreal, physician-administered buy-and-bill; NOT a specialty-pharmacy LDD. No manufacturer access page retrieved. Not on TRICARE Oct 2026 LDD list."
+  },
+  {
+    "brand": "Fabrazyme",
+    "generic": "agalsidase beta",
+    "manufacturer": "Sanofi (Genzyme)",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "CareConnect Personalized Support Services (CareConnectPSS)",
+      "phone": "1-800-745-4447, option 3",
+      "url": "https://www.careconnectpss.com"
+    },
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Manufacturer HCP page (pro.campus.sanofi/us/products/fabrazyme/careconnect-personalized-support) names no specialty pharmacies and no limited/exclusive language. IV infusion (clinic or home infusion); Accredo has a Fabrazyme referral form (accredo.com/prescribers/referral-forms/fabrazymer-agalsidase-beta), suggesting open SP network. Not on TRICARE Oct 2026 LDD list."
+  },
+  {
+    "brand": "Farydak",
+    "generic": "panobinostat",
+    "manufacturer": "Secura Bio",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "PRODUCT WITHDRAWN from US market (Secura Bio voluntary withdrawal, late 2021; OptumRx drug-withdrawal notice Dec 2021). Record should be flagged inactive. Not on TRICARE Oct 2026 LDD list."
+  },
+  {
+    "brand": "Fasenra",
+    "generic": "benralizumab",
+    "manufacturer": "AstraZeneca",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "No manufacturer access page naming pharmacies retrieved (AstraZeneca 'Access 360' / 'Fasenra 360' hub referenced in search titles only, so hub null). Not on TRICARE Oct 2026 LDD list. Fasenra is widely available via major SPs; the file's AllianceRx/CVS/Optum list is plausible but unverified; likely not a true LDD."
+  },
+  {
+    "brand": "FASENRA AUTO-INJECTOR",
+    "generic": "benralizumab (Fasenra Pen)",
+    "manufacturer": "AstraZeneca",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Dosage-form variant of Fasenra; same distribution as Fasenra. No separate source. Not on TRICARE Oct 2026 LDD list."
+  },
+  {
+    "brand": "FENSOLVI",
+    "generic": "leuprolide acetate for injectable suspension",
+    "manufacturer": "Tolmar",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Subcutaneous depot administered by HCP; billed under J1951 (buyandbill.com page in results) and covered under medical policies (Caresource, Johns Hopkins). Provider-administered buy-and-bill, NOT a specialty-pharmacy LDD, though some payers route via SP (Maxor enrollment form). Not on TRICARE Oct 2026 LDD list."
+  },
+  {
+    "brand": "Ferriprox",
+    "generic": "deferiprone",
+    "manufacturer": "Chiesi USA",
+    "pharmacies": [
+      {
+        "name": "Eversana Life Science Services Specialty Pharmacy",
+        "source_url": "https://resources.chiesiusa.com/Ferriprox/Prior_Authorization_and_Access_Guide.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "Chiesi Total Care",
+      "phone": "1-866-758-7071",
+      "url": "https://www.chiesitotalcare.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Chiesi PA & Access Guide: 'Chiesi Total Care Program offered through EVERSANA Life Science Services Specialty Pharmacy'; no explicit exclusive language. Generic deferiprone tablets exist. Matches file (Eversana)."
+  },
+  {
+    "brand": "Ferriprox Solution",
+    "generic": "deferiprone oral solution",
+    "manufacturer": "Chiesi USA",
+    "pharmacies": [
+      {
+        "name": "Eversana Life Science Services Specialty Pharmacy",
+        "source_url": "https://resources.chiesiusa.com/Ferriprox/Prior_Authorization_and_Access_Guide.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Eversana",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "Chiesi Total Care",
+      "phone": "1-866-758-7071",
+      "url": "https://www.chiesitotalcare.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "TRICARE Oct 2026 LDD list: 'Ferriprox Solution' -> EVERSANA. Chiesi access guide covers all formulations through Eversana via Chiesi Total Care. Matches file."
+  },
+  {
+    "brand": "Filspari",
+    "generic": "sparsentan",
+    "manufacturer": "Travere Therapeutics",
+    "pharmacies": [
+      {
+        "name": "CVS Specialty (Caremark)",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Optum Specialty Pharmacy",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": true,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "REMS: FEP Blue Oct 2026 policy and Travere release state Filspari 'available only through a restricted program called the FILSPARI REMS'. TRICARE Oct 2026 LDD list: CVS SPECIALTY (CAREMARK), OPTUM. File also lists Accredo and Optum Frontier Therapies - not confirmed by sources found (not a conflict, just unverified). No Travere HCP page retrieved; Travere Total Care hub not seen so null."
+  },
+  {
+    "brand": "Filsuvez",
+    "generic": "birch triterpenes topical gel",
+    "manufacturer": "Chiesi",
+    "pharmacies": [
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "TRICARE Oct 2026 LDD list: Filsuvez -> PANTHERX (matches file). No manufacturer page or press release with exclusivity language retrieved."
+  },
+  {
+    "brand": "Fintepla",
+    "generic": "fenfluramine oral solution",
+    "manufacturer": "UCB (formerly Zogenix)",
+    "pharmacies": [
+      {
+        "name": "AnovoRx",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": true,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "TRICARE Oct 2026 LDD list: Fintepla -> ANOVORX (matches file). Fintepla carries a REMS (FDA approval letters 212102 reference REMS). No UCB HCP page retrieved."
+  },
+  {
+    "brand": "Firazyr",
+    "generic": "icatibant",
+    "manufacturer": "Takeda Pharmaceuticals U.S.A., Inc.",
+    "pharmacies": [
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.orsini.com/firazyr-icatibant",
+        "source_type": "other",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Orsini product page lists Firazyr (phone 800-356-4252) with no exclusivity language. Generic icatibant is multi-source; not on TRICARE Oct 2026 LDD list, so brand likely no longer a true LDD. Takeda OnePath hub not seen on a fetched page (null). CVS/Optum on file unverified."
+  },
+  {
+    "brand": "Firdapse",
+    "generic": "amifampridine",
+    "manufacturer": "Catalyst Pharmaceuticals",
+    "pharmacies": [
+      {
+        "name": "AnovoRx",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "Catalyst Pathways",
+      "phone": "1-833-422-8259",
+      "url": "https://firdapse.com/support-and-savings/"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "TRICARE Oct 2026 LDD list: Firdapse -> ANOVORX (matches file). Hub details from medfinder.com (type 'other'); that page also generically lists CVS/Walgreens/Accredo/Optum/Biologics as 'common' SPs and says 'dispensed exclusively through specialty pharmacies' - low-reliability SEO page, those names NOT added. Hub phone/URL should be confirmed against firdapse.com."
+  },
+  {
+    "brand": "FLOLAN",
+    "generic": "epoprostenol sodium",
+    "manufacturer": "GSK",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Historical: Citeline/Drug Topics items report GSK's Flolan 'to be distributed exclusively by Accredo' (2000s) - old and not re-verified; Accredo is the long-standing PAH SP. Not on TRICARE Oct 2026 LDD list; generic epoprostenol available. CVS Specialty on file conflicts with the historical Accredo-exclusive arrangement but neither is current-verified."
+  },
+  {
+    "brand": "FLUPHENAZINE DECANOATE",
+    "generic": "fluphenazine decanoate",
+    "manufacturer": null,
+    "pharmacies": [
+      {
+        "name": "Genoa Healthcare",
+        "source_url": "https://files.guidewell.com/m/4be1381d12edb626/original/providers-news-2024-pharmacy-genoa-lai-drugs-12-2024.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Generic long-acting injectable antipsychotic; Florida Blue Dec 2024 provider notice lists Genoa Healthcare as in-network to dispense/administer LAIs including fluphenazine decanoate (optional, not exclusive; providers may also order for own administration; CVS Specialty for plans without Rx benefit). This is a payer network arrangement, not a manufacturer LDD. Not on TRICARE Oct 2026 LDD list."
+  },
+  {
+    "brand": "FLUPHENAZINE HCL",
+    "generic": "fluphenazine hydrochloride",
+    "manufacturer": null,
+    "pharmacies": [
+      {
+        "name": "Genoa Healthcare",
+        "source_url": "https://files.guidewell.com/m/4be1381d12edb626/original/providers-news-2024-pharmacy-genoa-lai-drugs-12-2024.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Generic oral/short-acting fluphenazine; Florida Blue Genoa LAI notice lists fluphenazine decanoate (not HCl specifically). Not an LDD; retail-available generic. Genoa on file is a behavioral-health pharmacy network arrangement, not manufacturer-limited."
+  },
+  {
+    "brand": "FOLLISTIM AQ",
+    "generic": "follitropin beta",
+    "manufacturer": "Organon",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Fertility gonadotropin; distributed through fertility specialty pharmacies, not a manufacturer LDD. Not on TRICARE Oct 2026 LDD list. No search spent beyond TRICARE check."
+  },
+  {
+    "brand": "FORZINITY",
+    "generic": "elamipretide",
+    "manufacturer": "Stealth BioTherapeutics",
+    "pharmacies": [
+      {
+        "name": "AnovoRx Specialty Pharmacy",
+        "source_url": "https://www.biospace.com/press-releases/stealth-biotherapeutics-announces-mito-assist-patient-support-program-and-specialty-pharmacy-partnership-with-anovorx-to-distribute-forzinity-elamipretide-injection",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": {
+      "name": "Mito Assist",
+      "phone": "1-833-458-9099",
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Stealth press release (Oct 9, 2025): AnovoRx is 'exclusive commercial distribution partner' for FORZINITY in the US. Subcutaneous self-injection for Barth syndrome. Not yet on TRICARE Oct 2026 LDD list. Matches file; current_type should be 'exclusive'."
+  },
+  {
+    "brand": "Fyarro",
+    "generic": "sirolimus protein-bound particles for injectable suspension (albumin-bound)",
+    "manufacturer": "Aadi Bioscience",
+    "pharmacies": [
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://www.managedhealthcareexecutive.com/view/aadi-bioscience-selects-pantherx-rare-to-distribute-fyarro",
+        "source_type": "other",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "Biologics by McKesson",
+        "source_url": "https://www.mckesson.com/about-us/newsroom/press-releases/2022/fyarro-fda-approved-treatment-advanced-unresectable-metastatic-malignant-perivascular-epithelioid-cell-tumor",
+        "source_type": "press_release",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "Aadi Assist",
+      "phone": null,
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": false,
+    "conflict_note": "PANTHERx was described as 'the exclusive U.S. pharmacy distribution partner' (MHE, 2022) yet Biologics by McKesson also announced Fyarro availability (2022) - the two claims conflict; file lists both.",
+    "notes": "Fyarro is an IV infusion administered by HCP (provider-administered); SP involvement likely for white-bagging. Not on TRICARE Oct 2026 LDD list. Aadi Assist named but no phone/URL on fetched page."
+  },
+  {
+    "brand": "FYLNETRA",
+    "generic": "pegfilgrastim-pbbk",
+    "manufacturer": "Amneal / Kashiv Biosciences",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Pegfilgrastim biosimilar, typically provider-administered buy-and-bill via oncology distributors; not a specialty-pharmacy LDD. Not on TRICARE Oct 2026 LDD list. CVS Specialty on file unverified."
+  },
+  {
+    "brand": "fyremadel",
+    "generic": "ganirelix acetate injection",
+    "manufacturer": "Ferring (Sun Pharma product)",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Fertility GnRH antagonist available through fertility pharmacies; not a manufacturer LDD. Not on TRICARE Oct 2026 LDD list. No search spent beyond TRICARE check."
+  },
+  {
+    "brand": "Galafold",
+    "generic": "migalastat",
+    "manufacturer": "Amicus Therapeutics",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "Amicus Assist",
+      "phone": "1-833-264-2872",
+      "url": "https://www.amicusassist.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Amicus Assist manufacturer page gives hub phone/URL but names no specialty pharmacies and has no limited/exclusive language. Not on TRICARE Oct 2026 LDD list. Accredo/Walgreens on file unverified."
+  },
+  {
+    "brand": "Galzin",
+    "generic": "zinc acetate",
+    "manufacturer": "Eton Pharmaceuticals (acquired from Teva)",
+    "pharmacies": [
+      {
+        "name": "Optime Care",
+        "source_url": "https://www.santelog.com/actualites-sante-nasdaq/optime-care-partners-eton-pharmaceuticals-specialty-pharmacy-provider",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "AnovoRx",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "Eton Cares",
+      "phone": null,
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Eton/Optime Care release (Mar 4, 2025): Optime Care 'will serve as the specialty pharmacy provider' for Galzin (no exclusive language). TRICARE Oct 2026 LDD list: Galzin -> ANOVORX. Both pharmacies on file are supported."
+  },
+  {
+    "brand": "Gamifant",
+    "generic": "emapalumab-lzsg",
+    "manufacturer": "Sobi",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "IV infusion for primary HLH, administered in hospital/clinic (OHSU, Geisinger, Mass General Brigham medical-benefit policies). Provider-administered buy-and-bill; NOT a specialty-pharmacy LDD. Not on TRICARE Oct 2026 LDD list. Biologics/CVS on file unverified."
+  },
+  {
+    "brand": "GAMUNEX-C",
+    "generic": "immune globulin injection (human) 10% caprylate/chromatography purified",
+    "manufacturer": "Grifols",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "IVIG/SCIG plasma product distributed via wholesalers (McKesson listings) and home-infusion/specialty pharmacies broadly; not a manufacturer LDD. Provider- or home-infusion-administered. Not on TRICARE Oct 2026 LDD list. CVS/Optum on file unverified."
+  },
+  {
+    "brand": "Gattex",
+    "generic": "teduglutide",
+    "manufacturer": "Takeda",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Option Care Health",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "TRICARE Oct 2026 LDD list: Gattex -> ACCREDO, OPTION CARE. Takeda store page (store.takeda.com/c/gattex) says not available for online purchase; order via Customer Care 1-800-423-2090; names no SPs. CVS Specialty on file not confirmed by sources found. OnePath hub not seen on fetched page (null)."
+  },
+  {
+    "brand": "GEODON",
+    "generic": "ziprasidone (oral; Geodon for injection IM)",
+    "manufacturer": "Pfizer (Viatris)",
+    "pharmacies": [
+      {
+        "name": "Genoa Healthcare",
+        "source_url": "https://files.guidewell.com/m/4be1381d12edb626/original/providers-news-2024-pharmacy-genoa-lai-drugs-12-2024.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Florida Blue Dec 2024 notice lists Geodon among injectables Genoa Healthcare may dispense/administer (optional, not exclusive). Multi-source generic; not a manufacturer LDD. Not on TRICARE Oct 2026 LDD list."
+  },
+  {
+    "brand": "GILOTRIF",
+    "generic": "afatinib",
+    "manufacturer": "Boehringer Ingelheim",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "No manufacturer access page or LDD source retrieved; not on TRICARE Oct 2026 LDD list. Oral oncolytic widely available at major SPs; Accredo on file unverified; likely not a true LDD."
+  },
+  {
+    "brand": "GIVLAARI",
+    "generic": "givosiran",
+    "manufacturer": "Alnylam",
+    "pharmacies": [
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://porphyrianews.com/news/alnylam-selects-pantherx-to-distribute-its-recently-approved-ahp-treatment-givlaari/",
+        "source_type": "other",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Porphyria News (2019): PANTHERx selected as 'limited distribution partner' for Givlaari (exclusivity not stated). Givlaari is a monthly subcutaneous injection administered by an HCP; Soleo Health also announced administering Givlaari (2021 BusinessWire). Not on TRICARE Oct 2026 LDD list. CVS Specialty on file not confirmed. Alnylam Assist hub not seen on fetched page (null)."
+  },
+  {
+    "brand": "Glassia",
+    "generic": "alpha1-proteinase inhibitor (human)",
+    "manufacturer": "Takeda",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Takeda store page (store.takeda.com/c/glassia): not available online, order via Customer Care 1-800-423-2090; no SPs named, no limited-distribution language. Plasma product, IV infusion (clinic or home infusion). Not on TRICARE Oct 2026 LDD list. CVS/Optum on file unverified."
+  },
+  {
+    "brand": "GLEEVEC",
+    "generic": "imatinib mesylate",
+    "manufacturer": "Novartis",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Multi-source generic imatinib; brand not an LDD. Not on TRICARE Oct 2026 LDD list. No search spent beyond TRICARE check. Amber/CVS on file unverified."
+  },
+  {
+    "brand": "Gocovri",
+    "generic": "amantadine extended-release capsules",
+    "manufacturer": "Supernus (formerly Adamas)",
+    "pharmacies": [
+      {
+        "name": "AllianceRx Walgreens Pharmacy",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "TRICARE Oct 2026 LDD list: Gocovri -> ALLIANCERX WALGREENS (matches file). No Supernus access page retrieved."
+  },
+  {
+    "brand": "GONAL-F",
+    "generic": "follitropin alfa",
+    "manufacturer": "EMD Serono",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Fertility gonadotropin, distributed via fertility specialty pharmacies; not a manufacturer LDD. Not on TRICARE Oct 2026 LDD list."
+  },
+  {
+    "brand": "GONAL-F RFF",
+    "generic": "follitropin alfa (RFF pen/redi-ject)",
+    "manufacturer": "EMD Serono",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Dosage-form variant of Gonal-f; same as Gonal-f. Not on TRICARE Oct 2026 LDD list."
+  },
+  {
+    "brand": "Haegarda",
+    "generic": "C1 esterase inhibitor subcutaneous (human)",
+    "manufacturer": "CSL Behring",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Walgreens Specialty Pharmacy",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Option Care Health",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Optum Specialty Pharmacy",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Kaiser",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "HAEGARDA Connect",
+      "phone": "1-844-423-4273",
+      "url": "https://www.haegarda.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "CSL Behring Patient Start Forms (labeling.cslbehring.com): 'HAEGARDA will be distributed only through specialty pharmacies' but names none. TRICARE Oct 2026 LDD list: ACCREDO, WALGREENS, OPTIONCARE, OPTUM, ORSINI, KAISER. Kaiser is new vs file; CVS Specialty on file not confirmed by TRICARE list."
+  },
+  {
+    "brand": "HALDOL DECANOATE 100 OR 50",
+    "generic": "haloperidol decanoate",
+    "manufacturer": "Janssen",
+    "pharmacies": [
+      {
+        "name": "Genoa Healthcare",
+        "source_url": "https://files.guidewell.com/m/4be1381d12edb626/original/providers-news-2024-pharmacy-genoa-lai-drugs-12-2024.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Florida Blue Dec 2024 notice lists Haldol Decanoate 100 and 50 among LAIs Genoa Healthcare may dispense/administer (optional, not exclusive). Payer network arrangement, not a manufacturer LDD."
+  },
+  {
+    "brand": "HALOPERIDOL DECANOATE",
+    "generic": "haloperidol decanoate",
+    "manufacturer": null,
+    "pharmacies": [
+      {
+        "name": "Genoa Healthcare",
+        "source_url": "https://files.guidewell.com/m/4be1381d12edb626/original/providers-news-2024-pharmacy-genoa-lai-drugs-12-2024.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Generic LAI; Florida Blue Dec 2024 notice lists haloperidol decanoate for Genoa Healthcare (optional, not exclusive). Not a manufacturer LDD."
+  },
+  {
+    "brand": "Harliku",
+    "generic": "nitisinone tablets",
+    "manufacturer": "Cycle Pharmaceuticals",
+    "pharmacies": [
+      {
+        "name": "LeMed Specialty Pharmacy",
+        "source_url": "https://www.biopharmadive.com/press-release/20250714-cycle-pharmaceuticals-selects-lemed-specialty-pharmacy-as-exclusive-us-sp/",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "LeMed Specialty Pharmacy",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "Cycle Vita",
+      "phone": "888-360-8482",
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Cycle press release (Jul 2025): LeMed awarded 'the exclusive contract for specialty pharmacy distribution and services for HARLIKU'. TRICARE Oct 2026: Harliku -> LEMED. Matches file; current_type should be 'exclusive'."
+  },
+  {
+    "brand": "Hemady",
+    "generic": "dexamethasone 20 mg tablets",
+    "manufacturer": "Acrotech Biopharma (originally Dexcel/Edenbridge)",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "No LDD source found; OptumRx 2019 new-drug notice and payer PA policies only. Not on TRICARE Oct 2026 LDD list. NDC labeler now Acrotech (72893) per CanMED/Medthority - manufacturer on file (Edenbridge) is outdated. AllianceRx on file unverified."
+  },
+  {
+    "brand": "HEMGENIX",
+    "generic": "etranacogene dezaparvovec-drlb",
+    "manufacturer": "CSL Behring",
+    "pharmacies": [
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.biospace.com/orsini-specialty-pharmacy-selected-by-csl-behring-as-a-limited-distribution-partner-for-hemgenix-the-first-and-only-gene-therapy-for-hemophilia-b",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Orsini release: selected by CSL Behring 'as a limited distribution partner for HEMGENIX' (not exclusive). One-time IV gene therapy infused at qualified treatment centers (provider-administered); SP role is limited to procurement/white-bagging. CSL newsroom (Mar & Jul 2026) posted supply/availability updates for Hemgenix. CVS Specialty on file not confirmed. Not on TRICARE Oct 2026 LDD list."
+  },
+  {
+    "brand": "Hemlibra",
+    "generic": "emicizumab-kxwh",
+    "manufacturer": "Genentech",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Genentech product-distribution page (gene.com/contact-us/customer-service/product-distribution) has a Hemlibra-specific distribution sub-page and genentechDirect online ordering for direct accounts; the sub-page could not be fetched (permission not granted), so pharmacy names not captured. Not on TRICARE Oct 2026 LDD list (available via TRICARE home delivery). File's AllianceRx/CVS/Optum list unverified."
+  },
+  {
+    "brand": "Hepcludex",
+    "generic": "bulevirtide-gmod",
+    "manufacturer": "Gilead Sciences",
+    "pharmacies": [
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.biospace.com/press-releases/orsini-to-serve-as-contracted-specialty-pharmacy-for-gileads-hepcludex-bulevirtide-gmod",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Orsini release (May 26, 2026): 'the contracted specialty pharmacy for Gilead's Hepcludex 8.5 mg' - no exclusive wording. TRICARE Oct 2026 list spells it 'ORNSI' (typo for Orsini). Matches file."
+  },
+  {
+    "brand": "HERZUMA",
+    "generic": "trastuzumab-pkrb",
+    "manufacturer": "Teva / Celltrion",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "IV trastuzumab biosimilar, provider-administered buy-and-bill (Q5113; buyandbill.com). NOT a specialty-pharmacy LDD. Not on TRICARE Oct 2026 LDD list. CVS/Optum on file unverified."
+  },
+  {
+    "brand": "Hetlioz",
+    "generic": "tasimelteon capsules",
+    "manufacturer": "Vanda Pharmaceuticals",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Optum Specialty Pharmacy",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Walgreens Specialty Pharmacy",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "HETLIOZSolutions",
+      "phone": null,
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "TRICARE Oct 2026 LDD list (entry 'Hetlioz Suspension'): ACCREDO, OPTUM, PANTHERX, WALGREENS - matches file's four pharmacies. Vanda 2014 release: 'available through specialty pharmacies' (none named); HETLIOZSolutions patient program named, no phone/URL on page. Generic tasimelteon capsules now exist."
+  },
+  {
+    "brand": "HETLIOZ LQ",
+    "generic": "tasimelteon oral suspension",
+    "manufacturer": "Vanda Pharmaceuticals",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Optum Specialty Pharmacy",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Walgreens Specialty Pharmacy",
+        "source_url": "https://express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "HETLIOZSolutions",
+      "phone": null,
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "TRICARE Oct 2026 LDD list entry 'Hetlioz Suspension' (= Hetlioz LQ): ACCREDO, OPTUM, PANTHERX, WALGREENS. File had no pharmacies; these four are new."
+  }
+]

@@ -1,0 +1,847 @@
+[
+ {
+  "canonical_name": "Accredo Specialty Pharmacy",
+  "aliases": [
+   "Accredo"
+  ],
+  "website": "https://www.accredo.com",
+  "intake_phone": "866-759-1557",
+  "intake_fax": "888-302-1028",
+  "enrollment_url": "https://www.accredo.com/prescribers/referral-forms",
+  "is_pharmacy": true,
+  "source_url": "https://accredo.com/prescribers/contact-us",
+  "notes": "Express Scripts/Evernorth specialty pharmacy. Prescriptions & renewals line 866-759-1557; Rx status 844-516-3319. General prescriber fax 888-302-1028. Hawaii: ph 808-650-6488, fax 808-650-6487. Prescriber portal: https://prescribers.accredo.com/login."
+ },
+ {
+  "canonical_name": "CVS Specialty",
+  "aliases": [
+   "CVS Specialty",
+   "Aetna Specialty Pharmacy"
+  ],
+  "website": "https://www.cvsspecialty.com",
+  "intake_phone": "1-800-237-2767",
+  "intake_fax": "1-800-323-2445",
+  "enrollment_url": "https://www.cvsspecialty.com/specialty-enrollment-forms.html",
+  "is_pharmacy": true,
+  "source_url": "https://www.cvsspecialty.com/hcp/prescription-referral-options.html",
+  "notes": "Mail-order CVS Specialty phone/fax as listed on referral-options page; page also lists ~23 local CVS Pharmacy Specialty Services sites with their own numbers. Enrollment forms page also at https://www.cvsspecialty.com/providers/get-patients-started/enrollment-forms.html. 'Aetna Specialty Pharmacy' is mapped here on the basis that Aetna is a CVS Health company; mapping not confirmed from Aetna's own site in this pass - verify."
+ },
+ {
+  "canonical_name": "Coram CVS Specialty Infusion Services",
+  "aliases": [
+   "Coram"
+  ],
+  "website": "https://www.coramhc.com",
+  "intake_phone": "1-866-899-1661",
+  "intake_fax": "1-866-843-3221",
+  "enrollment_url": "https://www.cvsspecialty.com/specialty-enrollment-forms.html",
+  "is_pharmacy": true,
+  "source_url": "https://coramhc.com/node/236",
+  "notes": "Coram contact page (coramhc.com) lists specialty infusion support 1-866-899-1661, acute infusion 1-800-423-1411, enteral nutrition 1-877-936-6874 (24/7) but no fax; the specialty infusion fax 1-866-843-3221 comes from CVS Specialty's referral-options page (https://www.cvsspecialty.com/hcp/prescription-referral-options.html). Enteral fax 1-800-693-7322; parenteral fax 1-949-639-5606."
+ },
+ {
+  "canonical_name": "Walgreens Specialty Pharmacy",
+  "aliases": [
+   "Walgreens Specialty Pharmacy",
+   "AllianceRx Walgreens Pharmacy"
+  ],
+  "website": "https://www.walgreensspecialtyrx.com",
+  "intake_phone": "800-424-9002",
+  "intake_fax": "800-874-9179",
+  "enrollment_url": "https://www.walgreensspecialtyrx.com/providers/referral-forms",
+  "is_pharmacy": true,
+  "source_url": "https://www.walgreensspecialtyrx.com/providers/referral-forms",
+  "notes": "AllianceRx Walgreens Pharmacy rebranded to Walgreens Specialty Pharmacy. Frisco TX general ph 800-424-9002 / fax 800-874-9179; Frisco CF ph 800-541-4959 / fax 800-263-0251; Canton MI ph 888-282-5166 / fax 888-570-4700; Pittsburgh PA ph 888-347-3416 / fax 877-231-8302. NOTE: walgreens.com/healthcare-solutions/enrollment-forms lists different numbers for Frisco general (fax 888-380-6181) and Pittsburgh (ph 877-235-9798 / fax 877-235-9807) - one of the two Walgreens pages is stale; verify before use."
+ },
+ {
+  "canonical_name": "Amber Specialty Pharmacy",
+  "aliases": [
+   "Amber Specialty Pharmacy"
+  ],
+  "website": "https://www.amberpharmacy.com",
+  "intake_phone": "855-896-9254",
+  "intake_fax": "877-645-7514",
+  "enrollment_url": "https://amberpharmacy.com/?p=44",
+  "is_pharmacy": true,
+  "source_url": "https://www.amberpharmacy.com/wp-content/uploads/2021/04/Specialty-General-Referral-Form.pdf",
+  "notes": "Phone 855.896.9254 / fax 877.645.7514 from Specialty General Referral Form PDF (Omaha NE). Referral Forms page (amberpharmacy.com/?p=44) confirmed; its footer shows 888-370-1724 and 877-645-7514 unlabeled."
+ },
+ {
+  "canonical_name": "Biologics by McKesson",
+  "aliases": [
+   "Biologics by McKesson"
+  ],
+  "website": "https://biologics.mckesson.com",
+  "intake_phone": "800-850-4306",
+  "intake_fax": "800-823-4506",
+  "enrollment_url": "https://biologics.mckesson.com/wp-content/uploads/2024/07/SPO-3110614-0524-Biologics-Referral-Form-Update_FIN.pdf",
+  "is_pharmacy": true,
+  "source_url": "https://biologics.mckesson.com/wp-content/uploads/2024/07/SPO-3110614-0524-Biologics-Referral-Form-Update_FIN.pdf",
+  "notes": "Phone 800.850.4306 (option 0, Biologics Pharmacy) and fax 800.823.4506 from the Biologics Referral Form PDF (May 2024). 'How to Prescribe' page: https://biologics.mckesson.com/?p=5857."
+ },
+ {
+  "canonical_name": "Onco360 Oncology Pharmacy",
+  "aliases": [
+   "Onco360"
+  ],
+  "website": "https://onco360.com",
+  "intake_phone": "877-662-6633",
+  "intake_fax": "877-662-6355",
+  "enrollment_url": "https://onco360.com/assets/Oncology-Oral-Rx-Referral-Form-ON-802.pdf",
+  "is_pharmacy": true,
+  "source_url": "https://onco360.com/assets/Oncology-Oral-Rx-Referral-Form-ON-802.pdf",
+  "notes": "Phone/fax/website from the Oncology Oral Rx Referral Form (ON-802) PDF."
+ },
+ {
+  "canonical_name": "Carle Specialty Pharmacy",
+  "aliases": [
+   "Carle Specialty Pharmacy"
+  ],
+  "website": "https://carle.org/services/specialty-pharmacy",
+  "intake_phone": "877-930-0735",
+  "intake_fax": "217-355-6789",
+  "enrollment_url": "https://carle.org/for-providers/refer-a-patient",
+  "is_pharmacy": true,
+  "source_url": "https://carle.org/services/specialty-pharmacy",
+  "notes": "Health-system specialty pharmacy (Carle Health, Urbana IL). Local phone 217-383-8700. No specialty-specific Rx form; prescriptions accepted by phone, fax or e-script."
+ },
+ {
+  "canonical_name": "Anovo (AnovoRx)",
+  "aliases": [
+   "AnovoRx"
+  ],
+  "website": "https://anovorx.com",
+  "intake_phone": "1-844-288-5007",
+  "intake_fax": "1-855-813-2039",
+  "enrollment_url": "https://anovorx.com/prescribers/",
+  "is_pharmacy": true,
+  "source_url": "https://anovorx.com/contact-us/",
+  "notes": "Rare-disease exclusive specialty pharmacy, Memphis TN. Pharmacy/reimbursement ph 901-201-5470 or 844-288-5007, fax 855-813-2039. Prescribers page lists product-specific phone lines and referral form PDFs."
+ },
+ {
+  "canonical_name": "BioPlus Specialty Pharmacy",
+  "aliases": [
+   "BioPlus Specialty Pharmacy"
+  ],
+  "website": "https://bioplusrx.com",
+  "intake_phone": "1-866-514-8082",
+  "intake_fax": "800-269-5493",
+  "enrollment_url": "https://bioplusrx.com/therapies/",
+  "is_pharmacy": true,
+  "source_url": "https://bioplusrx.com/providers/",
+  "notes": "Part of Elevance Health / CarelonRx. Providers page: fax 800-269-5493, referral forms by therapy at /therapies/. Phone 866-514-8082 is the general customer service line from the contact page (no prescriber-specific line shown). Infusion: https://bioplusinfusion.com/providers/."
+ },
+ {
+  "canonical_name": "BioMatrix Specialty Pharmacy",
+  "aliases": [
+   "Biomatrix Specialty Pharmacy"
+  ],
+  "website": "https://www.biomatrixsprx.com",
+  "intake_phone": "877-337-3002",
+  "intake_fax": "954-385-7324",
+  "enrollment_url": null,
+  "is_pharmacy": true,
+  "source_url": "https://www.biomatrixsprx.com/contact",
+  "notes": "HQ/bleeding disorders ph 877-337-3002 fax 954-385-7324; IG + Transplant ph 877-567-8087 fax 877-567-8089. No referral-form page found on contact page."
+ },
+ {
+  "canonical_name": "AcariaHealth",
+  "aliases": [
+   "AcariaHealth"
+  ],
+  "website": "https://www.acariahealth.com",
+  "intake_phone": "800-511-5144",
+  "intake_fax": "877-541-1503",
+  "enrollment_url": "https://www.acariahealth.com/referral_forms.html",
+  "is_pharmacy": true,
+  "source_url": "https://www.acariahealth.com/contact-us.html",
+  "notes": "Centene specialty pharmacy. Hemophilia 866-506-2626/fax 800-696-0607; MS 877-928-5120/fax 877-928-5121; Oncology 866-892-1580/fax 866-892-2363. Referral form PDFs under acariahealth.com/content/dam/centene/acariahealth/referral-forms/."
+ },
+ {
+  "canonical_name": "AHF Pharmacy",
+  "aliases": [
+   "AHF Pharmacy"
+  ],
+  "website": "https://ahfpharmacy.org",
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": "https://ahfpharmacy.org/transfer-prescription/",
+  "is_pharmacy": true,
+  "source_url": "https://ahfpharmacy.org/",
+  "notes": "AIDS Healthcare Foundation pharmacy chain (HIV-focused). Homepage shows only a Medicaid-member line (855-894-6337) and a transfer-prescription page; no central prescriber intake phone/fax found. Locations page: https://ahfpharmacy.org/locations/."
+ },
+ {
+  "canonical_name": "AIS Healthcare (Advanced Infusion Care)",
+  "aliases": [
+   "Ais"
+  ],
+  "website": "https://aiscaregroup.com",
+  "intake_phone": "877-443-4006",
+  "intake_fax": "888-298-2220",
+  "enrollment_url": "https://aiscaregroup.com/patient-referral-forms/",
+  "is_pharmacy": true,
+  "source_url": "https://aiscaregroup.com/patient-referral-forms/",
+  "notes": "Input 'Ais' assumed to be AIS Healthcare (Dallas; intrathecal targeted drug delivery + home/center infusion). Home infusion fax 844-259-0209; infusion center fax 855-217-1930; TDD pump refills fax 833-408-2919. Mapping of 'Ais' is an inference - verify."
+ },
+ {
+  "canonical_name": "Optum Specialty Pharmacy",
+  "aliases": [
+   "Optum Specialty Pharmacy",
+   "Avella",
+   "Avella Specialty Pharmacy",
+   "Diplomat",
+   "The Apothecary Shops"
+  ],
+  "website": "https://specialty.optumrx.com",
+  "intake_phone": "1-877-342-9352",
+  "intake_fax": "1-888-594-4844",
+  "enrollment_url": "https://business.optum.com/en/support/infusion-pharmacy-referral-enrollment-forms.html",
+  "is_pharmacy": true,
+  "source_url": "https://business.optum.com/en/support/infusion-pharmacy-referral-enrollment-forms.html",
+  "notes": "Phone/fax are the biologics/IG/MS infusion referral lines on Optum's infusion referral-forms page (alpha-1 and hemophilia use ph 1-855-855-8754 / fax 1-800-311-0185). A general (non-infusion) Optum Specialty prescriber referral page was not located before the search budget ran out. Website URL not confirmed from Optum pages in this pass. Avella (which had absorbed The Apothecary Shops) and Diplomat were acquired by Optum (2019/2020) - mapping based on general knowledge, not confirmed from Optum's site here; verify."
+ },
+ {
+  "canonical_name": "Option Care Health",
+  "aliases": [
+   "Option Care Health"
+  ],
+  "website": "https://optioncarehealth.com",
+  "intake_phone": "844-624-4584",
+  "intake_fax": null,
+  "enrollment_url": "https://optioncarehealth.com/healthcare-providers/refer-a-patient",
+  "is_pharmacy": true,
+  "source_url": "https://optioncarehealth.com/houston",
+  "notes": "844.624.4584 is Option Care's general national line (shown on location page); referrals are faxed to the local Care Management Center, so no single national fax. Prescriber order forms: https://optioncarehealth.com/healthcare-providers/prescriber-order-forms. Houston branch ph 713.794.0599 / fax 713.583.6426."
+ },
+ {
+  "canonical_name": "Acentrus Specialty",
+  "aliases": [
+   "Acentrus Specialty (health-system pharmacy network)"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": false,
+  "source_url": null,
+  "notes": "Acentrus Specialty is a contracting/network organization for health-system and hospital specialty pharmacies (part of Acurity/Premier-related network), not a dispensing pharmacy itself; prescriptions go to member health-system pharmacies. Official site not surfaced by search before budget ran out."
+ },
+ {
+  "canonical_name": "Advanced Care Scripts (ACS) - CVS Specialty",
+  "aliases": [
+   "Advanced Care Scripts (Omnicare)"
+  ],
+  "website": "https://www.cvsspecialty.com",
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": true,
+  "source_url": null,
+  "notes": "ACS Pharmacy (Orlando FL, formerly Omnicare Specialty Care Group) became part of CVS Health with the 2015 Omnicare acquisition; NPI listings now show it as 'CVS/Specialty'. No ACS-specific intake numbers found on an official site; use CVS Specialty entry. Not fully researched - search budget exhausted."
+ },
+ {
+  "canonical_name": "Alto Pharmacy",
+  "aliases": [
+   "Alto Pharmacy"
+  ],
+  "website": "https://alto.com",
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": true,
+  "source_url": null,
+  "notes": "alto.com/providers and alto.com/contact now 302-redirect to rx.fuzehealth.com / hello.fuzehealth.com (Fuze Health) - appears Alto has been rebranded/absorbed; the redirect targets could not be fetched (permission not granted). Verify current provider contact at fuzehealth.com."
+ },
+ {
+  "canonical_name": "Hospital Access Only",
+  "aliases": [
+   "Hospital Access Only"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": false,
+  "source_url": null,
+  "notes": "Not a pharmacy - this is a distribution-status label (drug available only through hospitals/institutions)."
+ },
+ {
+  "canonical_name": "Humana (payer)",
+  "aliases": [
+   "Humana"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": false,
+  "source_url": null,
+  "notes": "Humana is a health insurer, not a pharmacy. Its specialty pharmacy arm (formerly Humana Specialty Pharmacy) now operates as CenterWell Specialty Pharmacy - see that entry."
+ },
+ {
+  "canonical_name": "CenterWell Specialty Pharmacy",
+  "aliases": [
+   "CenterWell Specialty Pharmacy",
+   "Humana Specialty Pharmacy"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "BlinkRx",
+  "aliases": [
+   "Blinkrx"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Cardinal Health Specialty Pharmacy",
+  "aliases": [
+   "Cardinal Health Specialty Pharmacy"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "CareMed Specialty Pharmacy",
+  "aliases": [
+   "CareMed Pharmaceutical Services",
+   "CareMed Specialty Pharmacy"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Carepoint Pharmacy",
+  "aliases": [
+   "Carepoint"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "CuraScript SD",
+  "aliases": [
+   "CuraScript"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Likely a specialty distributor (Express Scripts), not a dispensing pharmacy - unverified."
+ },
+ {
+  "canonical_name": "Curant Health",
+  "aliases": [
+   "Curant Health"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "DirectRx",
+  "aliases": [
+   "Directrx"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Express Scripts Specialty Distribution Services (ESSDS)",
+  "aliases": [
+   "ESSDS (Express Scripts Specialty Distribution Services)"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Likely a specialty distributor, not a dispensing pharmacy - unverified."
+ },
+ {
+  "canonical_name": "Elixir Specialty Pharmacy",
+  "aliases": [
+   "Elixir Specialty"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Elixir (Rite Aid PBM) was sold in 2024; specialty pharmacy status unverified."
+ },
+ {
+  "canonical_name": "Elwyn Specialty Care",
+  "aliases": [
+   "Elwyn"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Eversana Specialty Pharmacy",
+  "aliases": [
+   "Eversana"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Fairview Specialty Pharmacy",
+  "aliases": [
+   "Fairview Pharmacy Services"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Fillpoint",
+  "aliases": [
+   "Fillpoint"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Genoa Healthcare",
+  "aliases": [
+   "Genoa Healthcare"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Hemophilia of Georgia Pharmacy",
+  "aliases": [
+   "Hemophilia of Georgia"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Hy-Vee Pharmacy Solutions",
+  "aliases": [
+   "Hy-Vee Pharmacy Solutions"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "KabaFusion",
+  "aliases": [
+   "KabaFusion"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "KnippeRx",
+  "aliases": [
+   "KnippeRx"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Kroger Specialty Pharmacy",
+  "aliases": [
+   "Kroger Specialty Pharmacy"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Reported sold to Elevance/CarelonRx in 2024; current branding unverified."
+ },
+ {
+  "canonical_name": "LeMed Specialty Pharmacy",
+  "aliases": [
+   "LeMed Specialty Pharmacy"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Lumicera Health Services",
+  "aliases": [
+   "Lumicera Health Services"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "MMS Solutions",
+  "aliases": [
+   "MMS Solutions"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Identity unclear; may not be a pharmacy."
+ },
+ {
+  "canonical_name": "Magellan Rx Pharmacy",
+  "aliases": [
+   "Magellan Rx Pharmacy"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Maxor Specialty",
+  "aliases": [
+   "Maxor Specialty"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "McKesson Specialty Health / OncologyRx Care Advantage",
+  "aliases": [
+   "McKesson Specialty Health",
+   "OncologyRx Care Advantage (McKesson Specialty Health)",
+   "Oncology Supply"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Oncology Supply is a McKesson distributor, not a pharmacy; OncologyRx Care Advantage is McKesson's oncology specialty pharmacy - grouping unverified."
+ },
+ {
+  "canonical_name": "MedPlus Specialty Pharmacy (Puerto Rico)",
+  "aliases": [
+   "MedPlus Specialty",
+   "Medplus (Puerto Rico)"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Nufactor",
+  "aliases": [
+   "Nufactor"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Optime Care",
+  "aliases": [
+   "Optime Care"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Rare-disease specialty pharmacy; now part of AnovoRx per 2022 news - unverified here."
+ },
+ {
+  "canonical_name": "Optum Frontier Therapies",
+  "aliases": [
+   "Optum Frontier Therapies"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Orsini Specialty Pharmacy",
+  "aliases": [
+   "Orisni",
+   "Orsini Specialty Pharmacy"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. 'Orisni' treated as a typo of Orsini."
+ },
+ {
+  "canonical_name": "Oso",
+  "aliases": [
+   "Oso"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Identity unclear (possibly Oso Home Care infusion pharmacy); may not be a pharmacy."
+ },
+ {
+  "canonical_name": "PANTHERx Rare",
+  "aliases": [
+   "PANTHERx Rare"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Premier Specialty",
+  "aliases": [
+   "Premier Specialty"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Identity ambiguous; may not be a pharmacy."
+ },
+ {
+  "canonical_name": "Publix Pharmacy",
+  "aliases": [
+   "Publix Pharmacy"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Soleo Health",
+  "aliases": [
+   "Soleo Health"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Special Care Pharmacy Services (Puerto Rico)",
+  "aliases": [
+   "Special Care Puerto Rico"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "TotalCare Rx",
+  "aliases": [
+   "TotalCare Rx"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Trinity Health Hackley Specialty Pharmacy",
+  "aliases": [
+   "Trinity Health Pharmacy Hackley"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "US Bioservices",
+  "aliases": [
+   "US Bioservices",
+   "Us Bio"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Vanscoy Rare Pharmacy",
+  "aliases": [
+   "Vanscoy Rare Pharmacy"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Walmart Specialty Pharmacy",
+  "aliases": [
+   "Walmart Specialty Pharmacy"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ },
+ {
+  "canonical_name": "Zeal Pharmacy",
+  "aliases": [
+   "Zeal Pharmacy"
+  ],
+  "website": null,
+  "intake_phone": null,
+  "intake_fax": null,
+  "enrollment_url": null,
+  "is_pharmacy": null,
+  "source_url": null,
+  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+ }
+]

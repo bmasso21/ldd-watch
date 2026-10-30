@@ -1,0 +1,992 @@
+[
+  {
+    "brand": "Cystadane",
+    "generic": "betaine anhydrous for oral solution",
+    "manufacturer": "Recordati Rare Diseases Inc.",
+    "pharmacies": [
+      {
+        "name": "AnovoRx",
+        "source_url": "https://www.recordatirarediseases.com/us/node/109",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Manufacturer shortage-resolution letter names AnovoRx Group LLC (1-888-487-4703) as the dispensing specialty pharmacy; no exclusive wording. Recordati Medical Information 1-888-575-8344. Generic betaine anhydrous (Eton) is also on the market, so LDD status applies to the brand only."
+  },
+  {
+    "brand": "Cystadrops",
+    "generic": "cysteamine ophthalmic solution 0.37%",
+    "manufacturer": "Recordati Rare Diseases Inc.",
+    "pharmacies": [
+      {
+        "name": "AnovoRx",
+        "source_url": "https://www.recordatirarediseases.com/sites/www.recordatirarediseases.com/files/inline-files/CYSTADROPS-Now-Available-Press-Release-9-15-20.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "AnovoRx",
+        "source_url": "https://www.cystinosisresearch.org/resources/",
+        "source_type": "other",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "Recordati Rare Diseases Patient Liaison program",
+      "phone": null,
+      "url": "https://cystadrops.com/patient-resources/"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Manufacturer press release: 'available exclusively through Anovo'. Cystinosis Research Network lists Anovo at 866-925-6212. Patient Liaison program name/URL from the CRN page, not the manufacturer PDF."
+  },
+  {
+    "brand": "CYSTAGON",
+    "generic": "cysteamine bitartrate",
+    "manufacturer": null,
+    "pharmacies": [
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://www.cystinosisresearch.org/resources/",
+        "source_type": "other",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Cystinosis Research Network page calls CVS Specialty (800-237-2767) the 'sole distributor' for Cystagon. Manufacturer page not found in searches; labeler shown in FDA/Medthority listing is Mylan Pharmaceuticals Inc. (not verified on a manufacturer page, so left null)."
+  },
+  {
+    "brand": "Cystaran",
+    "generic": "cysteamine ophthalmic solution",
+    "manufacturer": "Leadiant Biosciences",
+    "pharmacies": [
+      {
+        "name": "AllianceRx Walgreens Pharmacy",
+        "source_url": "https://managedhealthcareexecutive.com/view/alliancerx-walgreens-prime-continues-as-exclusive-pharmacy-for-cystaran",
+        "source_type": "other",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "Walgreens Specialty Pharmacy",
+        "source_url": "https://www.cystinosisresearch.org/resources/",
+        "source_type": "other",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": {
+      "name": "Connected Care Cystaran",
+      "phone": null,
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Trade press: Leadiant chose AllianceRx Walgreens Prime as 'the exclusive specialty pharmacy and clinical support provider'. CRN page: 'only available to order through Walgreens Specialty Pharmacy' (1-877-534-9627). Both current pharmacies are the same Walgreens entity under successive names; consistent with file."
+  },
+  {
+    "brand": "dalfampridine",
+    "generic": "dalfampridine",
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Multi-source generic (Ampyra generic); not searched for an LDD network in this pass \u2014 no manufacturer page applies. Likely not limited distribution; nothing found."
+  },
+  {
+    "brand": "DANZITEN",
+    "generic": "nilotinib",
+    "manufacturer": "Azurity Pharmaceuticals, Inc.",
+    "pharmacies": [
+      {
+        "name": "Biologics by McKesson",
+        "source_url": "https://biologics.mckesson.com/danziten-nilotinib-fda-approved-for-treatment-of-patients-with-philadelphia-chromosome-positive-chronic-myeloid-leukemia-available-at-biologics-by-mckesson-2/",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Biologics press release: Azurity selected Biologics as 'the sole specialty pharmacy provider for Danziten'. Current file lists it as limited_network; source supports exclusive."
+  },
+  {
+    "brand": "Daraprim",
+    "generic": "pyrimethamine",
+    "manufacturer": "Tilde Sciences",
+    "pharmacies": [
+      {
+        "name": "Optime Care",
+        "source_url": "https://www.biospace.com/tilde-sciences-acquires-daraprim-and-vecamyl-from-vyera-pharmaceuticals",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "Daraprim Direct",
+      "phone": "1-877-258-2033",
+      "url": "https://www.daraprimdirect.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Tilde acquired Daraprim from Vyera (Dec 2023) and 'elected to use Optime Care' as specialty pharmacy partner; no exclusive wording. Walgreens Specialty (on file) not confirmed by any source found. Generic pyrimethamine is widely available (Dr. Reddy's etc.)."
+  },
+  {
+    "brand": "Dawnzera",
+    "generic": "donidalorsen",
+    "manufacturer": "Ionis Pharmaceuticals",
+    "pharmacies": [
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.orsini.com/orsini-selected-as-exclusive-specialty-pharmacy-partner-for-ionis-dawnzera-donidalorsen/",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Orsini press release: 'exclusive specialty pharmacy partner'. Consistent with file (exclusive). No hub name/phone shown."
+  },
+  {
+    "brand": "DAXXIFY",
+    "generic": "daxibotulinumtoxinA-lanm",
+    "manufacturer": "Revance Therapeutics",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Provider-administered botulinum toxin with HCPCS J0589 and Part B payment limit per buyandbill.com; NOT a specialty-pharmacy LDD. CVS Specialty on file likely reflects a PBM list, not a manufacturer network. No manufacturer access page found."
+  },
+  {
+    "brand": "Daybue",
+    "generic": "trofinetide",
+    "manufacturer": "Acadia Pharmaceuticals Inc.",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "Acadia Connect",
+      "phone": null,
+      "url": "https://acadiaconnect.com/"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Acadia press release (Apr 2026, DAYBUE STIX) names no specialty pharmacy and no exclusivity. AnovoRx on file not confirmed by a manufacturer source in this pass."
+  },
+  {
+    "brand": "DAYBUE STIX",
+    "generic": "trofinetide",
+    "manufacturer": "Acadia Pharmaceuticals Inc.",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "Acadia Connect",
+      "phone": null,
+      "url": "https://acadiaconnect.com/"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Same release as Daybue (https://www.businesswire.com/news/home/20260407618433/en/); no pharmacy named."
+  },
+  {
+    "brand": "deferasirox",
+    "generic": "deferasirox",
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Multi-source generic (Exjade/Jadenu generics); not an LDD product. Not searched."
+  },
+  {
+    "brand": "DEFITELIO",
+    "generic": "defibrotide sodium",
+    "manufacturer": "Jazz Pharmaceuticals",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "JazzCares",
+      "phone": "1-833-533-5299",
+      "url": "https://www.defitelio.com/patient-support-services"
+    },
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": false,
+    "conflict_note": "CVS Specialty on file conflicts with ordering guide: institutions order from McKesson Plasma and Biologics (1-877-625-2566), not a specialty pharmacy.",
+    "notes": "2-hour IV infusion ordered by institutions via McKesson Plasma and Biologics per Mayo/Jazz ordering guide (https://ce.mayo.edu/sites/default/files/media/2022-06/VOD%20Treatment%20-%20Pharmacy%20Dosing%20and%20Ordering%20Guide.pdf). Treat as provider/hospital-administered, not a specialty-pharmacy LDD."
+  },
+  {
+    "brand": "DEFLAZACORT",
+    "generic": "deflazacort",
+    "manufacturer": "Zydus Lifesciences Limited",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "No Zydus access page or press release found describing a limited network for generic deflazacort. Multiple generics exist (Zydus, Cranbury, Aucta Pyquvi)."
+  },
+  {
+    "brand": "DEPEN TITRATABS",
+    "generic": "penicillamine",
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Nothing found on a limited-distribution network; OptumRx source redirected. Generic penicillamine tablets exist."
+  },
+  {
+    "brand": "DESMODA",
+    "generic": "desmopressin acetate oral solution",
+    "manufacturer": "Eton Pharmaceuticals, Inc.",
+    "pharmacies": [
+      {
+        "name": "AnovoRx",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1710340/000143774926005537/ex_923604.htm",
+        "source_type": "other",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": {
+      "name": "Eton Cares Program",
+      "phone": null,
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Eton 8-K press release (Feb 25 2026): 'available March 9 exclusively through Anovo'; Eton Cares administered by Anovo; referral fax 855-813-2039; www.desmoda.com. New product \u2014 nothing on file; add Anovo as exclusive."
+  },
+  {
+    "brand": "Diacomit",
+    "generic": "stiripentol",
+    "manufacturer": "Biocodex",
+    "pharmacies": [
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://managedhealthcareexecutive.com/view/biocodex-selects-pantherx-as-new-distributor-for-diacomit",
+        "source_type": "other",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "CVS Specialty on file conflicts with 2022 announcement naming PANTHERx Rare as exclusive US pharmacy partner (replacing US Bioservices).",
+    "notes": "Trade press (June 2022): Biocodex selected PANTHERx Rare as 'exclusive U.S. pharmacy distribution partner'."
+  },
+  {
+    "brand": "dimethyl fumarate",
+    "generic": "dimethyl fumarate",
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Multi-source generic (Tecfidera generic); not an LDD product. Not searched."
+  },
+  {
+    "brand": "Dojolvi",
+    "generic": "triheptanoin",
+    "manufacturer": "Ultragenyx Pharmaceutical Inc.",
+    "pharmacies": [
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.biospace.com/orsini-pharmaceutical-services-expands-partnership-with-ultragenyx-to-provide-dojolvi-triheptanoin-for-patients-with-long-chain-fatty-acid-oxidation-disorders-lc-faod",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Orsini named 'limited distribution specialty pharmacy partner' (not exclusive). Accredo/CVS/PANTHERx on file not confirmed or contradicted. UltraCare program mentioned in launch release title but no phone/URL seen."
+  },
+  {
+    "brand": "Doptelet",
+    "generic": "avatrombopag",
+    "manufacturer": "Sobi (AkaRx, Inc./Dova Pharmaceuticals)",
+    "pharmacies": [
+      {
+        "name": "Biologics by McKesson",
+        "source_url": "https://biologics.mckesson.com/doptelet-avatrombopag-now-available-at-biologics-by-mckesson/",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Biologics selected 'as a specialty pharmacy provider in a limited distribution network'; Rx line 800-850-4306. Accredo/CVS on file not confirmed by a source in this pass."
+  },
+  {
+    "brand": "DOPTELET SPRINKLE",
+    "generic": "avatrombopag",
+    "manufacturer": "Sobi",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "No source found specific to Sprinkle formulation; Optum Specialty on file unverified. Presume same limited network as Doptelet."
+  },
+  {
+    "brand": "Duopa",
+    "generic": "carbidopa/levodopa enteral suspension",
+    "manufacturer": "AbbVie Inc.",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "DUOPA support line",
+      "phone": "1-844-386-4968",
+      "url": "https://www.duopa.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "AbbVie Duopa SPA PDF (https://www.rxabbvie.com/pdf/duopa_SPA.pdf) names no specialty pharmacies and no limited-network language. Accredo/CVS on file unverified."
+  },
+  {
+    "brand": "Dupixent",
+    "generic": "dupilumab",
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "dupixent.com FAQ: 'often filled by specialty pharmacies'; no named pharmacies, no exclusive/limited language. Broad specialty-network product; CVS/Optum on file are PBM-side listings. Generic/manufacturer not stated on the fetched page (left null per rules)."
+  },
+  {
+    "brand": "DURYSTA",
+    "generic": null,
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Intracameral implant administered in-office; billing/reimbursement articles (CRST/Allergan supplement) indicate provider-administered, but the pages could not be fetched, so buy_and_bill left null. No specialty-pharmacy network source found."
+  },
+  {
+    "brand": "Duvyzat",
+    "generic": "givinostat",
+    "manufacturer": "ITF Therapeutics LLC",
+    "pharmacies": [
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://duvyzat.com/FAQ",
+        "source_type": "manufacturer",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": {
+      "name": "ITF ARC (Access, Resources and Care)",
+      "phone": "1-855-448-3272",
+      "url": "https://www.duvyzat.com/ITFARC"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Manufacturer FAQ: 'our exclusive specialty pharmacy provider, PantheRx Rare'. File says limited_network; source supports exclusive. Generic name from file (not stated on FAQ)."
+  },
+  {
+    "brand": "Dysport",
+    "generic": null,
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Not searched in this pass (budget). Botulinum toxin products are provider-administered; buy_and_bill left null because no source was checked."
+  },
+  {
+    "brand": "EBGLYSS",
+    "generic": "lebrikizumab-lbkz",
+    "manufacturer": "Eli Lilly and Company",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "Lilly Support Services",
+      "phone": "1-800-545-5979",
+      "url": "https://enrollment.ebglyss.lilly.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Lilly HCP specialty-pharmacy page (https://startlilly.com/meet-ebglyss/specialty-pharmacy) returned no named pharmacies and no exclusive language on fetch. CVS Specialty on file unverified."
+  },
+  {
+    "brand": "Egrifta",
+    "generic": "tesamorelin for injection",
+    "manufacturer": "Theratechnologies",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "Thera Patient Support",
+      "phone": null,
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Theratechnologies release (EGRIFTA WR availability): 'Specialty pharmacies are now ordering EGRIFTA WR'; no pharmacies named, no exclusivity. Broad network consistent with the 8 pharmacies on file. EGRIFTA WR is gradually replacing EGRIFTA SV."
+  },
+  {
+    "brand": "Egrifta SV",
+    "generic": "tesamorelin for injection",
+    "manufacturer": "Theratechnologies",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "Thera Patient Support",
+      "phone": null,
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Same source as Egrifta (https://theratech.gcs-web.com/news-releases/news-release-details/theratechnologies-announces-availability-egrifta-wrtm). SV remains available during transition to WR."
+  },
+  {
+    "brand": "Ekterly",
+    "generic": "sebetralstat",
+    "manufacturer": "KalVista Pharmaceuticals",
+    "pharmacies": [
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.orsini.com/orsini-selected-as-specialty-pharmacy-partner-for-kalvistas-ekterly-sebetralstat/",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Orsini chosen 'as a specialty pharmacy partner' \u2014 no exclusive wording, consistent with a multi-pharmacy limited network. Accredo/CVS/Optum on file not confirmed."
+  },
+  {
+    "brand": "Elahere",
+    "generic": "mirvetuximab soravtansine-gynx",
+    "manufacturer": "ImmunoGen, Inc. (now AbbVie)",
+    "pharmacies": [
+      {
+        "name": "Biologics by McKesson",
+        "source_url": "https://www.mckesson.com/about-us/newsroom/press-releases/2022/elahere-fda-approved-platinum-resistant-ovarian-cancer",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "McKesson release: Biologics is 'the sole specialty pharmacy provider for ELAHERE'. Product is an IV infusion given every 3 weeks; release does not state buy-and-bill, so left null. File says limited_network; source supports exclusive (pharmacy channel)."
+  },
+  {
+    "brand": "Elaprase",
+    "generic": "idursulfase",
+    "manufacturer": "Takeda Pharmaceuticals U.S.A., Inc.",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://drugtopics.com/view/accredo-distribute-elaprase",
+        "source_type": "other",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://drugtopics.com/view/accredo-distribute-elaprase",
+        "source_type": "other",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.orsini.com/?p=900",
+        "source_type": "other",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "2006 Drug Topics article names Accredo and Caremark Specialty (CVS); Orsini product page lists Elaprase (800-240-9572) with no exclusivity language. Takeda OnePath hub not seen on fetched pages. Optum on file unverified."
+  },
+  {
+    "brand": "ELELYSO",
+    "generic": "taliglucerase alfa",
+    "manufacturer": "Pfizer",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "No manufacturer access page or LDD source found in search results (press releases on approval only)."
+  },
+  {
+    "brand": "Elevidys",
+    "generic": "delandistrogene moxeparvovec-rokl",
+    "manufacturer": "Sarepta Therapeutics, Inc.",
+    "pharmacies": [
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.orsini.com/orsini-selected-by-sarepta-therapeutics-to-dispense-elevidys-delandistrogene-moxeparvovec-rokl-the-first-gene-therapy-to-treat-duchenne-muscular-dystrophy/",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "SareptAssist",
+      "phone": null,
+      "url": "https://www.SareptAssist.com"
+    },
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Orsini named 'one of its limited distribution providers' (not exclusive). One-time IV gene therapy infused at a treatment site; buy-and-bill not stated. AcariaHealth/CVS on file unverified."
+  },
+  {
+    "brand": "ELFABRIO",
+    "generic": "pegunigalsidase alfa-iwxj",
+    "manufacturer": "Chiesi USA, Inc.",
+    "pharmacies": [
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.orsini.com/elfabrio-pegunigalsidase-alfa-iwxj",
+        "source_type": "other",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "Chiesi Total Care",
+      "phone": "1-833-656-1056",
+      "url": "https://chiesitotalcare.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Chiesi Total Care fact sheet names no pharmacies. Orsini product page lists Elfabrio without exclusivity language. CVS on file unverified."
+  },
+  {
+    "brand": "ELOCTATE",
+    "generic": "Antihemophilic Factor (Recombinant), Fc Fusion Protein",
+    "manufacturer": "Sanofi",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "HemAssist Sanofi Support",
+      "phone": "1-833-723-5463",
+      "url": "https://pro.campus.sanofi/us/products/hemassist"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Sanofi HCP page names no specialty pharmacies and no limited-network language; hemophilia factor is broadly distributed via specialty/HTC pharmacies. CVS/Optum on file are PBM-side listings."
+  },
+  {
+    "brand": "Emflaza",
+    "generic": "deflazacort",
+    "manufacturer": "PTC Therapeutics, Inc.",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://www.parentprojectmd.org/ptc-therapeutics-update-on-specialty-pharmacy-transition/",
+        "source_type": "other",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.orsini.com/orsini-specialty-pharmacy-selected-by-ptc-therapeutics-as-a-limited-distribution-partner-for-emflaza-deflazacort/",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Amber Specialty Pharmacy",
+        "source_url": "https://www.businesswire.com/news/home/20201008006030/en/Amber-Specialty-Pharmacy-Selected-by-PTC-Therapeutics-Inc.-to-Dispense-EMFLAZA-for-Duchenne-Muscular-Dystrophy-Patients",
+        "source_type": "press_release",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "PTC Cares",
+      "phone": "1-844-478-2227",
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Orsini named 'a limited distribution partner' (2023); PTC moved patients to Accredo (2019); Amber selected 2020 (title only, not fetched). New pharmacy added: Amber Specialty Pharmacy. CVS on file unverified. Generics now available."
+  },
+  {
+    "brand": "Empaveli",
+    "generic": "pegcetacoplan",
+    "manufacturer": "Apellis Pharmaceuticals",
+    "pharmacies": [
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://340breport.com/biopharma-company-apellis-post-340b-limited-distribution-notice/",
+        "source_type": "other",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "340B Report: Apellis runs a 'closed pharmacy network' for Empaveli; PANTHERx named as contract pharmacy route via Cardinal Health. Consistent with file."
+  },
+  {
+    "brand": "EMPLICITI",
+    "generic": "elotuzumab",
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "IV infusion with HCPCS J9176 (buyandbill.com listing in results; infusion order forms exist) \u2014 page not fetched so buy_and_bill left null. Not a specialty-pharmacy LDD based on available signals. CVS/Optum on file are PBM-side."
+  },
+  {
+    "brand": "Enbumyst",
+    "generic": "bumetanide nasal spray",
+    "manufacturer": "Corstasis Therapeutics",
+    "pharmacies": [
+      {
+        "name": "Fillpoint",
+        "source_url": "https://www.businesswire.com/news/home/20251218942256/en/US-Heart-Vascular-FillPoint-Health-and-Corstasis-Therapeutics-Announce-Strategic-Collaboration-to-Improve-Heart-Failure-Care-Through-Enhanced-Access-to-Enbumyst-bumetanide-nasal-spray",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "FillPoint Health named 'preferred specialty pharmacy and distribution partner' within US Heart & Vascular clinic network (not exclusive). Carepoint on file not confirmed. Corstasis AE line 1-877-300-5339."
+  },
+  {
+    "brand": "Encelto",
+    "generic": "revakinagene taroretcel-lwey",
+    "manufacturer": "Neurotech Pharmaceuticals, Inc.",
+    "pharmacies": [
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.orsini.com/encelto-revakinagene-taroretcel-lwey/",
+        "source_type": "other",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Orsini product page lists Encelto (888-477-1165; encelto.com/ecp) with no exclusivity language. Modern Retina: Cencora is 'exclusive specialty distributor' (distributor, not pharmacy). Intravitreal implant placed in a healthcare facility \u2014 provider-administered; file's 'exclusive' Orsini claim not confirmed by a source."
+  },
+  {
+    "brand": "ENDARI",
+    "generic": "L-glutamine oral powder",
+    "manufacturer": "Emmaus Life Sciences, Inc.",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "2018 release: distributed via McKesson Plasma and Biologics to pharmacies (wholesale channel), plus AmerisourceBergen/Cardinal agreements; no specialty-pharmacy LDD network named. CVS on file unverified; product appears broadly distributed."
+  },
+  {
+    "brand": "ENJAYMO",
+    "generic": "sutimlimab-jome",
+    "manufacturer": "Recordati Rare Diseases Inc.",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "ENJAYMO Patient Solutions",
+      "phone": null,
+      "url": "https://www.enjaymo.com"
+    },
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "NCODA PQI: 2-4 hour infusion-center treatment; 'some insurance providers may require specialty pharmacy and home infusion'. Primarily provider-administered (buy_and_bill not explicitly stated). CVS on file unverified."
+  },
+  {
+    "brand": "Ensacove",
+    "generic": "ensartinib",
+    "manufacturer": "Xcovery Holdings",
+    "pharmacies": [
+      {
+        "name": "Biologics by McKesson",
+        "source_url": "https://biologics.mckesson.com/ensacove-ensartinib-fda-approved-treatment-for-adult-patients-with-advanced-alk-positive-non-small-cell-lung-cancer-exclusively-available-at-biologics-by-mckesson/",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Biologics release: 'Exclusively Available at Biologics by McKesson'; 'sole specialty pharmacy provider' plus exclusive hub and PAP dispensing. File says limited_network; source supports exclusive."
+  },
+  {
+    "brand": "Enspryng",
+    "generic": "satralizumab-mwge",
+    "manufacturer": "Genentech",
+    "pharmacies": [
+      {
+        "name": "Soleo Health",
+        "source_url": "https://www.soleohealth.com/news/soleo-health-named-to-genentechs-limited-drug-distribution-network-for-provision-of-enspryng/",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Amber Specialty Pharmacy",
+        "source_url": "https://www.amberpharmacy.com/wp-content/uploads/2024/07/ENSPRYNG-Start-Form.pdf",
+        "source_type": "other",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Soleo Health named 'a limited distribution drug partner' in Genentech's LDD network (2022). Amber hosts an Enspryng start form (not fetched). New pharmacies added: Soleo Health, Amber. Biologics/CVS/Optum on file unverified."
+  },
+  {
+    "brand": "ENTYVIO IV",
+    "generic": "vedolizumab",
+    "manufacturer": "Takeda",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "EntyvioConnect",
+      "phone": "1-855-368-9846",
+      "url": "https://www.entyvioconnectportal.com"
+    },
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Takeda reimbursement toolkit: IV in-office options include buy-and-bill, brown/white/clear bagging; no restricted SP network for IV. CVS on file reflects white-bagging/PBM, not a manufacturer LDD."
+  },
+  {
+    "brand": "Entyvio Sc",
+    "generic": "vedolizumab",
+    "manufacturer": "Takeda",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "EntyvioConnect",
+      "phone": "1-855-368-9846",
+      "url": "https://www.entyvioconnectportal.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Toolkit: 'ENTYVIO Pen prescriptions are filled by SPs in our current distribution network' \u2014 limited network confirmed, but the participating list is on a separate 'ENTYVIO Pen SP Information Sheet' not retrieved; no pharmacies named. Six pharmacies on file unverified."
+  },
+  {
+    "brand": "Entyvio SQ",
+    "generic": "vedolizumab",
+    "manufacturer": "Takeda",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "EntyvioConnect",
+      "phone": "1-855-368-9846",
+      "url": "https://www.entyvioconnectportal.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Duplicate of Entyvio Sc (same source https://entyviohcp.aemcloudprod.takeda.com/content/dam/takeda/imported/entyvio/pdfs/entyvio-reimbursement-toolkit.pdf). Consider merging records."
+  },
+  {
+    "brand": "ENYVIO PEN SC",
+    "generic": "vedolizumab",
+    "manufacturer": "Takeda",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "EntyvioConnect",
+      "phone": "1-855-368-9846",
+      "url": "https://www.entyvioconnectportal.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Brand appears to be a misspelling of 'Entyvio Pen SC'; same product/source as Entyvio Sc. Consider merging."
+  },
+  {
+    "brand": "EPCLUSA",
+    "generic": "sofosbuvir/velpatasvir",
+    "manufacturer": "Gilead Sciences",
+    "pharmacies": [
+      {
+        "name": "BioPlus Specialty Pharmacy",
+        "source_url": "https://drugstorenews.com/pharmacy/bioplus-now-dispensing-gileads-epclusa",
+        "source_type": "other",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "2016 trade article only; no Gilead access page describing a limited network found. Broad HCV specialty distribution; CVS on file is a PBM listing."
+  },
+  {
+    "brand": "EPIDIOLEX",
+    "generic": "cannabidiol oral solution",
+    "manufacturer": "Jazz Pharmaceuticals",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "JazzCares Nurse Navigator Program",
+      "phone": "1-888-278-9370",
+      "url": "https://www.epidiolexenroll.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Manufacturer brochure: prescription goes to 'the specialty pharmacy that works with your insurance'; no named pharmacies, no limited-network language. Amber/CVS on file unverified."
+  },
+  {
+    "brand": "EPOPROSTENOL",
+    "generic": "epoprostenol",
+    "manufacturer": null,
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://www.veletri.com/patient-FAQs.html",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://www.veletri.com/patient-FAQs.html",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Veletri (Actelion/Janssen) patient site: 'only carried by a specialty pharmacy' \u2014 Accredo 1-866-344-4874 and Caremark 1-877-242-2738 named; no exclusive wording. Applies to brand Veletri; generic epoprostenol/Flolan networks not separately verified."
+  },
+  {
+    "brand": "ERGOMAR",
+    "generic": "ergotamine tartrate sublingual tablets",
+    "manufacturer": "TerSera Therapeutics LLC",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Labeler confirmed via Medthority FDA listing; no distribution or specialty pharmacy information found."
+  },
+  {
+    "brand": "ERLOTINIB",
+    "generic": "erlotinib",
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Multi-source generic oral oncolytic; not an LDD product. Not searched."
+  },
+  {
+    "brand": "ERZOFRI",
+    "generic": "paliperidone palmitate extended-release injectable suspension",
+    "manufacturer": "Luye Pharma Group",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Luye press release: once-monthly injectable; no distribution or specialty pharmacy info. Long-acting injectable antipsychotics are typically provider-administered; buy_and_bill left null as not stated. Genoa Healthcare on file unverified."
+  },
+  {
+    "brand": "Esbriet",
+    "generic": "pirfenidone",
+    "manufacturer": "Genentech (US supply/distribution transferred to Legacy Pharma Inc. effective Nov 3, 2025)",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://accredo.com/prescribers/referral-forms/esbriet.pdf",
+        "source_type": "other",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": "Manufacturer page says Legacy Pharma took over US supply, distribution and sales of Esbriet on Nov 3, 2025 (contact 1-800-727-7151); Genentech no longer accepts orders. Network on file may be stale.",
+    "notes": "Genentech product-distribution page (https://www.gene.com/contact-us/customer-service/product-distribution) names no specialty pharmacies. Accredo referral form exists (not fetched). Generic pirfenidone widely available."
+  }
+]
