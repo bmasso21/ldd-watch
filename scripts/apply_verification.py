@@ -65,10 +65,14 @@ def apply_record(d, v, today):
         d["distribution_type"] = "exclusive"; changed.append("type=exclusive")
     elif mfr_excl and len(d["pharmacies"]) > 1 and d["distribution_type"] == "exclusive":
         d["distribution_type"] = "limited_network"; changed.append("type=limited_network")
-    if v.get("buy_and_bill") is True and not any(p.get("source_type") == "manufacturer" for p in (v.get("pharmacies") or [])):
-        if d["distribution_type"] != "open":
-            d["distribution_type"] = "open"; changed.append("type=open(buy-and-bill)")
-            d["pharmacies"] = []
+    if v.get("buy_and_bill") is True:
+        if not (v.get("pharmacies") or []):
+            # provider-administered, no specialty pharmacy named by any source -> not an SP LDD
+            if d["distribution_type"] != "open":
+                d["distribution_type"] = "open"; changed.append("type=open(buy-and-bill)")
+                d["pharmacies"] = []
+        else:
+            d["notes"] = ((d.get("notes") or "").rstrip() + " Provider-administered (buy-and-bill) but a specialty pharmacy is also named; kept as SP LDD.").strip()
     notes = []
     if v.get("conflict_note"):
         notes.append(f"CONFLICT: {v['conflict_note']}")

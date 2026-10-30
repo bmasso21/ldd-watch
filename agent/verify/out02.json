@@ -1,0 +1,1225 @@
+[
+ {
+  "brand": "BELEODAQ",
+  "generic": "belinostat",
+  "manufacturer": "Acrotech Biopharma",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": true,
+  "manufacturer_page_found": false,
+  "conflict_note": "CVS Specialty on file not verifiable; Beleodaq is an IV infusion given in oncology clinics/hospitals, so a specialty-pharmacy LDD listing is doubtful.",
+  "notes": "No manufacturer access/ordering page surfaced in search (only payer PA criteria and FDA label). Buy-and-bill classification is inferred from the IV route of administration, not from an explicit source statement. Manufacturer name taken from search-result listings (Acrotech Biopharma)."
+ },
+ {
+  "brand": "BENDEKA",
+  "generic": "bendamustine hydrochloride",
+  "manufacturer": "Teva Pharmaceuticals (licensed from Eagle Pharmaceuticals)",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": true,
+  "manufacturer_page_found": false,
+  "conflict_note": "CVS Specialty / Optum on file not supported by any source; Bendeka is a 10-minute IV infusion given at infusion sites (J-code product), so it is not a specialty-pharmacy LDD.",
+  "notes": "Teva press release (https://www.tevapharm.com/news-and-media/latest-news/teva-and-eagle-pharmaceuticals-announce-commercial-availability-of-bendeka-bendamustine-hydrochloride-/) says Teva handles all US distribution; names no pharmacies or hub. Buy-and-bill inferred from IV administration and CMS J-code."
+ },
+ {
+  "brand": "Benlysta",
+  "generic": "belimumab",
+  "manufacturer": "GSK",
+  "pharmacies": [
+   {
+    "name": "AcariaHealth",
+    "source_url": "https://www.benlystahcp.com/content/dam/brs-pharma-us/benlystahcp-v3/en_US/pdf/benlysta-ordering-guide.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Accredo Health Group",
+    "source_url": "https://www.benlystahcp.com/content/dam/brs-pharma-us/benlystahcp-v3/en_US/pdf/benlysta-ordering-guide.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "BioPlus Specialty Pharmacy",
+    "source_url": "https://www.benlystahcp.com/content/dam/brs-pharma-us/benlystahcp-v3/en_US/pdf/benlysta-ordering-guide.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "CenterWell Specialty Pharmacy",
+    "source_url": "https://www.benlystahcp.com/content/dam/brs-pharma-us/benlystahcp-v3/en_US/pdf/benlysta-ordering-guide.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "CVS Specialty",
+    "source_url": "https://www.benlystahcp.com/content/dam/brs-pharma-us/benlystahcp-v3/en_US/pdf/benlysta-ordering-guide.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Optum Specialty Pharmacy",
+    "source_url": "https://www.benlystahcp.com/content/dam/brs-pharma-us/benlystahcp-v3/en_US/pdf/benlysta-ordering-guide.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Walgreens Specialty Pharmacy",
+    "source_url": "https://www.benlystahcp.com/content/dam/brs-pharma-us/benlystahcp-v3/en_US/pdf/benlysta-ordering-guide.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": {
+   "name": null,
+   "phone": "1-877-423-6597",
+   "url": "https://www.benlystahcp.com"
+  },
+  "rems": null,
+  "buy_and_bill": null,
+  "manufacturer_page_found": true,
+  "conflict_note": "File lists only CVS Specialty and Optum; GSK ordering guide names 7 specialty pharmacies (adds AcariaHealth, Accredo, BioPlus, CenterWell, Walgreens Specialty). IV vials are additionally sold through specialty distributors (ASD, Besse, Cardinal, CuraScript, McKesson, Morris & Dickson, Oncology Supply, Metro-Medical) for office/infusion-center use.",
+  "notes": "GSK BENLYSTA Ordering Guide; pharmacy list sits under the Autoinjector heading; 'Access may vary based on patient benefit design' \u2014 no exclusive language. The IV formulation is also acquired by providers via distributors (buy-and-bill path), SC via specialty pharmacy. No named hub; info line 1-877-4-BENLYSTA."
+ },
+ {
+  "brand": "BENLYSTA SC",
+  "generic": "belimumab (subcutaneous autoinjector / prefilled syringe)",
+  "manufacturer": "GSK",
+  "pharmacies": [
+   {
+    "name": "AcariaHealth",
+    "source_url": "https://www.benlystahcp.com/content/dam/brs-pharma-us/benlystahcp-v3/en_US/pdf/benlysta-ordering-guide.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Accredo Health Group",
+    "source_url": "https://www.benlystahcp.com/content/dam/brs-pharma-us/benlystahcp-v3/en_US/pdf/benlysta-ordering-guide.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "BioPlus Specialty Pharmacy",
+    "source_url": "https://www.benlystahcp.com/content/dam/brs-pharma-us/benlystahcp-v3/en_US/pdf/benlysta-ordering-guide.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "CenterWell Specialty Pharmacy",
+    "source_url": "https://www.benlystahcp.com/content/dam/brs-pharma-us/benlystahcp-v3/en_US/pdf/benlysta-ordering-guide.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "CVS Specialty",
+    "source_url": "https://www.benlystahcp.com/content/dam/brs-pharma-us/benlystahcp-v3/en_US/pdf/benlysta-ordering-guide.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Optum Specialty Pharmacy",
+    "source_url": "https://www.benlystahcp.com/content/dam/brs-pharma-us/benlystahcp-v3/en_US/pdf/benlysta-ordering-guide.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Walgreens Specialty Pharmacy",
+    "source_url": "https://www.benlystahcp.com/content/dam/brs-pharma-us/benlystahcp-v3/en_US/pdf/benlysta-ordering-guide.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": {
+   "name": null,
+   "phone": "1-877-423-6597",
+   "url": "https://www.benlystahcp.com"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": "No pharmacies on file; GSK ordering guide lists 7 specialty pharmacies for the autoinjector.",
+  "notes": "Same GSK ordering guide as Benlysta IV. Open (not exclusive) network of 7 specialty pharmacies."
+ },
+ {
+  "brand": "Beovu",
+  "generic": "brolucizumab-dbll",
+  "manufacturer": "Novartis",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": true,
+  "manufacturer_page_found": false,
+  "conflict_note": "CVS Specialty / Optum on file not supported; Beovu is an intravitreal injection administered by retina specialists (medical benefit).",
+  "notes": "Only payer PA policies and labeling surfaced; no Novartis ordering page found. Buy-and-bill inferred from intravitreal physician administration."
+ },
+ {
+  "brand": "Berinert",
+  "generic": "C1 esterase inhibitor (human)",
+  "manufacturer": "CSL Behring",
+  "pharmacies": [
+   {
+    "name": "Orsini Specialty Pharmacy",
+    "source_url": "https://orsini.com/?p=892",
+    "source_type": "other",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": {
+   "name": "BERINERT Connect",
+   "phone": "1-877-236-4423",
+   "url": "https://berinert-review1.cslbehring.com/patients/support-resources"
+  },
+  "rems": null,
+  "buy_and_bill": null,
+  "manufacturer_page_found": true,
+  "conflict_note": "CSL page names no specialty pharmacies, so CVS Specialty and Optum on file could not be confirmed or refuted; Orsini confirmed via Orsini's own product page.",
+  "notes": "CSL Behring Berinert patient page (https://berinert-review1.cslbehring.com/patients/starting-berinert) shows BERINERT Connect but no pharmacy network or exclusivity language. Orsini product page: enrollment form, phone 800-356-4252, no network language."
+ },
+ {
+  "brand": "BESREMI SC",
+  "generic": "ropeginterferon alfa-2b-njft",
+  "manufacturer": "PharmaEssentia",
+  "pharmacies": [
+   {
+    "name": "Onco360",
+    "source_url": "https://www.iononline.com/-/media/assets/ion/pdf/industry-spotlights/121025-ss-besremi.html",
+    "source_type": "other",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Biologics by McKesson",
+    "source_url": "https://www.iononline.com/-/media/assets/ion/pdf/industry-spotlights/121025-ss-besremi.html",
+    "source_type": "other",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Biologics by McKesson",
+    "source_url": "https://biologics.mckesson.com/besremi-ropeginterferon-alfa-2b-njft-fda-approved-for-treatment-of-polycythemia-vera-available-at-biologics-by-mckesson/",
+    "source_type": "press_release",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": "No pharmacies on file; sources identify a limited network of Onco360 and Biologics by McKesson (plus eligible oncology GPO member pharmacies and authorized health-system pharmacies).",
+  "notes": "ION industry spotlight (sponsored by PharmaEssentia) describes 'limited drug distribution model' with 'limited specialty pharmacy network (Onco360 and Biologics)'. Biologics press release: 'selected by PharmaEssentia USA Corporation as a specialty pharmacy provider'; Biologics Rx phone 800.850.4306. Onco360 also lists Besremi on its LDD page (https://onco360.com/limited-distribution-oncology-medications/besremiropeginterferon-alfa-2b-njft-injection/). No manufacturer HCP page fetched."
+ },
+ {
+  "brand": "Betaine Anhydrous",
+  "generic": "betaine anhydrous for oral solution",
+  "manufacturer": null,
+  "pharmacies": [
+   {
+    "name": "Anovo (AnovoRx)",
+    "source_url": "https://www.recordatirarediseases.com/us/products",
+    "source_type": "manufacturer",
+    "exclusive_claimed": null
+   }
+  ],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": "Recordati (brand Cystadane) directs US orders to Anovo only; CVS Specialty on file not supported by the brand manufacturer page. Generic betaine anhydrous (Eton Pharmaceuticals) also exists and its channel was not verified.",
+  "notes": "Recordati Rare Diseases US products page: Cystadane orders via Anovo, tel 1-888-487-4703; no exclusivity language. Eton generic launch press release surfaced in search (tipranks) but was not fetched."
+ },
+ {
+  "brand": "Bethkis",
+  "generic": "tobramycin inhalation solution",
+  "manufacturer": "Chiesi USA, Inc.",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": null,
+  "notes": "No manufacturer access page or pharmacy press release found; only payer PA criteria and labeling surfaced. Manufacturer name from labeler listings in search results. Current six-pharmacy list could not be verified."
+ },
+ {
+  "brand": "BIVIGAM",
+  "generic": "immune globulin intravenous (human), 10%",
+  "manufacturer": "ADMA Biologics, Inc.",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": null,
+  "manufacturer_page_found": false,
+  "conflict_note": "CVS Specialty / Optum on file not supported by any source found.",
+  "notes": "BioCareSD press release (https://biocaresd.com/in-the-news/biocaresd-selected-primary-authorized-distributor-for-bivigam/) names BioCareSD as 'primary authorized national distributor' (a distributor, not a specialty pharmacy; not 'exclusive'). IVIG is typically infused in clinic or by home-infusion providers; no manufacturer ordering page fetched."
+ },
+ {
+  "brand": "BLINCYTO",
+  "generic": "blinatumomab",
+  "manufacturer": "Amgen",
+  "pharmacies": [],
+  "hub_program": {
+   "name": "Amgen SupportPlus",
+   "phone": "866-264-2778",
+   "url": "https://www.amgensupportplus.com/hcp/blincyto"
+  },
+  "rems": null,
+  "buy_and_bill": true,
+  "manufacturer_page_found": true,
+  "conflict_note": "CVS Specialty / Optum on file not supported; Amgen page names no specialty pharmacies. Blincyto is a continuous IV infusion initiated inpatient.",
+  "notes": "Amgen SupportPlus Blincyto HCP page does not state the acquisition model; buy-and-bill classification inferred from the continuous-IV, hospital-initiated administration."
+ },
+ {
+  "brand": "bosentan",
+  "generic": "bosentan",
+  "manufacturer": null,
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": true,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": null,
+  "notes": "Generic of Tracleer. FDA REMS document for generic bosentan (https://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/209279Orig1s000REMS.pdf) confirms a REMS; dispensing is restricted to REMS-certified pharmacies but no pharmacy names were found. Teva launch press release surfaced; multiple generic labelers exist so manufacturer left null."
+ },
+ {
+  "brand": "BRINEURA",
+  "generic": "cerliponase alfa",
+  "manufacturer": "BioMarin Pharmaceutical Inc.",
+  "pharmacies": [
+   {
+    "name": "Orsini Specialty Pharmacy",
+    "source_url": "https://www.orsini.com/brineura-cerliponase-alfa/",
+    "source_type": "other",
+    "exclusive_claimed": null
+   }
+  ],
+  "hub_program": {
+   "name": "BioMarin RareConnections",
+   "phone": "1-866-906-6100",
+   "url": "https://www.biomarin-rareconnections.com/hcp/brineura/brineura-enroll/"
+  },
+  "rems": null,
+  "buy_and_bill": true,
+  "manufacturer_page_found": true,
+  "conflict_note": "BioMarin HCP page names no specialty pharmacy; Orsini on file is supported only by Orsini's own product page (not fetched, surfaced in search).",
+  "notes": "BioMarin HCP page (https://hcp.biomarin.com/en-us/brineura/?p=32): intraventricular infusion initiated in a healthcare setting under HCP supervision; no distribution language. Provider-administered, so not a classic specialty-pharmacy LDD even though Orsini carries it."
+ },
+ {
+  "brand": "Brinsupri",
+  "generic": "brensocatib",
+  "manufacturer": "Insmed",
+  "pharmacies": [
+   {
+    "name": "Amber Specialty Pharmacy",
+    "source_url": "https://www.businesswire.com/news/home/20250813362324/en/Amber-Specialty-Pharmacy-Begins-Dispensing-Newly-Approved-BRINSUPRI%E2%84%A2-brensocatib-for-Non-Cystic-Fibrosisbronchiectasis-NCFB",
+    "source_type": "press_release",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": "PANTHERx Rare and Maxor Specialty on file could not be verified (no press release or manufacturer page found naming them).",
+  "notes": "Amber press release (Aug 13 2025): 'now dispensing', nationwide, no exclusivity; provider referral 888-370-1724. No Insmed HCP distribution page surfaced; search budget ran out before further checks."
+ },
+ {
+  "brand": "BRIUMVI",
+  "generic": "ublituximab-xiiy",
+  "manufacturer": "TG Therapeutics",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": true,
+  "manufacturer_page_found": false,
+  "conflict_note": "CVS Specialty / Optum on file not supported; Briumvi is an IV infusion given at infusion centers (search surfaced only infusion-center order forms: Option Care Health, Paragon Healthcare, Vivo Infusion, Optum Flex Care).",
+  "notes": "No TG Therapeutics ordering page found. Buy-and-bill inferred from IV infusion-center administration and permanent J-code."
+ },
+ {
+  "brand": "Brixadi",
+  "generic": "buprenorphine extended-release injection (CIII)",
+  "manufacturer": "Braeburn Inc.",
+  "pharmacies": [
+   {
+    "name": "AcariaHealth Specialty Pharmacy",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Accredo Health Group",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Advantage Health Care Services",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Albertsons Companies Inc.",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Altruix (Annapolis, formerly Terrapin Pharmacy)",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Altruix (Trevose, formerly Bank's Apothecary)",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Cornerstone Health Solutions",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "CVS Specialty",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Genoa Healthcare",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Ivira",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Matrix VIP",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Optum Specialty Pharmacy",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Parkview Health Services",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Price Chopper",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Prime Therapeutics Pharmacy",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Restore Rx",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "St. Matthews Specialty Pharmacy",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Value Specialty Pharmacy",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Walgreens Specialty Pharmacy",
+    "source_url": "https://brixadi.com/pdfs/network-specialty-pharmacy-contact-information-patient.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": null,
+  "rems": true,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": "File lists AllianceRx Walgreens Pharmacy, CVS Specialty, Genoa Healthcare. Braeburn's list (as of 6/12/2026) names 19 REMS-certified specialty pharmacies; Walgreens appears as 'Walgreens Specialty Pharmacy' (not AllianceRx). Adds 16 pharmacies.",
+  "notes": "Braeburn 'REMS-certified Specialty Pharmacies in Braeburn's Limited Distribution Network for BRIXADI' PDF; limited-network language, no single exclusive. Administered by HCP after SP ships to the clinic (also Brixadi finder lists administering pharmacies)."
+ },
+ {
+  "brand": "Bronchitol",
+  "generic": "mannitol inhalation powder",
+  "manufacturer": "Chiesi USA, Inc. (exclusive US distributor; developed by Pharmaxis Ltd.)",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": null,
+  "notes": "Chiesi FDA-approval press release (https://www.chiesi.com/en/chiesi-usa-inc-announces-fda-approval-of-bronchitol-mannitol-inhalation-powder/) names no specialty pharmacies or hub. Six-pharmacy list on file unverified."
+ },
+ {
+  "brand": "Buphenyl",
+  "generic": "sodium phenylbutyrate",
+  "manufacturer": "Horizon Therapeutics USA, Inc. (now Amgen)",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": null,
+  "notes": "Only payer policies and labeling surfaced; no manufacturer network page found. Manufacturer from labeler listing in search results."
+ },
+ {
+  "brand": "Bylvay",
+  "generic": "odevixibat",
+  "manufacturer": "Ipsen (acquired Albireo Pharma)",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": null,
+  "notes": "Search returned only EMA/TGA/approval news; no US distribution page found before search budget was exhausted. Accredo/Optum/PANTHERx on file unverified."
+ },
+ {
+  "brand": "BYOOVIZ",
+  "generic": "ranibizumab-nuna",
+  "manufacturer": "Samsung Bioepis (US commercialization: Biogen at launch; Harrow partnership announced 2025)",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": true,
+  "manufacturer_page_found": false,
+  "conflict_note": "CVS Specialty on file not supported; Byooviz is an intravitreal injection sold 'through major U.S. distributors' for physician administration.",
+  "notes": "Biogen/Samsung Bioepis launch release (https://www.biospace.com/biogen-and-samsung-bioepis-byooviz-ranibizumab-nuna-launches-in-the-united-states): sold via major distributors from July 1 2022; no pharmacies or hub named. Buy-and-bill inferred from intravitreal route and distributor channel."
+ },
+ {
+  "brand": "CABENUVA",
+  "generic": "cabotegravir / rilpivirine extended-release injectable suspension",
+  "manufacturer": "ViiV Healthcare",
+  "pharmacies": [],
+  "hub_program": {
+   "name": "ViiVConnect",
+   "phone": null,
+   "url": "https://www.viivconnect.com/"
+  },
+  "rems": null,
+  "buy_and_bill": null,
+  "manufacturer_page_found": true,
+  "conflict_note": "ViiV page names no specialty pharmacies ('Insurance may dictate which SP can fill the Rx'); CVS Specialty on file not confirmed.",
+  "notes": "cabenuvahcp.com Access & Acquisition page: payer-determined pathway \u2014 specialty pharmacy (pharmacy benefit) OR buy-and-bill via specialty distributor (medical benefit), so it is a dual-channel HCP-administered product rather than a pure SP LDD. The Access and Reimbursement Guide PDF that lists participating SPs/distributors (viivconnect.com) was blocked from fetching."
+ },
+ {
+  "brand": "Cablivi",
+  "generic": "caplacizumab-yhdp",
+  "manufacturer": "Sanofi (Genzyme)",
+  "pharmacies": [
+   {
+    "name": "Biologics by McKesson",
+    "source_url": "https://pro.campus.sanofi/us/products/cablivi/ordering-cablivi",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Biologics by McKesson",
+    "source_url": "https://drugstorenews.com/pharmacy/biologics-by-mckesson-to-exclusively-distribute-cablivi",
+    "source_type": "other",
+    "exclusive_claimed": true
+   }
+  ],
+  "hub_program": {
+   "name": "HemAssist Sanofi Support",
+   "phone": "1-833-723-5463",
+   "url": null
+  },
+  "rems": null,
+  "buy_and_bill": null,
+  "manufacturer_page_found": true,
+  "conflict_note": "Matches file (Biologics exclusive). Note the inpatient course is acquired by hospitals through authorized specialty distributors (Cardinal SPD 1-855-855-0708, ASD Healthcare 1-800-746-6273, McKesson SD 1-877-625-2566, BioCare SD 1-800-304-3064); Biologics handles post-discharge home delivery.",
+  "notes": "Sanofi ordering page describes hospital stocking/consignment via distributors plus Biologics for outpatient; Drug Store News reports Sanofi Genzyme named Biologics 'exclusive specialty pharmacy provider'. Mixed model: inpatient hospital acquisition + exclusive outpatient SP."
+ },
+ {
+  "brand": "Cabometyx",
+  "generic": "cabozantinib (tablets)",
+  "manufacturer": "Exelixis",
+  "pharmacies": [
+   {
+    "name": "Biologics by McKesson",
+    "source_url": "https://www.biospace.com/cabometyx-cabozantinib-tablets-approved-for-advanced-renal-cell-carcinoma-available-at-biologics",
+    "source_type": "press_release",
+    "exclusive_claimed": null
+   }
+  ],
+  "hub_program": {
+   "name": "Exelixis Access Services (EASE)",
+   "phone": "1-844-900-3273",
+   "url": "https://www.ease.us/"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": "EASE page names no pharmacies; CVS Specialty/Optum on file could not be confirmed. Biologics confirmed only by a 2016 launch press release (not fetched; title states 'Available At BioLogics').",
+  "notes": "cabometyxhcp.com/exelixis-access-services redirects to ease.us; no exclusive/limited language."
+ },
+ {
+  "brand": "Camcevi",
+  "generic": "leuprolide injectable emulsion",
+  "manufacturer": "Accord BioPharma (US specialty division of Intas; developed by Foresee Pharmaceuticals)",
+  "pharmacies": [
+   {
+    "name": "Biologics by McKesson",
+    "source_url": "https://www.mckesson.com/about-us/newsroom/press-releases/2024/camcevi-fda-approved-for-treatment-of-advanced-prostate-cancer/",
+    "source_type": "press_release",
+    "exclusive_claimed": true
+   }
+  ],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": null,
+  "manufacturer_page_found": false,
+  "conflict_note": "Matches file (Biologics exclusive).",
+  "notes": "McKesson press release: Accord BioPharma selected Biologics as 'exclusive specialty pharmacy provider'. Camcevi is an HCP-administered SC depot; it may also be acquired buy-and-bill but the release does not say."
+ },
+ {
+  "brand": "Camzyos",
+  "generic": "mavacamten",
+  "manufacturer": "Bristol Myers Squibb",
+  "pharmacies": [],
+  "hub_program": {
+   "name": "MyCAMZYOS Patient Support",
+   "phone": null,
+   "url": "https://www.camzyos.com/support/mycamzyos-patient-support-sign-up/overview"
+  },
+  "rems": true,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": "BMS REMS page says Camzyos is 'only dispensed through REMS-certified specialty pharmacies' but names none; Accredo/CVS/Optum/Walgreens on file could not be confirmed from the page.",
+  "notes": "camzyos.com/taking-camzyos/camzyos-rems. REMS questions: CAMZYOSREMS.com, 833-628-7367. Restricted (REMS-certified SPs only) but no single exclusive pharmacy."
+ },
+ {
+  "brand": "capecitabine",
+  "generic": "capecitabine",
+  "manufacturer": null,
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": "Generic oral chemotherapy widely available; a limited-network designation (CVS Specialty, Lumicera) is a payer channel choice, not a manufacturer LDD.",
+  "notes": "Not searched \u2014 shared search budget exhausted before this entry; multi-source generic with no single manufacturer network."
+ },
+ {
+  "brand": "Caprelsa",
+  "generic": "vandetanib",
+  "manufacturer": "Genzyme Corporation (Sanofi)",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": false,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": "Biologics exclusive on file not verified (no current manufacturer page found).",
+  "notes": "FDA press announcement (https://www.fda.gov/news-events/press-announcements/fda-removes-risk-evaluation-and-mitigation-strategies-rems-caprelsa-vandetanib) confirms the Caprelsa REMS was removed."
+ },
+ {
+  "brand": "Carbaglu",
+  "generic": "carglumic acid",
+  "manufacturer": "Recordati Rare Diseases",
+  "pharmacies": [
+   {
+    "name": "Accredo",
+    "source_url": "https://www.recordatirarediseases.com/us/products",
+    "source_type": "manufacturer",
+    "exclusive_claimed": null
+   }
+  ],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": "Matches file (Accredo).",
+  "notes": "Recordati US products page directs Carbaglu US orders to Accredo, tel 1-888-454-8860; no exclusive language, no hub listed."
+ },
+ {
+  "brand": "Carglumic Acid",
+  "generic": "carglumic acid (generic Carbaglu)",
+  "manufacturer": "Eton Pharmaceuticals (marketer; ANDA held by Novitium/ANI) \u2014 other generic labelers may exist",
+  "pharmacies": [
+   {
+    "name": "Anovo (AnovoRx)",
+    "source_url": "https://m.gurufocus.com/news/1599982/",
+    "source_type": "press_release",
+    "exclusive_claimed": true
+   }
+  ],
+  "hub_program": {
+   "name": "Eton Cares Program (administered by Anovo)",
+   "phone": "1-888-991-1330",
+   "url": "https://www.carglumicacid.com"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": "Eton's generic is 'available exclusively through Anovo specialty pharmacy' (Dec 2021); Accredo and CVS Specialty on file are not supported for the Eton product (Accredo is the brand Carbaglu channel). Other generic manufacturers' channels not verified.",
+  "notes": "Eton press release via GuruFocus; phone 1-888-991-1330 is the Anovo fulfillment line."
+ },
+ {
+  "brand": "CARVYKTI",
+  "generic": "ciltacabtagene autoleucel",
+  "manufacturer": "Janssen Biotech, Inc. (Johnson & Johnson) / Legend Biotech",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": true,
+  "manufacturer_page_found": true,
+  "conflict_note": "File's 'Hospital Access Only' is consistent: carvyktihcp.com states 'Activated Treatment Centers are the only institutions authorized to prescribe and administer CARVYKTI'. Not a specialty-pharmacy product.",
+  "notes": "CAR-T cell therapy, 140+ Activated Treatment Centers (https://www.carvyktihcp.com/treatment-centers/). Page references a Patient Support Program without name/phone."
+ },
+ {
+  "brand": "CASGEVY",
+  "generic": "exagamglogene autotemcel",
+  "manufacturer": "Vertex Pharmaceuticals",
+  "pharmacies": [
+   {
+    "name": "Orsini Specialty Pharmacy",
+    "source_url": "https://www.orsini.com/?p=1352",
+    "source_type": "press_release",
+    "exclusive_claimed": null
+   }
+  ],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": true,
+  "manufacturer_page_found": false,
+  "conflict_note": "Orsini confirmed ('chosen by Vertex Pharmaceuticals Incorporated to dispense'), exclusivity not stated.",
+  "notes": "Gene-editing therapy administered at authorized treatment centers (hospital setting); Orsini acts as dispensing pharmacy of record. Also reported at americanpharmaceuticalreview.com (Orsini to Distribute Vertex's CASGEVY)."
+ },
+ {
+  "brand": "Cayston",
+  "generic": "aztreonam for inhalation solution",
+  "manufacturer": "Gilead Sciences, Inc.",
+  "pharmacies": [],
+  "hub_program": {
+   "name": "Cayston Access Program",
+   "phone": "1-877-722-9786",
+   "url": null
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": null,
+  "notes": "Only a 2012 Gilead supply notice (via esiason.org) surfaced; it names the Cayston Access Program (1-877-7CAYSTON) and says the drug is not available via hospital settings, but names no specialty pharmacies. Six-pharmacy list on file unverified; details may be outdated."
+ },
+ {
+  "brand": "CEPROTIN",
+  "generic": "protein C concentrate (human)",
+  "manufacturer": null,
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": null,
+  "manufacturer_page_found": false,
+  "conflict_note": "CVS Specialty on file unverified.",
+  "notes": "Search returned only labeling, payer policies and NDC listings; no manufacturer ordering page or pharmacy press release found. Manufacturer not confirmed from a fetched page (left null)."
+ },
+ {
+  "brand": "Cerdelga",
+  "generic": "eliglustat",
+  "manufacturer": "Sanofi (Genzyme)",
+  "pharmacies": [],
+  "hub_program": {
+   "name": "CareConnect Personalized Support Services (CareConnectPSS)",
+   "phone": "1-800-745-4447 (option 3)",
+   "url": "https://www.careconnectpss.com"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": "Sanofi page names no specialty pharmacies; CVS/Optum/Orsini on file could not be confirmed.",
+  "notes": "pro.campus.sanofi Cerdelga CareConnect page; no exclusive/limited language."
+ },
+ {
+  "brand": "Cerezyme",
+  "generic": "imiglucerase",
+  "manufacturer": "Sanofi (Genzyme)",
+  "pharmacies": [],
+  "hub_program": {
+   "name": "CareConnect Personalized Support Services (CareConnectPSS)",
+   "phone": "1-800-745-4447 (option 3)",
+   "url": "https://www.careconnectpss.com"
+  },
+  "rems": null,
+  "buy_and_bill": null,
+  "manufacturer_page_found": true,
+  "conflict_note": "Sanofi page names no specialty pharmacies or infusion providers; CVS/Optum/Orsini on file unconfirmed.",
+  "notes": "IV enzyme replacement infused in clinic or at home; Sanofi page does not state the acquisition model."
+ },
+ {
+  "brand": "Chenodal",
+  "generic": "chenodiol",
+  "manufacturer": "Mirum Pharmaceuticals",
+  "pharmacies": [],
+  "hub_program": {
+   "name": "Mirum Access Plus (MAP)",
+   "phone": "855-676-4968",
+   "url": "https://mirumaccessplus.com/"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": "Eversana on file not confirmed by any fetched source.",
+  "notes": "Mirum acquired Chenodal/Cholbam from Travere (2023). MAP phone taken from Mirum's Ctexli press release and URL from cholbam.com; no pharmacy named for Chenodal."
+ },
+ {
+  "brand": "Cholbam",
+  "generic": "cholic acid",
+  "manufacturer": "Mirum Pharmaceuticals",
+  "pharmacies": [],
+  "hub_program": {
+   "name": "Mirum Access Plus (MAP)",
+   "phone": "855-676-4968",
+   "url": "https://mirumaccessplus.com/"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": "Eversana on file not confirmed; cholbam.com Mirum Access Plus page names no pharmacy.",
+  "notes": "https://cholbam.com/?p=2177 (Mirum Access Plus). Phone on that page (1-855-MRM-4YOU) is listed for adverse-event reporting; same number is given as the MAP line in Mirum's Ctexli release."
+ },
+ {
+  "brand": "CIBINQO",
+  "generic": "abrocitinib",
+  "manufacturer": "Pfizer",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": "CVS Specialty on file unverified; search results (MedFinder stock-finder articles, payer PA policies) suggest broad pharmacy availability rather than a manufacturer LDD.",
+  "notes": "Pfizer HCP FAQ page surfaced but returned an error title; not fetched."
+ },
+ {
+  "brand": "CINQAIR",
+  "generic": "reslizumab",
+  "manufacturer": "Teva",
+  "pharmacies": [
+   {
+    "name": "Amber Specialty Pharmacy",
+    "source_url": "https://www.amberpharmacy.com/wp-content/uploads/2021/04/Cinqair-Prescription-Form.pdf",
+    "source_type": "other",
+    "exclusive_claimed": null
+   }
+  ],
+  "hub_program": {
+   "name": "Teva Support Solutions",
+   "phone": "1-844-838-2211",
+   "url": "https://tevasupportsolutionspp.tevapharm.com/hcp/acquiring"
+  },
+  "rems": null,
+  "buy_and_bill": null,
+  "manufacturer_page_found": true,
+  "conflict_note": "Teva page names no pharmacies; CVS/Optum on file unconfirmed. Amber Specialty Pharmacy has a Cinqair prescription form (new).",
+  "notes": "Teva Support Solutions acquiring page: primary path is Buy & Bill through Authorized Specialty Distributors ('the exclusive suppliers of CINQAIR'); specialty-pharmacy path available subject to health-plan requirements with TSS referring the Rx. IV infusion administered by HCP \u2014 dual channel, predominantly buy-and-bill."
+ },
+ {
+  "brand": "Cinryze",
+  "generic": "C1 esterase inhibitor (human)",
+  "manufacturer": "Takeda Pharmaceuticals U.S.A., Inc.",
+  "pharmacies": [
+   {
+    "name": "Orsini Specialty Pharmacy",
+    "source_url": "https://www.orsini.com/?p=896",
+    "source_type": "other",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Option Care Health",
+    "source_url": "https://optioncarehealth.com/wp-content/uploads/C1-Esterase-Inhibitor-Human-Cinryze-v7.0-wCover.pdf",
+    "source_type": "other",
+    "exclusive_claimed": null
+   }
+  ],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": null,
+  "manufacturer_page_found": false,
+  "conflict_note": "Orsini and Option Care on file supported by their own pages; Accredo/CVS/Optum unconfirmed.",
+  "notes": "No Takeda ordering page fetched before search budget ran out. Orsini page: Takeda manufacturer, phone 800-356-4252, no network language."
+ },
+ {
+  "brand": "Coagadex",
+  "generic": "coagulation factor X (human)",
+  "manufacturer": "Bio Products Laboratory (BPL); US commercialization by Kedrion Biopharma",
+  "pharmacies": [
+   {
+    "name": "PromptCare",
+    "source_url": "https://www.einpresswire.com/article/685778305/kedrion-selects-promptcare-to-dispense-coagadex-for-treatment-of-factor-x-deficiency",
+    "source_type": "press_release",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Soleo Health",
+    "source_url": "https://www.soleohealth.com/blog/soleo-health-selected-by-bio-products-laboratory-bpl-to-dispense-coagadex/",
+    "source_type": "press_release",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": null,
+  "manufacturer_page_found": false,
+  "conflict_note": "Soleo on file confirmed (BPL selected, 2015); PromptCare is new (Kedrion selected, 'limited-distribution therapy'). AcariaHealth/Accredo/CVS/Option Care/Optum unconfirmed.",
+  "notes": "BioCareSD also named as distributor (biocaresd.com, not fetched)."
+ },
+ {
+  "brand": "Columvi",
+  "generic": "glofitamab-gxbm",
+  "manufacturer": "Genentech, Inc.",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": true,
+  "manufacturer_page_found": false,
+  "conflict_note": "AllianceRx Walgreens / CVS / Optum on file not supported; Columvi is an IV bispecific given in clinic/hospital with J-code J9286 and infusion CPT codes.",
+  "notes": "buyandbill.com J9286 page (other) lists Part B payment limits and office/hospital-outpatient settings; Genentech billing guide at genentech-access.com. Not a specialty-pharmacy LDD."
+ },
+ {
+  "brand": "Cometriq",
+  "generic": "cabozantinib (capsules)",
+  "manufacturer": "Exelixis",
+  "pharmacies": [
+   {
+    "name": "Diplomat Specialty Pharmacy (now part of Optum Specialty Pharmacy)",
+    "source_url": "https://ir.exelixis.com/news-releases/news-release-details/exelixis-announces-cometriqtm-cabozantinib-now-available-us",
+    "source_type": "press_release",
+    "exclusive_claimed": true
+   }
+  ],
+  "hub_program": {
+   "name": "Exelixis Access Services (EASE)",
+   "phone": "1-844-900-3273",
+   "url": "https://www.ease.us/"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": "2013 Exelixis release: 'distributed exclusively through Diplomat Specialty Pharmacy' \u2014 historical; Diplomat was acquired by Optum, consistent with Optum on file. Accredo/CVS on file unconfirmed.",
+  "notes": "EASE current phone from ease.us (1-844-900-3273); the 2013 release listed 1-855-253-3273."
+ },
+ {
+  "brand": "Copiktra",
+  "generic": "duvelisib",
+  "manufacturer": "Secura Bio (acquired from Verastem Oncology)",
+  "pharmacies": [
+   {
+    "name": "Biologics by McKesson",
+    "source_url": "https://biologics.mckesson.com/?p=623",
+    "source_type": "press_release",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "US Bioservices",
+    "source_url": "https://www.biospace.com/us-bioservices-selected-by-verastem-oncology-to-dispense-copiktra-duvelisib-capsules",
+    "source_type": "press_release",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": "Biologics on file confirmed (2018, 'limited distribution network'); US Bioservices is new ('only available from select specialty pharmacies'). CVS/Onco360/Optum unconfirmed.",
+  "notes": "Both releases predate Secura Bio's acquisition; current Secura network not verified. Secura Care co-pay program referenced in search results (prescriberpoint), not fetched."
+ },
+ {
+  "brand": "CORIFACT",
+  "generic": "factor XIII concentrate (human)",
+  "manufacturer": "CSL Behring",
+  "pharmacies": [
+   {
+    "name": "BioRx (since acquired by Diplomat/Optum)",
+    "source_url": "https://pharmacytimes.com/view/biorx-receives-limited-distribution-rights-to-corifact-for-the-treatment-of-congenital-factor-xiii-deficiency",
+    "source_type": "other",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": null,
+  "manufacturer_page_found": false,
+  "conflict_note": "2012 article: Corifact 'only available through two specialty pharmacy providers' before BioRx was added to the limited distribution network (names not given). CVS/Optum on file unconfirmed.",
+  "notes": "Historical source (July 2012); no current CSL Behring ordering page found."
+ },
+ {
+  "brand": "Corlanor (Oral Solution Only)",
+  "generic": "ivabradine oral solution",
+  "manufacturer": "Amgen",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": "Optum on file unverified.",
+  "notes": "Only Amgen prescribing information and labeling surfaced; no distribution page found."
+ },
+ {
+  "brand": "CORTROPHIN",
+  "generic": "repository corticotropin injection (Purified Cortrophin Gel)",
+  "manufacturer": "ANI Pharmaceuticals",
+  "pharmacies": [
+   {
+    "name": "AllianceRx Walgreens Prime (now Walgreens Specialty)",
+    "source_url": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/21/cortrophin-gel-ms-now-available-us-alliancerx-walgreens-prime",
+    "source_type": "other",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "AcariaHealth",
+    "source_url": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/21/cortrophin-gel-ms-now-available-us-alliancerx-walgreens-prime",
+    "source_type": "other",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Accredo",
+    "source_url": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/21/cortrophin-gel-ms-now-available-us-alliancerx-walgreens-prime",
+    "source_type": "other",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Humana Specialty Pharmacy (CenterWell)",
+    "source_url": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/21/cortrophin-gel-ms-now-available-us-alliancerx-walgreens-prime",
+    "source_type": "other",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Optum Specialty Pharmacy",
+    "source_url": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/21/cortrophin-gel-ms-now-available-us-alliancerx-walgreens-prime",
+    "source_type": "other",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": {
+   "name": "Cortrophin In Your Corner",
+   "phone": "1-800-805-5258",
+   "url": "https://www.cortrophin.com"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": "Duplicate of 'Cortrophin Gel' entry; file lists only CVS Specialty here, which no source names.",
+  "notes": "ANI launch press release (BusinessWire, Jan 2022): 'available through a network of specialty pharmacies and distributors', none named. MS News Today (Dec 2021) lists five pharmacies per the Cortrophin website."
+ },
+ {
+  "brand": "Cortrophin Gel",
+  "generic": "repository corticotropin injection",
+  "manufacturer": "ANI Pharmaceuticals",
+  "pharmacies": [
+   {
+    "name": "AllianceRx Walgreens Prime (now Walgreens Specialty)",
+    "source_url": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/21/cortrophin-gel-ms-now-available-us-alliancerx-walgreens-prime",
+    "source_type": "other",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "AcariaHealth",
+    "source_url": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/21/cortrophin-gel-ms-now-available-us-alliancerx-walgreens-prime",
+    "source_type": "other",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Accredo",
+    "source_url": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/21/cortrophin-gel-ms-now-available-us-alliancerx-walgreens-prime",
+    "source_type": "other",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Humana Specialty Pharmacy (CenterWell)",
+    "source_url": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/21/cortrophin-gel-ms-now-available-us-alliancerx-walgreens-prime",
+    "source_type": "other",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Optum Specialty Pharmacy",
+    "source_url": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/21/cortrophin-gel-ms-now-available-us-alliancerx-walgreens-prime",
+    "source_type": "other",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": {
+   "name": "Cortrophin In Your Corner",
+   "phone": "1-800-805-5258",
+   "url": "https://www.cortrophin.com"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": "File list largely consistent (AcariaHealth, Accredo, AllianceRx Walgreens, Optum, Walgreens Specialty); CVS Specialty on file not named by sources; Humana/CenterWell Specialty is new.",
+  "notes": "ANI press release https://www.businesswire.com/news/home/20220124005040/en/ (press_release) \u2014 hub details from there. Sources are from 2021-2022; ANI is an open network, not exclusive."
+ },
+ {
+  "brand": "COSENTYX",
+  "generic": "secukinumab",
+  "manufacturer": "Novartis",
+  "pharmacies": [],
+  "hub_program": {
+   "name": "Novartis Patient Support",
+   "phone": "844-267-3689",
+   "url": "https://support.cosentyx.com/"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": "Novartis page names no specialty pharmacies and has no limited-network language; CVS Specialty-only listing on file reflects payer channel, not a manufacturer LDD.",
+  "notes": "https://cosentyx.com/how-to-get-cosentyx. Widely distributed biologic; IV formulation also exists for in-office infusion."
+ },
+ {
+  "brand": "COSENTYX UNOREADY",
+  "generic": "secukinumab 300 mg/2 mL UnoReady pen",
+  "manufacturer": "Novartis",
+  "pharmacies": [],
+  "hub_program": {
+   "name": "Novartis Patient Support",
+   "phone": "844-267-3689",
+   "url": "https://support.cosentyx.com/"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": null,
+  "notes": "Same Novartis page as Cosentyx; no pharmacy network restrictions shown."
+ },
+ {
+  "brand": "Crenessity",
+  "generic": "crinecerfont",
+  "manufacturer": "Neurocrine Biosciences, Inc.",
+  "pharmacies": [
+   {
+    "name": "PANTHERx Rare",
+    "source_url": "https://crenessity.neurocrineaccesssupport.com/hcp/pharmacy/",
+    "source_type": "manufacturer",
+    "exclusive_claimed": true
+   }
+  ],
+  "hub_program": {
+   "name": "Neurocrine Access Support",
+   "phone": "1-855-276-7489",
+   "url": "https://crenessity.neurocrineaccesssupport.com/hcp/"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": "Matches file; manufacturer page: 'PANTHERx is the exclusive specialty pharmacy that distributes CRENESSITY' (NPI 1750843314, fax 1-855-606-7288). Current_type should be 'exclusive' rather than 'limited_network'.",
+  "notes": "Also confirmed by PANTHERx selection press release (bradfordera.com, Dec 2024)."
+ },
+ {
+  "brand": "CRYSVITA",
+  "generic": "burosumab-twza",
+  "manufacturer": "Kyowa Kirin North America",
+  "pharmacies": [
+   {
+    "name": "Orsini Specialty Pharmacy",
+    "source_url": "https://www.orsini.com/crysvita-burosumab-twza/",
+    "source_type": "other",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": null,
+  "manufacturer_page_found": false,
+  "conflict_note": "Orsini confirmed via its product page (site of care: home or healthcare facility); CVS Specialty on file unconfirmed. No Kyowa Kirin ordering page found.",
+  "notes": "Orsini page: phone 800-240-7614, enrollment form filename references 'Kyowa Kirin Cares' but program name/phone not shown as such, so hub left null. SC injection that can be HCP-administered or dispensed by SP."
+ },
+ {
+  "brand": "Ctexli",
+  "generic": "chenodiol tablets",
+  "manufacturer": "Mirum Pharmaceuticals",
+  "pharmacies": [],
+  "hub_program": {
+   "name": "Mirum Access Plus (MAP)",
+   "phone": "855-676-4968",
+   "url": "https://www.ctexli.com"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": "Eversana on file not confirmed by Mirum's approval release (names no pharmacy).",
+  "notes": "Mirum FDA-approval release https://www.businesswire.com/news/home/20250224442704/en (press_release)."
+ },
+ {
+  "brand": "Cutaquig",
+  "generic": "immune globulin subcutaneous (human)-hipp 16.5%",
+  "manufacturer": "Octapharma",
+  "pharmacies": [
+   {
+    "name": "BioMatrix Specialty Pharmacy",
+    "source_url": "https://www.biospace.com/biomatrix-specialty-pharmacy-selected-as-authorized-provider-of-cutaquig",
+    "source_type": "press_release",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": null,
+  "manufacturer_page_found": false,
+  "conflict_note": "BioMatrix new ('limited distribution drug', Octapharma network, Jan 2020); CVS/Optum on file unconfirmed.",
+  "notes": "No Octapharma ordering page fetched."
+ },
+ {
+  "brand": "Cuvitru",
+  "generic": "immune globulin subcutaneous (human) 20%",
+  "manufacturer": "Takeda",
+  "pharmacies": [
+   {
+    "name": "Soleo Health",
+    "source_url": "https://www.soleohealth.com/news/soleo-health-one-of-a-select-few-specialty-pharmacies-chosen-to-provide-cuvitru-to-patients/",
+    "source_type": "press_release",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Vital Care Infusion Services",
+    "source_url": "https://vitalcare.com/?p=2350",
+    "source_type": "press_release",
+    "exclusive_claimed": null
+   }
+  ],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": null,
+  "manufacturer_page_found": false,
+  "conflict_note": "Soleo ('one of a select few specialty pharmacies', Aug 2022) and Vital Care (title only; not fetched) are new; the nine pharmacies on file were not confirmed by a manufacturer page.",
+  "notes": "SCIG self-administered at home via specialty/home-infusion pharmacies. No Takeda ordering page fetched."
+ },
+ {
+  "brand": "Cuvrior",
+  "generic": "trientine tetrahydrochloride",
+  "manufacturer": "Orphalan",
+  "pharmacies": [
+   {
+    "name": "PANTHERx Rare",
+    "source_url": "https://jotup.co/node/2358396",
+    "source_type": "press_release",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": "PANTHERx on file confirmed (PANTHERx launch release, Apr 2023), but exclusivity not claimed; Orphalan launch release says only 'our distribution partners'.",
+  "notes": "Orphalan US launch release: https://www.pharmafocuseurope.com/pressreleases/orphalan-announces-us-commercial-launch-of-cuvrior-for-the-treatment (press_release); Orphalan AE line 1-800-961-8320."
+ }
+]
