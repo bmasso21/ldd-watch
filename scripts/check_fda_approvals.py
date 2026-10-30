@@ -48,9 +48,18 @@ def query_new_approvals(days: int) -> list[dict]:
         if e.code == 404:  # openFDA returns 404 for "no matches"
             return []
         raise
+    lo, hi = f"{start:%Y%m%d}", f"{end:%Y%m%d}"
     out = []
     for r in payload.get("results", []):
-        orig = [s for s in r.get("submissions", []) if s.get("submission_type") == "ORIG" and s.get("submission_status") == "AP"]
+        appno = r.get("application_number", "")
+        # Generics (ANDA) are never limited-distribution by manufacturer design; skip them.
+        if appno.startswith("ANDA"):
+            continue
+        # openFDA matches array fields independently, so a record with an old ORIG approval and a
+        # recent supplement matches the search. Re-check that one ORIG submission was approved in range.
+        orig = [s for s in r.get("submissions", [])
+                if s.get("submission_type") == "ORIG" and s.get("submission_status") == "AP"
+                and lo <= s.get("submission_status_date", "") <= hi]
         if not orig:
             continue
         prods = r.get("products", []) or []
