@@ -20,55 +20,16 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "ldd.json"
 
-# (label, url, match-substrings). Order matters: first match wins.
-PHARMACIES = [
-    ("Onco360", "https://onco360.com", ["onco360"]),
-    ("Biologics by McKesson", "https://biologics.mckesson.com", ["biologics"]),
-    ("Accredo", "https://www.accredo.com", ["accredo"]),
-    ("Optum Frontier Therapies", "https://www.optumfrontiertherapies.com", ["frontier"]),
-    ("Optum Specialty Pharmacy", "https://specialty.optumrx.com", ["optum"]),
-    ("CVS Specialty", "https://www.cvsspecialty.com", ["cvs", "caremark"]),
-    ("AllianceRx Walgreens Pharmacy", "https://www.alliancerxwp.com", ["alliancerx", "alliance walgreens"]),
-    ("Walgreens Specialty Pharmacy", "https://www.walgreensspecialtyrx.com", ["walgreens", "wal-greens"]),
-    ("Orsini Specialty Pharmacy", "https://www.orsini.com", ["orsini", "ornsi"]),
-    ("PANTHERx Rare", "https://www.pantherxrare.com", ["pantherx", "pantherx", "panthrx", "pantherrx"]),
-    ("Amber Specialty Pharmacy", "https://www.amberpharmacy.com", ["amber"]),
-    ("AcariaHealth", "https://www.acariahealth.com", ["acaria", "foundation care"]),
-    ("AnovoRx", "https://www.anovorx.com", ["anovo", "annovo"]),
-    ("Genoa Healthcare", "https://www.genoahealthcare.com", ["genoa"]),
-    ("Maxor Specialty", "https://www.maxor.com", ["maxor"]),
-    ("Eversana", "https://www.eversana.com", ["eversana"]),
-    ("Optime Care", "https://www.optimecare.com", ["optime"]),
-    ("Biomatrix Specialty Pharmacy", "https://www.biomatrixsprx.com", ["biomatrix"]),
-    ("US Bioservices", "https://www.usbioservices.com", ["us bioservices", "usbio"]),
-    ("Option Care Health", "https://www.optioncarehealth.com", ["option care", "optioncare"]),
-    ("Fairview Pharmacy Services", "https://www.fairview.org", ["fairview"]),
-    ("Carle Specialty Pharmacy", "https://carle.org", ["carle"]),
-    ("Lumicera Health Services", "https://www.lumicera.com", ["lumicera"]),
-    ("Hemophilia of Georgia", "https://www.hog.org", ["hemophilia of georgia"]),
-    ("LeMed Specialty Pharmacy", None, ["lemed"]),
-    ("ESSDS (Express Scripts Specialty Distribution Services)", None, ["essds"]),
-    ("Vanscoy Rare Pharmacy", None, ["vanscoy"]),
-    ("Curant Health", "https://www.curanthealth.com", ["curant"]),
-    ("Soleo Health", "https://www.soleohealth.com", ["soleo"]),
-    ("Nufactor", "https://www.nufactor.com", ["nufactor"]),
-    ("Alto Pharmacy", "https://alto.com", ["alto"]),
-    ("KabaFusion", "https://www.kabafusion.com", ["kabafusion"]),
-    ("Advanced Care Scripts (Omnicare)", None, ["advanced care scripts", "acs"]),
-    ("KnippeRx", "https://www.knipperx.com", ["knipper"]),
-    ("TotalCare Rx", None, ["totalcare"]),
-    ("Senderra Rx", "https://www.senderrarx.com", ["senderra"]),
-    ("BioPlus Specialty Pharmacy", "https://www.bioplusrx.com", ["bioplus"]),
-    ("Kroger Specialty Pharmacy", "https://www.krogerspecialtypharmacy.com", ["kroger"]),
-    ("Ardon Health", "https://www.ardonhealth.com", ["ardon"]),
-    ("MMS Solutions", None, ["mms"]),
-    ("Publix Pharmacy", None, ["publix"]),
-    ("Walmart Specialty Pharmacy", None, ["wal-mart", "walmart"]),
-    ("AHF Pharmacy", None, ["ahf"]),
-    ("Premier Specialty", None, ["premier"]),
-]
-# Program / payer labels that are not dispensing pharmacies.
-NOT_A_PHARMACY = ["advocate+", "pharmacy match", "buy and bill", "buy & bill", "prime", "kaiser", "optumrx", "ldd"]
+PHARMACY_SITES = {
+    "onco360": "https://onco360.com", "biologics": "https://www.biologicsinc.com",
+    "accredo": "https://www.accredo.com", "cvs specialty": "https://www.cvsspecialty.com",
+    "optum": "https://specialty.optumrx.com", "walgreens": "https://www.walgreensspecialtyrx.com",
+    "alliancerx": "https://www.alliancerxwp.com", "orsini": "https://www.orsinihealthcare.com",
+    "pantherx": "https://www.pantherxrare.com", "amber": "https://www.amberpharmacy.com",
+    "acaria": "https://www.acariahealth.com", "senderra": "https://www.senderrarx.com",
+    "bioplus": "https://www.bioplusrx.com", "soleo": "https://www.soleohealth.com",
+    "kroger": "https://www.krogerspecialtypharmacy.com", "ardon": "https://www.ardonhealth.com",
+}
 
 
 # Sources that are general "drugs we carry" catalogs, not LDD assertions. Rows from these
@@ -79,7 +40,6 @@ GENERAL_CATALOG_PATTERNS = (
     "orsini.com/medication-search",
     "orsini.com/sitemap",
     "rxalmanac.com",
-    "healthalliance.org/documents/745",   # medical-benefit preferred-vendor list, not an LDD list
 )
 
 
@@ -107,12 +67,17 @@ def canon_pharmacy(name):
     if not n:
         return None
     low = n.lower()
-    if any(k in low for k in NOT_A_PHARMACY) and not any(k in low for _, _, ks in PHARMACIES for k in ks if k not in ("optum",)):
-        return None
-    for label, url, keys in PHARMACIES:
-        if any(k in low for k in keys):
+    for key, url in PHARMACY_SITES.items():
+        if key in low:
+            label = {"onco360": "Onco360", "biologics": "Biologics by McKesson", "accredo": "Accredo",
+                     "cvs specialty": "CVS Specialty", "optum": "Optum Specialty Pharmacy",
+                     "walgreens": "Walgreens Specialty Pharmacy", "alliancerx": "AllianceRx Walgreens Pharmacy",
+                     "orsini": "Orsini Specialty Pharmacy", "pantherx": "PANTHERx Rare",
+                     "amber": "Amber Specialty Pharmacy", "acaria": "AcariaHealth", "senderra": "Senderra Rx",
+                     "bioplus": "BioPlus Specialty Pharmacy", "soleo": "Soleo Health",
+                     "kroger": "Kroger Specialty Pharmacy", "ardon": "Ardon Health"}[key]
             return label, url
-    return n.title() if n.isupper() else n, None
+    return n, None
 
 
 def main():
@@ -147,7 +112,7 @@ def main():
         if key not in groups and norm(generic) in groups:
             key = norm(generic)
         g = groups.setdefault(key, {"brand": brand, "generic": generic, "manufacturer": r.get("manufacturer"),
-                                    "pharmacies": {}, "sources": {}, "exclusive_votes": 0, "rows": 0, "buy_bill": False})
+                                    "pharmacies": {}, "sources": {}, "exclusive_votes": 0, "rows": 0})
         g["rows"] += 1
         if not g["generic"] and generic:
             g["generic"] = generic
@@ -157,8 +122,6 @@ def main():
             g["exclusive_votes"] += 1
         phs = r.get("pharmacies") or ([r["pharmacy"]] if r.get("pharmacy") else [])
         for p in phs:
-            if "buy" in (p or "").lower() and "bill" in (p or "").lower():
-                g["buy_bill"] = True
             cp = canon_pharmacy(p)
             if cp:
                 g["pharmacies"].setdefault(cp[0], cp[1])
@@ -179,8 +142,6 @@ def main():
                    for n, u in sorted(g["pharmacies"].items())]
         n_ph = len(ph_list)
         dist = "exclusive" if (n_ph == 1 and g["exclusive_votes"] > 0) else ("limited_network" if n_ph >= 1 else "unknown")
-        if n_ph == 0 and g["buy_bill"]:
-            dist = "open"
         if key in existing:
             d = existing[key]
             have = {p["name"] for p in d["pharmacies"]}
@@ -190,10 +151,10 @@ def main():
             if new_ph or new_src:
                 d["pharmacies"].extend(new_ph)
                 d["sources"].extend(new_src)
-                # Never reclassify a researched record from a bulk list; flag it for the reviewer instead.
-                if new_ph:
-                    names = ", ".join(p["name"] for p in new_ph)
-                    d["notes"] = (d.get("notes") or "") + f" Bulk-load {a.today}: also listed by {names}; reviewer to confirm distribution_type."
+                if d["distribution_type"] in ("unknown", "open") and d["pharmacies"]:
+                    d["distribution_type"] = "limited_network"
+                if d["distribution_type"] == "exclusive" and len(d["pharmacies"]) > 1:
+                    d["distribution_type"] = "limited_network"
                 updated += 1
             continue
         rec = {
@@ -205,13 +166,10 @@ def main():
             "distribution_type": dist, "pharmacies": ph_list, "hub_program": None,
             "rems": False, "cold_chain": None, "controlled_substance": False,
             "sources": list(g["sources"].values()) or [{"url": "https://example.invalid", "type": "other", "date_checked": a.today, "note": "no source captured"}],
-            "confidence": "medium" if (n_ph or g["buy_bill"]) else "low", "status": "draft",
+            "confidence": "medium" if n_ph else "low", "status": "draft",
             "verified_by": None, "verified_date": None,
             "next_review_date": (today + timedelta(days=90)).isoformat(),
-            "notes": (f"Bulk-loaded from {g['rows']} public LDD list row(s) on {a.today}. "
-                      + ("Payer list marks it buy-and-bill (provider-administered), no specialty pharmacy. " if g["buy_bill"] else "")
-                      + ("Flagged as limited distribution by a payer/PBM list but no dispensing pharmacy named. " if n_ph == 0 and not g["buy_bill"] else "")
-                      + "Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."),
+            "notes": f"Bulk-loaded from {g['rows']} public LDD list row(s) on {a.today}. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page.",
         }
         # ensure unique id
         ids = {d["id"] for d in data["drugs"]}
