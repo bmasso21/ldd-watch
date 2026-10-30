@@ -1,0 +1,4 @@
+hits.csv
+*.csv
+__pycache__/
+report.md

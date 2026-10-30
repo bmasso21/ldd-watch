@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "name": "LDD Watch",
+    "description": "Limited-distribution drug directory: which specialty pharmacies can dispense each drug.",
+    "last_updated": "2026-10-29",
+    "disclaimer": "Public information compiled from manufacturer, pharmacy, and FDA sources. Verify with the manufacturer or pharmacy before relying on it for a patient."
+  },
+  "drugs": [
+    {
+      "id": "daraxonrasib",
+      "brand": "Rasonque",
+      "generic": "daraxonrasib",
+      "manufacturer": "Revolution Medicines, Inc.",
+      "approval_date": "2026-08-26",
+      "indication": "Metastatic pancreatic adenocarcinoma, adults, after at least one prior systemic therapy or not candidates for multiagent systemic therapy",
+      "dosage_forms": ["tablet 100 mg", "tablet 150 mg"],
+      "ndcs": [],
+      "distribution_type": "limited_network",
+      "pharmacies": [
+        {
+          "name": "Onco360",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": "https://onco360.com",
+          "notes": "Announced as a national pharmacy partner by Onco360 (Aug 2026). Onco360's wording is 'a' partner, not exclusive. Confirmed by TPA case experience Oct 2026."
+        }
+      ],
+      "hub_program": {
+        "name": "(ON)Path",
+        "phone": null,
+        "url": "https://www.rasonque.com"
+      },
+      "rems": false,
+      "cold_chain": false,
+      "controlled_substance": false,
+      "sources": [
+        {
+          "url": "https://www.brightspringhealth.com/news/onco360-has-been-selected-as-a-national-pharmacy-partner-for-rasonque-daraxonrasib/",
+          "type": "press_release",
+          "date_checked": "2026-10-29",
+          "note": "Onco360 selected as national pharmacy partner"
+        },
+        {
+          "url": "https://www.drugs.com/history/rasonque.html",
+          "type": "other",
+          "date_checked": "2026-10-29",
+          "note": "Approval date, company, dosage forms"
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft",
+      "verified_by": null,
+      "verified_date": null,
+      "next_review_date": "2027-01-29",
+      "notes": "TO VERIFY: pull the full specialty pharmacy network list from the rasonque.com HCP/access page and (ON)Path program materials. Add Onco360 intake phone/fax from onco360.com. Add NDCs from openFDA NDC directory once indexed."
+    }
+  ]
+}

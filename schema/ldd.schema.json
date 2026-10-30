@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Limited Distribution Drug record",
+  "type": "object",
+  "required": ["id", "brand", "generic", "manufacturer", "distribution_type", "pharmacies", "sources", "confidence", "status"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "slug, usually the generic name" },
+    "brand": { "type": "string" },
+    "generic": { "type": "string" },
+    "manufacturer": { "type": "string" },
+    "approval_date": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "indication": { "type": ["string", "null"] },
+    "dosage_forms": { "type": "array", "items": { "type": "string" } },
+    "ndcs": { "type": "array", "items": { "type": "string", "pattern": "^\\d{4,5}-\\d{3,4}-\\d{1,2}$" } },
+    "distribution_type": {
+      "type": "string",
+      "enum": ["exclusive", "limited_network", "open", "unknown"],
+      "description": "exclusive = one pharmacy; limited_network = named list; open = any pharmacy"
+    },
+    "pharmacies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "additionalProperties": false,
+        "properties": {
+          "name": { "type": "string" },
+          "phone": { "type": ["string", "null"] },
+          "fax": { "type": ["string", "null"] },
+          "enrollment_url": { "type": ["string", "null"] },
+          "notes": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "hub_program": {
+      "type": ["object", "null"],
+      "additionalProperties": false,
+      "properties": {
+        "name": { "type": ["string", "null"] },
+        "phone": { "type": ["string", "null"] },
+        "url": { "type": ["string", "null"] }
+      }
+    },
+    "rems": { "type": "boolean" },
+    "cold_chain": { "type": ["boolean", "null"] },
+    "controlled_substance": { "type": "boolean" },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["url", "type", "date_checked"],
+        "additionalProperties": false,
+        "properties": {
+          "url": { "type": "string" },
+          "type": { "type": "string", "enum": ["manufacturer", "pharmacy", "press_release", "fda", "pbm", "other"] },
+          "date_checked": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+          "note": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "confidence": { "type": "string", "enum": ["high", "medium", "low"] },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "verified"],
+      "description": "verified requires a human reviewer and a manufacturer-type source"
+    },
+    "verified_by": { "type": ["string", "null"] },
+    "verified_date": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "next_review_date": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "notes": { "type": ["string", "null"] }
+  }
+}

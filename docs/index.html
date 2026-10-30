@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LDD Watch</title>
+<meta name="description" content="Which specialty pharmacies dispense limited-distribution drugs.">
+<style>
+  :root{--bg:#f6f7f9;--card:#fff;--ink:#14171c;--muted:#5d6675;--line:#dfe3e8;--accent:#0b5fff;--ok:#1b7f3b;--warn:#a65f00;--chip:#eef1f5}
+  @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1115;--card:#171a20;--ink:#e8eaee;--muted:#9aa3b2;--line:#2a2f38;--accent:#6aa0ff;--ok:#5fcf84;--warn:#ffb84d;--chip:#222730}}
+  :root[data-theme="dark"]{--bg:#0f1115;--card:#171a20;--ink:#e8eaee;--muted:#9aa3b2;--line:#2a2f38;--accent:#6aa0ff;--ok:#5fcf84;--warn:#ffb84d;--chip:#222730}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+  header{padding:28px 16px 8px;max-width:900px;margin:0 auto}
+  h1{margin:0 0 4px;font-size:26px;letter-spacing:-.01em}
+  .sub{color:var(--muted);margin:0 0 16px;font-size:14px}
+  main{max-width:900px;margin:0 auto;padding:0 16px 48px}
+  input[type=search]{width:100%;font-size:18px;padding:12px 14px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);outline:none}
+  input[type=search]:focus{border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)}
+  .meta{display:flex;justify-content:space-between;color:var(--muted);font-size:13px;margin:10px 2px 18px;flex-wrap:wrap;gap:6px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin-bottom:12px}
+  .top{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;flex-wrap:wrap}
+  .name{font-size:20px;font-weight:650}
+  .name small{font-weight:400;color:var(--muted);font-size:15px}
+  .chips{display:flex;gap:6px;flex-wrap:wrap}
+  .chip{background:var(--chip);border-radius:999px;padding:3px 10px;font-size:12px;color:var(--muted);white-space:nowrap}
+  .chip.ok{color:var(--ok)} .chip.warn{color:var(--warn)}
+  .row{margin-top:10px;font-size:15px}
+  .row b{color:var(--muted);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.04em;display:block;margin-bottom:2px}
+  .ph{padding:8px 10px;border-left:3px solid var(--accent);background:var(--chip);border-radius:0 8px 8px 0;margin:6px 0}
+  .ph .n{font-weight:600}
+  .ph .c{font-size:14px;color:var(--muted)}
+  a{color:var(--accent)}
+  .src a{font-size:13px;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .notes{font-size:14px;color:var(--muted);white-space:pre-wrap}
+  .empty{color:var(--muted);text-align:center;padding:40px 0}
+  footer{max-width:900px;margin:0 auto;padding:0 16px 32px;color:var(--muted);font-size:12px}
+</style>
+</head>
+<body>
+<header>
+  <h1>LDD Watch</h1>
+  <p class="sub">Limited-distribution drugs and the specialty pharmacies that can dispense them.</p>
+  <input id="q" type="search" placeholder="Search brand, generic, manufacturer, pharmacy, or NDC…" autofocus>
+  <div class="meta"><span id="count"></span><span id="updated"></span></div>
+</header>
+<main id="results"></main>
+<footer id="disclaimer"></footer>
+<script>
+(async function(){
+  const r = await fetch('ldd.json',{cache:'no-store'});
+  const data = await r.json();
+  const drugs = data.drugs || [];
+  document.getElementById('updated').textContent = 'Data updated ' + (data.meta?.last_updated || '');
+  document.getElementById('disclaimer').textContent = data.meta?.disclaimer || '';
+  const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const hay = d => [d.brand,d.generic,d.manufacturer,d.id,...(d.ndcs||[]),...(d.pharmacies||[]).map(p=>p.name),d.indication].join(' ').toLowerCase();
+
+  function render(list){
+    const el = document.getElementById('results');
+    document.getElementById('count').textContent = list.length + ' of ' + drugs.length + ' drug' + (drugs.length===1?'':'s');
+    if(!list.length){ el.innerHTML = '<div class="empty">No matches.</div>'; return; }
+    el.innerHTML = list.map(d => {
+      const dist = {exclusive:'Exclusive pharmacy',limited_network:'Limited network',open:'Open distribution',unknown:'Distribution unknown'}[d.distribution_type] || d.distribution_type;
+      const chips = [
+        `<span class="chip">${esc(dist)}</span>`,
+        `<span class="chip ${d.status==='verified'?'ok':'warn'}">${d.status==='verified'?'Verified':'Draft — unverified'}</span>`,
+        `<span class="chip">Confidence: ${esc(d.confidence)}</span>`,
+        d.rems ? '<span class="chip warn">REMS</span>' : '',
+        d.cold_chain ? '<span class="chip">Cold chain</span>' : '',
+        d.controlled_substance ? '<span class="chip warn">Controlled</span>' : ''
+      ].join('');
+      const ph = (d.pharmacies||[]).length ? d.pharmacies.map(p => `
+        <div class="ph"><div class="n">${esc(p.name)}</div>
+        <div class="c">${[p.phone && 'Phone '+esc(p.phone), p.fax && 'Fax '+esc(p.fax), p.enrollment_url && `<a href="${esc(p.enrollment_url)}" target="_blank" rel="noopener">Enrollment / site</a>`].filter(Boolean).join(' · ')}</div>
+        ${p.notes ? `<div class="c">${esc(p.notes)}</div>` : ''}</div>`).join('')
+        : '<div class="notes">No dispensing pharmacy on file.</div>';
+      const hub = d.hub_program && (d.hub_program.name||d.hub_program.phone||d.hub_program.url)
+        ? `<div class="row"><b>Hub / patient support</b>${esc(d.hub_program.name||'')} ${d.hub_program.phone?'· '+esc(d.hub_program.phone):''} ${d.hub_program.url?`· <a href="${esc(d.hub_program.url)}" target="_blank" rel="noopener">${esc(d.hub_program.url)}</a>`:''}</div>` : '';
+      return `<article class="card">
+        <div class="top"><div class="name">${esc(d.brand)} <small>${esc(d.generic)}</small></div><div class="chips">${chips}</div></div>
+        <div class="row"><b>Manufacturer</b>${esc(d.manufacturer)}${d.approval_date?` · FDA approved ${esc(d.approval_date)}`:''}</div>
+        ${d.indication?`<div class="row"><b>Indication</b>${esc(d.indication)}</div>`:''}
+        <div class="row"><b>Dispensing pharmacies</b>${ph}</div>
+        ${hub}
+        ${(d.ndcs||[]).length?`<div class="row"><b>NDCs</b>${d.ndcs.map(esc).join(', ')}</div>`:''}
+        <div class="row src"><b>Sources</b>${(d.sources||[]).map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener">[${esc(s.type)}] ${esc(s.url)} (${esc(s.date_checked)})</a>`).join('')}</div>
+        ${d.notes?`<div class="row"><b>Notes</b><div class="notes">${esc(d.notes)}</div></div>`:''}
+        ${d.verified_by?`<div class="row"><b>Verified</b>${esc(d.verified_by)} on ${esc(d.verified_date)}${d.next_review_date?` · next review ${esc(d.next_review_date)}`:''}</div>`:''}
+      </article>`;
+    }).join('');
+  }
+  const q = document.getElementById('q');
+  const run = () => { const t = q.value.trim().toLowerCase().replace(/-/g,''); render(t ? drugs.filter(d => hay(d).replace(/-/g,'').includes(t)) : drugs); };
+  q.addEventListener('input', run); run();
+})();
+</script>
+</body>
+</html>
