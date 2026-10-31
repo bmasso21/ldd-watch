@@ -1,0 +1,1684 @@
+[
+  {
+    "brand": "Veopoz",
+    "generic": "pozelimab-bbfg",
+    "manufacturer": "Regeneron Pharmaceuticals, Inc.",
+    "pharmacies": [
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.biospace.com/orsini-specialty-pharmacy-selected-to-be-the-exclusive-specialty-pharmacy-partner-for-veopoz-pozelimab-bbfg-the-first-and-only-treatment-for-chaple-disease",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": {
+      "name": "myRARE",
+      "phone": "1-833-469-7273",
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read the Orsini press release (Aug 23, 2023, via BioSpace): Regeneron 'has chosen Orsini to be the exclusive specialty pharmacy partner for VEOPOZ'. Read Regeneron's FDA-approval release on investor.regeneron.com (manufacturer site): names the myRARE patient support program (1-833-4my-RARE / 1-833-469-7273), no specialty pharmacy named, no REMS mentioned; trial regimen was an IV loading dose followed by weekly subcutaneous dosing. No dedicated Regeneron HCP access page for Veopoz surfaced in search. Not on the TRICARE Nov 2026 LDD list. Treated as a specialty-pharmacy exclusive (Orsini), consistent with file."
+  },
+  {
+    "brand": "VEOZAH",
+    "generic": "fezolinetant",
+    "manufacturer": "Astellas Pharma",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Two standard searches returned only payer PA criteria, price/coupon sites (SingleCare, GoodRx, Drugs.com) and news; no manufacturer access page, no pharmacy press release and no LDD listing surfaced. Generic name and manufacturer taken from search-result titles (Pharmacy Times 'Veozah from Astellas Pharma'; Drugs.com fezolinetant). Veozah is an oral, self-administered tablet and appears to be dispensed through ordinary retail/mail pharmacies; nothing found indicating a limited specialty-pharmacy network. Not on the TRICARE Nov 2026 LDD list. Record left with pharmacies []."
+  },
+  {
+    "brand": "Vidaza",
+    "generic": "azacitidine",
+    "manufacturer": "Bristol Myers Squibb",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": false,
+    "conflict_note": "File lists CVS Specialty and Optum Specialty Pharmacy as a limited network, but no manufacturer, press-release or PBM source naming any specialty pharmacy for Vidaza was found; Vidaza is a provider-administered (SC/IV) injectable typically acquired buy-and-bill, so the LDD classification is unsupported.",
+    "notes": "Two searches (general, and site:bms.com) returned only UK/Irish SmPC pages, a 340B Report item about BMS lifting 340B purchasing limits on Vidaza (implies wholesaler/340B distribution, not an SP network), SEC filings, and a Managed Healthcare Executive note on the BMS label update (source of manufacturer name). No BMS access page or specialty-pharmacy announcement found. Vidaza (azacitidine for injection) is administered by a healthcare professional subcutaneously or intravenously, i.e. provider-administered buy-and-bill, NOT a specialty-pharmacy LDD. Not on the TRICARE Nov 2026 LDD list."
+  },
+  {
+    "brand": "Vigabatrin",
+    "generic": "vigabatrin",
+    "manufacturer": null,
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "AcariaHealth",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Walgreens",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Optum Specialty Pharmacy",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": true,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Generic vigabatrin has multiple manufacturers, so no single manufacturer page applies (manufacturer left null). Read the Sabril (brand) prescriber page sabril.net/prescribing-sabril: all vigabatrin products are under a single shared Vigabatrin REMS Program (www.vigabatrinREMS.com, 1-866-244-8175); prescribers must be certified and generic vigabatrin must be dispensed by a REMS-certified pharmacy looked up on the REMS site; Sabril brand prescriptions are faxed to SHARE Plus. No exclusivity language. TRICARE Nov 2026 LDD list entry 'Vigabatrin' names ACCREDO, ACARIA, WALGREENS, OPTUM, PANTHERX (abbreviated pharmacy names as printed). File additionally lists AllianceRx Walgreens Pharmacy, CVS Specialty and Walgreens Specialty Pharmacy; CVS Specialty is not on the TRICARE list but no manufacturer source excludes it, so no conflict recorded. Oral, self-administered; SP-dispensed under REMS, not buy-and-bill."
+  },
+  {
+    "brand": "Vigadrone",
+    "generic": "vigabatrin",
+    "manufacturer": "Upsher-Smith Laboratories, LLC",
+    "pharmacies": [
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "Access Pathways Program",
+      "phone": "1-866-923-1954",
+      "url": "vigadrone.com"
+    },
+    "rems": true,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read Upsher-Smith's Vigadrone launch release on upsher-smith.com (July 16, 2018, manufacturer site): starter prescriptions are 'processed by a specialty pharmacy' but no pharmacy is named and there is no exclusivity language; names the Access Pathways Program (1-866-923-1954, vigadrone.com); states HCPs must be certified in the Vigabatrin REMS Program (single shared system). TRICARE Nov 2026 LDD list names PANTHERX for Vigadrone, matching the file. Oral powder/tablet, self-administered, SP-dispensed under REMS."
+  },
+  {
+    "brand": "Vigafyde",
+    "generic": "vigabatrin",
+    "manufacturer": "Upsher-Smith Laboratories, LLC",
+    "pharmacies": [
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://bradfordera.com/2025/03/24/pantherx-rare-selected-by-upsher-smith-laboratories-llc-as-specialty-pharmacy-for-vigafyde-vigabatrin-oral-solution",
+        "source_type": "press_release",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "McKesson Plasma and Biologics (hospital in-patient ordering only)",
+        "source_url": "https://www.upsher-smith.com/news/upsher-smiths-vigafyde-vigabatrin-oral-solution-now-available-for-hospital-pharmacy-ordering/",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "AnovoRx (superseded; named by prior owner Pyros Pharmaceuticals, Sept 2024)",
+        "source_url": "https://www.clinicaltrialvanguard.com/?p=7820",
+        "source_type": "other",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": {
+      "name": "Promise of Support Program",
+      "phone": "1-888-650-3789",
+      "url": "www.vigafyde.com"
+    },
+    "rems": true,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read the PANTHERx press release (Bradford Era, PRNewswire, Mar 24, 2025): PANTHERx 'Selected by Upsher-Smith Laboratories, LLC as Specialty Pharmacy for VIGAFYDE'; body truncated so exclusivity wording could not be confirmed. Read Upsher-Smith's May 19, 2025 release (manufacturer site): Vigafyde now available to hospitals via McKesson Plasma and Biologics (877-625-2566) for in-patient dispensing, refers to an unnamed 'leading specialty pharmacy partner', confirms Vigabatrin REMS, names the Promise of Support Program (phone 1-888-650-3789 listed for product information; www.vigafyde.com). An earlier Sept 2024 Pyros Pharmaceuticals launch article (clinicaltrialvanguard.com) called AnovoRx 'the exclusive specialty pharmacy for VIGAFYDE' and named Pyros Total Care; Upsher-Smith has since taken over the product, so PANTHERx is the current partner and AnovoRx is recorded as superseded. TRICARE Nov 2026 LDD list: PANTHERX. File (PANTHERx Rare) matches current sources. Oral solution, self-administered."
+  },
+  {
+    "brand": "Vigpoder",
+    "generic": "vigabatrin",
+    "manufacturer": "Pyros Pharmaceuticals, Inc.",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": true,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Two searches found no Pyros access page or press release naming a pharmacy for Vigpoder. Read Drugs.com approval history: manufacturer Pyros Pharmaceuticals, Inc., approved June 24, 2022, 'now available' April 1, 2024, 500 mg vigabatrin powder packets for oral solution, 'available only through a restricted program called the Vigabatrin REMS Program'; no pharmacy named. Search-result titles indicate Pyros was later acquired by Bora Pharmaceuticals. Indirect evidence only: a Sept 2024 Pyros release for sister product Vigafyde named AnovoRx as exclusive SP and a 'Pyros Total Care' program, which is consistent with the file's AnovoRx entry but does not name Vigpoder, so no pharmacy is recorded. Not on the TRICARE Nov 2026 LDD list. Oral, self-administered, REMS."
+  },
+  {
+    "brand": "Vijoice",
+    "generic": "alpelisib",
+    "manufacturer": null,
+    "pharmacies": [
+      {
+        "name": "Biologics by McKesson",
+        "source_url": "https://biologics.mckesson.com/vijoice-alpelisib-fda-approved-for-the-treatment-of-patients-with-pik3ca-related-overgrowth-spectrum-pros-available-exclusively-at-biologics-by-mckesson/",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "Biologics by McKesson",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Read Biologics by McKesson's announcement (dated Aug 7, 2025): 'VIJOICE (alpelisib) is now exclusively available at Biologics by McKesson', effective June 15; no hub program, phone or REMS stated; the page refers readers to vijoice.com. The page does not name the manufacturer, and no manufacturer page was read, so manufacturer is left null (search was run with 'Novartis' but no page read confirmed it). TRICARE Nov 2026 LDD list: BIOLOGICS. File (Biologics by McKesson) matches; the source uses exclusive language so the file's 'limited_network' type could be upgraded to exclusive. Oral tablet, self-administered."
+  },
+  {
+    "brand": "VILTEPSO",
+    "generic": "viltolarsen",
+    "manufacturer": "NS Pharma, Inc.",
+    "pharmacies": [
+      {
+        "name": "Option Care Health",
+        "source_url": "https://optioncarehealth.com/news/option-care-health-selected-as-a-limited-distribution-provider-of-viltepso-viltolarsen-injection-for-patients-with-duchenne-muscular-dystrophy-in-patients-amenable-to-exon-53-skipping-thera",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.orsini.com/viltepso-viltolarsen/",
+        "source_type": "other",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "NS Support",
+      "phone": null,
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": false,
+    "conflict_note": "File lists only Orsini Specialty Pharmacy; Option Care Health's Sept 2, 2020 release says it was 'selected to participate in the limited distribution network of VILTEPSO', and NS Pharma describes 'a network of specialty distributors and specialty pharmacy providers' (plural), so the network is broader than the file's single entry (though Orsini is a current dispensing pharmacy per its own product page).",
+    "notes": "Read NS Pharma's commercial-availability release (Aug 19, 2020, via BioSpace): VILTEPSO 'is commercially available through a network of specialty distributors and specialty pharmacy providers' selected for DMD experience; no pharmacy named; names NS Support hub (no phone/URL given); administered by a healthcare professional as a weekly 60-minute IV infusion at home, hospital or treatment center; no REMS. Read Option Care Health release (Sept 2, 2020): selected to participate in the limited distribution network, no exclusivity. Read Orsini product page (orsini.com, published Mar 2024, modified Sept 2026): lists Viltepso with enrollment form and ordering phone 800-759-0445 / fax 877-286-3620, no exclusivity claim. No NS Pharma HCP access page read directly (release hosted on BioSpace). Provider-administered IV infusion: distributed via a limited network of specialty distributors (buy-and-bill) and specialty pharmacies/home infusion, so it is a hybrid rather than a pure SP LDD. Not on the TRICARE Nov 2026 LDD list."
+  },
+  {
+    "brand": "Vimizim",
+    "generic": "elosulfase alfa",
+    "manufacturer": "BioMarin Pharmaceutical Inc.",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "BioMarin RareConnections",
+      "phone": "1-866-906-6100",
+      "url": "https://www.biomarin-rareconnections.com/"
+    },
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": "File lists Accredo, CVS Specialty, Optum, Orsini and PANTHERx as a limited network, but the BioMarin HCP page names no specialty pharmacies and no exclusivity; Vimizim is a provider-administered IV enzyme replacement infusion, so the SP LDD classification is not supported by a manufacturer source (payer-side SP routing for home infusion may exist but was not verified).",
+    "notes": "Read BioMarin's HCP Vimizim page (hcp.biomarin.com/en-us/vimizim, manufacturer site): no specialty pharmacy or distributor named, no exclusivity language; BioMarin RareConnections case managers (1-866-906-6100, support@biomarin-rareconnections.com, BioMarin-RareConnections.com) handle benefits investigation, PA and 'coordinating delivery and administration'; infusions should be supervised by a healthcare provider in a setting with resuscitation equipment (Boxed Warning for anaphylaxis); no REMS mentioned. Search also surfaced an Orsini product page and a PrescriberPoint pharmacy list, not read. Provider-administered IV infusion (buy-and-bill / clinic or home infusion), NOT a pure specialty-pharmacy LDD. Not on the TRICARE Nov 2026 LDD list."
+  },
+  {
+    "brand": "Visudyne",
+    "generic": "verteporfin",
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": false,
+    "conflict_note": "File lists CVS Specialty and Optum Specialty Pharmacy as a limited network, but no source naming any specialty pharmacy for Visudyne was found; Visudyne is an in-office IV-infused photodynamic therapy agent (provider-administered, buy-and-bill), so the SP LDD classification is unsupported.",
+    "notes": "Two searches returned only EMA/UK shortage communications, academic articles on the global verteporfin shortage, GoodRx, GNH India export listings, a Credence Blue medical policy and a Bausch newsroom archive page; no manufacturer ordering/access page, no pharmacy press release and no LDD listing found. Manufacturer left null because no page read stated it (search context points to Bausch + Lomb; NDC labeler 24208 appears in a hellopharmacist result). Visudyne (verteporfin for injection) is reconstituted and infused IV by the ophthalmologist immediately before laser activation, i.e. provider-administered buy-and-bill, NOT a specialty-pharmacy LDD. Not on the TRICARE Nov 2026 LDD list."
+  },
+  {
+    "brand": "VITRAKVI",
+    "generic": "larotrectinib",
+    "manufacturer": "Bayer",
+    "pharmacies": [
+      {
+        "name": "US Bioservices",
+        "source_url": "https://www.amerisourcebergen.com/newsroom/press-releases/us-bio-bayer",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://sit1www.cvsspecialty.com/content/dam/enterprise/specialty/enrollment_forms/us/US_Vitrakvi.pdf",
+        "source_type": "other",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "File lists Accredo and CVS Specialty but omits US Bioservices, which AmerisourceBergen's Nov 28, 2018 release says was 'selected by Bayer and its collaboration partner Loxo Oncology, Inc. to dispense Vitrakvi'; the release calls Vitrakvi 'a limited distribution medication that is only available from select specialty pharmacies' (no exclusivity), so the network is limited but the file's roster appears incomplete.",
+    "notes": "Read AmerisourceBergen/US Bioservices press release (Nov 28, 2018): US Bioservices selected to dispense Vitrakvi; 'limited distribution medication that is only available from select specialty pharmacies'; no other pharmacies named; ASD Healthcare, Oncology Supply and ION Solutions named as specialty distributors for hospitals/practices; US Bioservices prescriber phone 833-230-1407, fax 833-878-5917; no hub program named. A CVS Specialty Vitrakvi enrollment form appeared in search results (not fetched), indicating CVS Specialty also dispenses. Two searches found no Bayer US HCP access page for Vitrakvi (only Bayer ex-US pages). Oral capsule/solution, self-administered, SP-dispensed. Not on the TRICARE Nov 2026 LDD list."
+  },
+  {
+    "brand": "VIVITROL",
+    "generic": "naltrexone for extended-release injectable suspension",
+    "manufacturer": "Alkermes, Inc.",
+    "pharmacies": [
+      {
+        "name": "CVS Specialty Pharmacy",
+        "source_url": "https://cdn.vivitrolhcp.com/payer/NAT/PBM_SP_Mapping.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Accredo Specialty Pharmacy",
+        "source_url": "https://cdn.vivitrolhcp.com/payer/NAT/PBM_SP_Mapping.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Optum Specialty Pharmacy",
+        "source_url": "https://cdn.vivitrolhcp.com/payer/NAT/PBM_SP_Mapping.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Acaria Specialty Pharmacy",
+        "source_url": "https://cdn.vivitrolhcp.com/payer/NAT/PBM_SP_Mapping.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CenterWell Specialty Pharmacy",
+        "source_url": "https://cdn.vivitrolhcp.com/payer/NAT/PBM_SP_Mapping.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Envision/Elixir Specialty Pharmacy",
+        "source_url": "https://cdn.vivitrolhcp.com/payer/NAT/PBM_SP_Mapping.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Magellan Specialty Pharmacy",
+        "source_url": "https://cdn.vivitrolhcp.com/payer/NAT/PBM_SP_Mapping.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Lumicera Specialty Pharmacy",
+        "source_url": "https://cdn.vivitrolhcp.com/payer/NAT/PBM_SP_Mapping.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Perform Specialty",
+        "source_url": "https://cdn.vivitrolhcp.com/payer/NAT/PBM_SP_Mapping.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "Vivitrol2gether",
+      "phone": null,
+      "url": "https://www.vivitrolhcp.com/vivitrol2gether-patient-support-services"
+    },
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": "File classifies VIVITROL as a limited network (CVS Specialty, Genoa Healthcare), but Alkermes' HCP page says it can be obtained via retail pharmacy ('any network pharmacy' on some plans), specialty pharmacy, or buy-and-bill from specialty distributors, with no exclusivity; the Alkermes PBM-to-SP mapping (Feb 2023) is a payer-routing list naming nine SPs, not a manufacturer-restricted network, and does not list Genoa Healthcare.",
+    "notes": "Read Alkermes' HCP page vivitrolhcp.com/filling-a-prescription (manufacturer site): VIVITROL may be covered under medical or pharmacy benefit and obtained through retail pharmacy, a payer-designated specialty pharmacy shipping to the office, or buy-and-bill from a specialty distributor; no pharmacies or distributors named; no exclusivity; must be administered by a healthcare provider as a deep IM gluteal injection; no REMS; Vivitrol2gether patient support page and enrollment form linked (no phone shown; 1-877-838-3836 is IQVIA's buy-and-bill co-pay claims line). Read Alkermes' 'VIVITROL PBM to Specialty Pharmacy Mapping' PDF (data Feb 2023) listing CVS Specialty, Accredo, Optum, Acaria, CenterWell, Envision/Elixir, Magellan, Lumicera and Perform Specialty by PBM, with no 'only' language. Search results also showed a Pharmacy Times article 'Vivitrol is making its way to retail pharmacies'. Provider-administered injectable available buy-and-bill and via open payer SP routing: NOT a manufacturer-limited specialty-pharmacy LDD. Not on the TRICARE Nov 2026 LDD list."
+  },
+  {
+    "brand": "Vivjoa",
+    "generic": "oteseconazole",
+    "manufacturer": "Mycovia Pharmaceuticals, Inc.",
+    "pharmacies": [
+      {
+        "name": "AllianceRx Walgreens Pharmacy",
+        "source_url": "https://www.biospace.com/mycovia-pharmaceuticals-inc-announces-alliancerx-walgreens-pharmacy-and-walgreens-community-based-specialty-pharmacies-as-exclusive-distributor-of-vivjoa",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "Walgreens community-based specialty pharmacies",
+        "source_url": "https://www.biospace.com/mycovia-pharmaceuticals-inc-announces-alliancerx-walgreens-pharmacy-and-walgreens-community-based-specialty-pharmacies-as-exclusive-distributor-of-vivjoa",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "Walgreens",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Read Mycovia's press release (Mar 26, 2024, hosted on BioSpace): AllianceRx Walgreens Pharmacy and Walgreens community-based specialty pharmacies named as exclusive distributor; 'patients now have exclusive access to VIVJOA through AllianceRx Walgreens Pharmacy'; services include PA assistance, co-pay program connection and home delivery; no named hub program or support phone (1-855-299-0637 is the adverse-event reporting line). A matching Walgreens Boots Alliance release (walgreensbootsalliance.com, 2024) and trade coverage (Drug Store News, Chain Drug Review, PharmaNewsIntel) appeared in results. No Mycovia HCP access page read directly. TRICARE Nov 2026 LDD list: WALGREENS. File (AllianceRx Walgreens Pharmacy, Walgreens Specialty Pharmacy) matches; sources use exclusive language so the file's 'limited_network' type could be upgraded to exclusive. Oral capsule, self-administered."
+  },
+  {
+    "brand": "Vonvendi",
+    "generic": "von Willebrand factor (recombinant)",
+    "manufacturer": "Takeda",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "AcariaHealth",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Optum Specialty Pharmacy",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "BioMatrix Specialty Pharmacy",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Walgreens",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Two WebSearches (generic LDD query and a Takeda-specific query) returned only FDA/BLA pages, Takeda press releases about indication expansions and recalls, and payer PA policies; no Takeda HCP ordering/access page surfaced, so no manufacturer page was read. Generic name and manufacturer (Takeda) are taken from Takeda/FDA press-release titles in the search results. The only network source is the TRICARE LDD list (Express Scripts, 'Specialty Drugs Not available through TRICARE Home Delivery, with Limited Distribution - November 2026'), whose row reads 'Vonvendi ACCREDO, ACARIA, CVS SPECIALTY (CAREMARK), OPTUM, BIOMATRIX, WALGREENS'. The file's list additionally includes Option Care Health, AllianceRx Walgreens Pharmacy and Walgreens Specialty Pharmacy; the TRICARE row says only 'WALGREENS' and does not name Option Care, but this is a PBM list rather than a manufacturer statement, so not recorded as a conflict. Vonvendi is an IV clotting-factor product dispensed through specialty/hemophilia pharmacies (TRICARE treats it as a specialty-pharmacy LDD), not buy-and-bill. REMS not stated in anything read."
+  },
+  {
+    "brand": "Vowst",
+    "generic": "fecal microbiota spores, live-brpk",
+    "manufacturer": "Nestlé Health Science (Aimmune Therapeutics)",
+    "pharmacies": [
+      {
+        "name": "Amber Specialty Pharmacy",
+        "source_url": "https://vowsthcpus.factory.boost.com/access-reimbursement-resources/how-to-access-vowst",
+        "source_type": "manufacturer",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://vowsthcpus.factory.boost.com/access-reimbursement-resources/how-to-access-vowst",
+        "source_type": "manufacturer",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Amber Specialty Pharmacy",
+        "source_url": "https://www.businesswire.com/news/home/20230713481285/en",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "Amber Specialty Pharmacy",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "VOWST Voyage Support Program",
+      "phone": "1-888-356-5444",
+      "url": "vowstvoyage.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read the manufacturer HCP 'How to access VOWST' page (served from vowsthcpus.factory.boost.com, a build/staging host of the VOWST HCP site; copyright Nestlé). It lists Amber and Orsini under 'Specialty Pharmacy', plus four specialty distributors (Cardinal Health Specialty Distribution, Besse, ASD Healthcare, McKesson Plasma and Biologics) for hospital/LTC/government/340B accounts and for hospitals/clinics with their own specialty pharmacy. The page does not use the words exclusive/only for the pharmacy network. Hub shown on page: VOWST Voyage Support Program, 1-888-356-5444, fax 1-888-234-6987, vowstvoyage.com; enrollment via www.vowsthcp.com. Amber's July 13, 2023 Business Wire release says Amber was 'one of only two pharmacies nationally selected by Aimmune Therapeutics' (Nestlé Health Science). TRICARE LDD row: 'Vowst AMBER, ORSINI'. All three sources agree with the file. Oral capsule dispensed by specialty pharmacy; not provider-administered. REMS not mentioned."
+  },
+  {
+    "brand": "VOXZOGO",
+    "generic": "vosoritide",
+    "manufacturer": "BioMarin",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "BioMarin RareConnections",
+      "phone": "1-833-869-9646",
+      "url": "https://www.biomarin-rareconnections.com/voxzogo/how-we-help/"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read BioMarin's HCP Voxzogo page (hcp.biomarin.com/en-us/voxzogo/). It describes BioMarin RareConnections case managers handling 'specialty pharmacy coordination' and clinical coordinators arranging 'coordination with a specialty pharmacy for home delivery', but names no specialty pharmacy and uses no exclusive language. Hub shown: BioMarin RareConnections, 1-833-869-9646 (M-F 8-8 PT), overview at biomarin-rareconnections.com/voxzogo/how-we-help/, enrollment at biomarin-rareconnections.com/hcp/voxzogo/voxzogo-enroll/. Two searches found no press release naming the network; a search result pointed to a Voxzogo enrollment form on an Optum Frontier Therapies dev host (dmpdev-frontiertherapies.optum.com), which suggests Optum Frontier Therapies dispenses it, but that page was not read so it is not recorded as a pharmacy. Not on the TRICARE LDD list. The file's CVS Specialty entry could not be verified or refuted. Daily subcutaneous injection shipped to the home by specialty pharmacy; not buy-and-bill. REMS not mentioned."
+  },
+  {
+    "brand": "Voyxact",
+    "generic": "sibeprenlimab-szsi",
+    "manufacturer": "Otsuka",
+    "pharmacies": [
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://www.easternprogress.com/pantherx-rare-selected-by-otsuka-to-dispense-voyxact-sibeprenlimab-szsi-for-the-treatment-of-primary/article_2cb8ac75-beca-59a7-9a46-722894eb26f6.html",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "One search; no Otsuka HCP access page surfaced (results were the PANTHERx press release via AP/newspaper syndication, payer policies, FDA label). Read the Dec 18, 2025 PANTHERx Rare press release (syndicated on easternprogress.com): Otsuka selected PANTHERx Rare as the 'exclusive specialty pharmacy' to dispense VOYXACT for primary IgA nephropathy; no other pharmacy named; no patient-support program or phone given (only PANTHERx's email/website). TRICARE LDD row: 'Voyxact PANTHERX'. Both agree with the file. Dispensed by specialty pharmacy (press release), so not buy-and-bill. REMS not mentioned."
+  },
+  {
+    "brand": "Vpriv",
+    "generic": "velaglucerase alfa",
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Two searches (generic LDD query and a Takeda/OnePath query) returned only payer PA criteria, GoodRx, EMA pages, a Kaiser referral form and an infusion-center order form (vivoinfusion.com); no manufacturer HCP/access page and no pharmacy press release surfaced, so nothing was fetched and no network can be verified. Manufacturer left null because no source read displayed it. Not on the TRICARE LDD list. The file's CVS Specialty / Optum / Orsini entries could not be verified or refuted. Vpriv is an IV enzyme replacement infused every other week (the infusion-center order form in results suggests at least some provider-administered/buy-and-bill use alongside specialty-pharmacy home infusion), so buy_and_bill is left null."
+  },
+  {
+    "brand": "Vumerity",
+    "generic": "diroximel fumarate",
+    "manufacturer": "Biogen",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "Biogen Support Services",
+      "phone": "1-800-456-2255",
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read the manufacturer patient page vumerity.com 'Getting started' and the Biogen 'Insurance coverage path' PDF. Both say 'VUMERITY is not available at your local pharmacy or through standard mail' and that the prescriber/insurer order it 'from a specialty pharmacy', but neither names any specialty pharmacy and neither uses exclusive language. Hub shown: Biogen Support Services / Biogen Support Coordinators, 800-456-2255 (M-F 8:30am-8pm ET); Biogen Copay Program at biogencopayprogram.com. Manufacturer Biogen ('Biogen, the makers of VUMERITY'). Generic from payer policy titles in search results. A search result showed an Amber Specialty Pharmacy Vumerity referral form (amberpharmacy.com), suggesting Amber dispenses it, but it was not read and is not recorded. Not on the TRICARE LDD list. File entries (CVS Specialty, Optum) could not be verified or refuted. Oral capsule; not buy-and-bill. REMS not mentioned."
+  },
+  {
+    "brand": "VYALEV",
+    "generic": "foscarbidopa/foslevodopa",
+    "manufacturer": "AbbVie Inc.",
+    "pharmacies": [
+      {
+        "name": "Acaria Health",
+        "source_url": "https://www.abbvieaccess.com/content/dam/abbvieaccess/pdf/VYALEV-Enrollment-and-Prescription-Form-Update-Annotated.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Accredo",
+        "source_url": "https://www.abbvieaccess.com/content/dam/abbvieaccess/pdf/VYALEV-Enrollment-and-Prescription-Form-Update-Annotated.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://www.abbvieaccess.com/content/dam/abbvieaccess/pdf/VYALEV-Enrollment-and-Prescription-Form-Update-Annotated.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Pharmacy Solutions",
+        "source_url": "https://www.abbvieaccess.com/content/dam/abbvieaccess/pdf/VYALEV-Enrollment-and-Prescription-Form-Update-Annotated.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "VYALEV Complete",
+      "phone": "1-866-489-2538",
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": "AbbVie's VYALEV enrollment/prescription form lists four 'participating specialty pharmacies' (Acaria Health, Accredo, CVS Specialty, Pharmacy Solutions); the file lists only Accredo and CVS Specialty, omitting Acaria Health and Pharmacy Solutions.",
+    "notes": "Read AbbVie's annotated VYALEV Enrollment and Prescription Form (abbvieaccess.com). It gives 'phone numbers and phone tree menu options to reach a representative at participating specialty pharmacies': Acaria Health 800-511-5144, Accredo 888-200-2811, CVS Specialty 877-437-8469, Pharmacy Solutions 877-648-3738, and refers to 'the specialty pharmacy selected by your patient or specified by their insurance'; no exclusive/only wording. Hub shown: VYALEV Complete (may provide no-charge product for insurance access challenges), questions 1-866-489-2538, fax 1-888-953-2762. Manufacturer AbbVie Inc.; generic foscarbidopa/foslevodopa. Not on the TRICARE LDD list. Continuous subcutaneous infusion via pump, dispensed by specialty pharmacy for home use; not buy-and-bill. REMS not mentioned."
+  },
+  {
+    "brand": "VYEPTI",
+    "generic": "eptinezumab-jjmr",
+    "manufacturer": "Lundbeck",
+    "pharmacies": [
+      {
+        "name": "Orsini Pharmaceutical Services",
+        "source_url": "https://www.biospace.com/orsini-pharmaceutical-services-selected-to-provide-vyepti-eptinezumab-jjmr-the-first-and-only-intravenous-preventive-treatment-for-migraine",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "AllianceRx Walgreens Prime",
+        "source_url": "https://www.chaindrugreview.com/alliancerx-walgreens-prime-one-of-only-two-specialty-pharmacies-to-distribute-vyepti/",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": {
+      "name": "VYEPTI CONNECT",
+      "phone": "833-4-VYEPTI",
+      "url": "www.VYEPTIHCP.com"
+    },
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": false,
+    "conflict_note": "File lists only Orsini. A trade-press report of Lundbeck's 2020 selection says AllianceRx Walgreens Prime was 'one of only two specialty pharmacies to distribute' Vyepti (the other being Orsini per its own release). Not a manufacturer-page conflict, but the file appears to be missing AllianceRx Walgreens Prime (now Walgreens Specialty) unless it has since been dropped.",
+    "notes": "Two searches; no Lundbeck HCP ordering page surfaced. Read Orsini's April 22, 2020 release (biospace): Orsini 'selected as one of a very limited number of distribution partners for VYEPTI' by Lundbeck; no other pharmacy named. Read Chain Drug Review: Lundbeck 'named AllianceRx Walgreens Prime one of only two specialty pharmacies to distribute' Vyepti. Read NeurologyLive (Apr 9, 2020): Vyepti 'can be obtained via select specialty distributors and specialty pharmacies'; hub programs VYEPTI Go (patient support), VYEPTI Copay Assistance, and VYEPTI CONNECT for HCPs at www.VYEPTIHCP.com / 833-4-VYEPTI option 1 (hub details come from that article, not a Lundbeck page, and may be outdated). Vyepti is a quarterly IV infusion administered in a provider setting and is also sold through specialty distributors (buy-and-bill), so the specialty-pharmacy network is a limited white-bagging channel rather than the only route; buy_and_bill set true with that nuance. Not on the TRICARE LDD list. REMS not mentioned."
+  },
+  {
+    "brand": "Vyjuvek",
+    "generic": null,
+    "manufacturer": "Krystal Biotech, Inc.",
+    "pharmacies": [
+      {
+        "name": "Option Care Health",
+        "source_url": "https://www.hmenews.com/article/option-care-nabs-exclusive-distribution-contract-for-vyjuvek",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "Option Care Health",
+        "source_url": "https://www.stocktitan.net/news/OPCH/option-care-health-selected-by-krystal-biotech-as-part-of-a-limited-umacxllvb2p2.html",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "File lists CVS Specialty and Orsini, neither of which is named in any source read. Option Care Health's May 23, 2023 release (Krystal Biotech selection) says Option Care 'will serve as the only specialty pharmacy provider for mixing and delivering prepared VYJUVEK gel administration syringes' as part of a limited distribution network. This is a press release, not a manufacturer page, and the network may have widened since 2023, but the file's pharmacies are unverified and the 2023 'only' claim contradicts them.",
+    "notes": "Two searches; no Krystal Biotech HCP distribution page surfaced (results were the Option Care release, BCBS Michigan provider alerts, Credence provider-administered drug list, earnings transcripts). Read HME News and the Option Care Health release (stocktitan mirror): Krystal Biotech selected Option Care Health 'as part of a limited distribution specialty pharmacy network for VYJUVEK' and Option Care 'will serve as the only specialty pharmacy provider for mixing and delivering prepared VYJUVEK gel administration syringes' to professional healthcare and home settings, with Amedisys nurses administering in the home. No other pharmacy, hub name or phone appears. Topical gene therapy applied weekly by a healthcare professional (home-health nurse or clinic) but prepared/dispensed by specialty pharmacy, so recorded as not buy-and-bill (BCBS Michigan and Credence list it as a provider-administered specialty drug in search-result titles, so some payers run it on the medical benefit). Generic name not displayed in sources read. Not on the TRICARE LDD list. REMS not mentioned."
+  },
+  {
+    "brand": "Vykat XR",
+    "generic": "diazoxide choline",
+    "manufacturer": "Soleno Therapeutics, Inc.",
+    "pharmacies": [
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://vykatxr.com/patient-support-overview",
+        "source_type": "manufacturer",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": {
+      "name": "Soleno One",
+      "phone": "1-833-765-3661",
+      "url": "https://www.vykatxr.com/"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read Soleno's VYKAT XR patient-support overview page (vykatxr.com): the Soleno One program is 'operated exclusively through our specialty pharmacy partner, PANTHERx Rare'; no other pharmacy named. Hub shown: Soleno One, 1-833-SOLENO-1 (1-833-765-3661), M-F 8am-8pm ET; Soleno One VYKAT XR Copay Program. Manufacturer Soleno Therapeutics, Inc.; generic diazoxide choline extended-release tablets. A March 28, 2025 PANTHERx release ('PANTHERx Rare Selected by Soleno Therapeutics for the Distribution of VYKAT XR') appeared in results but was not fetched. Agrees with the file. Not on the TRICARE LDD list. Oral tablet; not buy-and-bill. REMS not mentioned."
+  },
+  {
+    "brand": "Vyleesi",
+    "generic": "bremelanotide",
+    "manufacturer": "Cosette Pharmaceuticals",
+    "pharmacies": [
+      {
+        "name": "KnippeRx",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Zeal Pharmacy",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Two searches; no Cosette/Vyleesi HCP access page or pharmacy press release surfaced (results were GoodRx, payer PA policies, Medical Letter, and the Jan 3, 2024 Business Wire release 'Cosette Pharmaceuticals Acquires Vyleesi (bremelanotide injection) from Palatin Technologies', from which manufacturer and generic are taken). Only network source is the TRICARE LDD list row 'Vyleesi KNIPPERX, ZEAL PHARMACY', which matches the file. Self-administered subcutaneous autoinjector dispensed by pharmacy; not buy-and-bill. REMS not mentioned."
+  },
+  {
+    "brand": "Vyndamax",
+    "generic": "tafamidis",
+    "manufacturer": "Pfizer Inc.",
+    "pharmacies": [
+      {
+        "name": "Accredo Specialty Pharmacy",
+        "source_url": "https://www.amerisourcebergen.com/-/media/assets/amerisourcebergen/340b/manf-letters/20230811-vynda-network-eff-20231101.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "AllianceRx Walgreens Prime",
+        "source_url": "https://www.amerisourcebergen.com/-/media/assets/amerisourcebergen/340b/manf-letters/20230811-vynda-network-eff-20231101.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CenterWell Specialty Pharmacy",
+        "source_url": "https://www.amerisourcebergen.com/-/media/assets/amerisourcebergen/340b/manf-letters/20230811-vynda-network-eff-20231101.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://www.amerisourcebergen.com/-/media/assets/amerisourcebergen/340b/manf-letters/20230811-vynda-network-eff-20231101.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "OptumRx Specialty Services",
+        "source_url": "https://www.amerisourcebergen.com/-/media/assets/amerisourcebergen/340b/manf-letters/20230811-vynda-network-eff-20231101.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Orsini Healthcare",
+        "source_url": "https://www.amerisourcebergen.com/-/media/assets/amerisourcebergen/340b/manf-letters/20230811-vynda-network-eff-20231101.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "VynAssist",
+      "phone": "1-888-863-1177",
+      "url": "https://www.myvynassist.com/access-support"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": "Pfizer's August 2023 VYNDA Network letter names six national specialty pharmacies (Accredo, AllianceRx Walgreens Prime, CenterWell, CVS Specialty, OptumRx Specialty, Orsini) plus enrolled institutions/IDN specialty pharmacies; the file lists four (AllianceRx Walgreens, CVS Specialty, Optum, Orsini) and omits Accredo and CenterWell Specialty Pharmacy.",
+    "notes": "Read Pfizer's VyndamaxPfizerPro 'Accessing VYNDAMAX' page: Rx goes to a specialty pharmacy and is 'delivered directly to the patient's home'; 'Use your own IDN SPP if eligible, or choose from our network of distribution partners' (partners listed in a linked PDF not read); hub shown as VynAssist Access Care Managers 1-888-863-1177 (M-F 8-7 ET), myVynAssist.com. Read vyndamax.com 'Starting Vyndamax': 'Your doctor sends your VYNDAMAX prescription to a specialty pharmacy'; VynAssist 1-888-863-1177, myvynassist.com/access-support; no pharmacy names. Read Pfizer's Aug 2023 340B letter (hosted on amerisourcebergen.com, signed by Pfizer Government Contracts), effective Nov 1, 2023: the 'VYNDA Network' includes six national specialty pharmacies (Accredo Specialty Pharmacy, Alliance Rx Walgreens Prime, CenterWell Specialty Pharmacy, CVS Specialty, OptumRx Specialty Services, Orsini Healthcare) and eligible institutions (enrollment via Acentrus, Asembia, Shields); orders outside the network 'will not be honored by Pfizer on or after November 1, 2023'. Limited network, but no exclusive/only wording for any one pharmacy. Oral capsule; not buy-and-bill. Not on the TRICARE LDD list. REMS not mentioned."
+  },
+  {
+    "brand": "Vyndaqel",
+    "generic": "tafamidis meglumine",
+    "manufacturer": "Pfizer Inc.",
+    "pharmacies": [
+      {
+        "name": "Accredo Specialty Pharmacy",
+        "source_url": "https://www.amerisourcebergen.com/-/media/assets/amerisourcebergen/340b/manf-letters/20230811-vynda-network-eff-20231101.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "AllianceRx Walgreens Prime",
+        "source_url": "https://www.amerisourcebergen.com/-/media/assets/amerisourcebergen/340b/manf-letters/20230811-vynda-network-eff-20231101.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CenterWell Specialty Pharmacy",
+        "source_url": "https://www.amerisourcebergen.com/-/media/assets/amerisourcebergen/340b/manf-letters/20230811-vynda-network-eff-20231101.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://www.amerisourcebergen.com/-/media/assets/amerisourcebergen/340b/manf-letters/20230811-vynda-network-eff-20231101.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "OptumRx Specialty Services",
+        "source_url": "https://www.amerisourcebergen.com/-/media/assets/amerisourcebergen/340b/manf-letters/20230811-vynda-network-eff-20231101.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Orsini Healthcare",
+        "source_url": "https://www.amerisourcebergen.com/-/media/assets/amerisourcebergen/340b/manf-letters/20230811-vynda-network-eff-20231101.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "VynAssist",
+      "phone": "1-888-863-1177",
+      "url": "https://www.myvynassist.com/access-support"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": "Pfizer's VYNDA Network letter (covering Vyndaqel and Vyndamax) names six national specialty pharmacies (Accredo, AllianceRx Walgreens Prime, CenterWell, CVS Specialty, OptumRx Specialty, Orsini) plus enrolled institutions; the file lists three (AllianceRx Walgreens, CVS Specialty, Optum) and omits Accredo, CenterWell Specialty Pharmacy and Orsini.",
+    "notes": "Searched together with Vyndamax (same Pfizer franchise and the same VYNDA Network). Pfizer's Aug 2023 340B letter (effective Nov 1, 2023, hosted on amerisourcebergen.com) defines the 'VYNDA Network' of six national specialty pharmacies (Accredo Specialty Pharmacy, Alliance Rx Walgreens Prime, CenterWell Specialty Pharmacy, CVS Specialty, OptumRx Specialty Services, Orsini Healthcare) plus eligible VYNDA Network Institutions; orders outside it 'will not be honored'. The vyndamax.com starting page read also states 'Access to VYNDAQEL (tafamidis meglumine) is available through each prescription pathway' and that the Rx is sent 'to a specialty pharmacy'; hub VynAssist 1-888-863-1177, myvynassist.com/access-support. No exclusive/only wording for any single pharmacy. Oral capsule; not buy-and-bill. Not on the TRICARE LDD list. REMS not mentioned."
+  },
+  {
+    "brand": "VYONDYS 53",
+    "generic": "golodirsen",
+    "manufacturer": "Sarepta Therapeutics",
+    "pharmacies": [
+      {
+        "name": "Orsini Pharmaceutical Services",
+        "source_url": "https://www.biospace.com/orsini-pharmaceutical-services-now-providing-fda-approved-vyondys-53-golodirsen-injection-for-duchenne-muscular-dystrophy-dmd",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "SareptAssist",
+      "phone": null,
+      "url": "www.SareptAssist.com"
+    },
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Two searches; no Sarepta HCP distribution page surfaced (results were Orsini's release and its product page, Option Care clinical policy PDFs for golodirsen, payer PA criteria). Read Orsini's Feb 5, 2020 release (biospace): Orsini 'selected as one of two limited distribution partners for VYONDYS 53 (golodirsen)', manufactured and marketed by Sarepta Therapeutics (Cambridge, MA); the second partner is not named; limited but no exclusive/only wording. Support program named: SareptAssist at www.SareptAssist.com (no phone shown). File lists Orsini only, which is consistent but the second partner is unverified. Vyondys 53 is a weekly IV infusion given by a healthcare professional (clinic or home-infusion nurse) and is dispensed through this limited specialty-pharmacy network; whether it is also sold buy-and-bill was not stated in anything read, so buy_and_bill is null. Not on the TRICARE LDD list. REMS not mentioned."
+  },
+  {
+    "brand": "VYVGART",
+    "generic": "efgartigimod alfa-fcab",
+    "manufacturer": "argenx US, Inc.",
+    "pharmacies": [
+      {
+        "name": "AcariaHealth Pharmacy",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Accredo Specialty Pharmacy",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CenterWell Specialty Pharmacy",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "InfuCare Rx",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Option Care Health",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Optum",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Soleo Health",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Walgreens Specialty Pharmacy",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Alivia Specialty Pharmacy (Puerto Rico only)",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "My VYVGART Path",
+      "phone": "1-833-697-2841 (1-833-MY-PATH-1)",
+      "url": "https://www.mypathenroll.com/"
+    },
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": "File lists only CVS Specialty and Optum Specialty Pharmacy. The argenx acquisition guide names a 10-pharmacy authorized network (AcariaHealth, Accredo, CenterWell, CVS Specialty, InfuCare Rx, Option Care Health, Optum, Soleo Health, Walgreens Specialty, Alivia-PR) plus nine specialty distributors for buy-and-bill. File is an incomplete subset, not contradicted, but the network is much wider than recorded.",
+    "notes": "Read argenx HCP access page (brandhcp.argenx.com/gmg/access/access-information) and the gMG VYVGART/VYVGART Hytrulo Acquisition Guide PDF. VYVGART IV (efgartigimod alfa-fcab, J9332) is provider-administered and argenx offers two channels: (1) buy-and-bill through a network of specialty distributors (ASD Healthcare, Besse, BioCareSD, Cardinal SPD, CuraScript SD, McKesson Plasma Biologic, McKesson Specialty Health, Oncology Supply) and (2) a 'network of authorized specialty pharmacies' that dispense to the HCP office (J-code billed at $0). Wording is 'please use the following specialty pharmacies or specialty distributors'; no exclusive/only language. So this is a hybrid: provider-administered buy-and-bill with a parallel contracted SP network, not a pure SP-dispensed LDD. My VYVGART Path phone shown in the acquisition guide; enrollment URL mypathenroll.com shown on access page. REMS not mentioned. Not on TRICARE Nov 2026 LDD list."
+  },
+  {
+    "brand": "Vyvgart Hytrulo",
+    "generic": "efgartigimod alfa and hyaluronidase-qvfc",
+    "manufacturer": "argenx US, Inc.",
+    "pharmacies": [
+      {
+        "name": "AcariaHealth Pharmacy",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Accredo Specialty Pharmacy",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CenterWell Specialty Pharmacy",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "InfuCare Rx",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Option Care Health",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Optum",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Soleo Health",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Walgreens Specialty Pharmacy",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Alivia Specialty Pharmacy (Puerto Rico only)",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/gMG-VYVGART-and-VYVGART-Hytrulo--Acquisition-Guide-and-Product-Fact-Sheet.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "My VYVGART Path",
+      "phone": "1-833-697-2841 (1-833-MY-PATH-1)",
+      "url": "https://www.mypathenroll.com/"
+    },
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": "File lists AllianceRx Walgreens Pharmacy, CVS Specialty and Optum Specialty Pharmacy only; the argenx acquisition guide names a 10-pharmacy authorized network (the Walgreens entity is listed as 'Walgreens Specialty Pharmacy', not AllianceRx) plus nine buy-and-bill specialty distributors. File is an incomplete subset. Also the file's generic 'efgartigimod alfa-fcab' is the IV product's generic; the Hytrulo generic is 'efgartigimod alfa and hyaluronidase-qvfc'.",
+    "notes": "Shared research with VYVGART record: argenx HCP access page and gMG Acquisition Guide PDF cover VYVGART Hytrulo vial (J9334; efgartigimod alfa and hyaluronidase-qvfc) with the same two channels as the IV product - buy-and-bill via specialty distributors, or dispensing to the HCP office by a 'network of authorized specialty pharmacies' (same 10 names). The vial is HCP-administered SC injection, so it is hybrid buy-and-bill plus contracted SP network; the prefilled syringe (self-injected) is covered in the separate 'VYVGART HYTRULO SQ' record. No exclusive/only language. My VYVGART Path phone from the acquisition guide; enrollment URL from the access page. REMS not mentioned. Not on TRICARE Nov 2026 LDD list."
+  },
+  {
+    "brand": "VYVGART HYTRULO SQ",
+    "generic": "efgartigimod alfa and hyaluronidase-qvfc",
+    "manufacturer": "argenx US, Inc.",
+    "pharmacies": [
+      {
+        "name": "AcariaHealth Pharmacy",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/vyvgart-hytrulo-prefilled-syringe-treatment-journey.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Accredo Specialty Pharmacy",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/vyvgart-hytrulo-prefilled-syringe-treatment-journey.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CenterWell Specialty Pharmacy",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/vyvgart-hytrulo-prefilled-syringe-treatment-journey.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/vyvgart-hytrulo-prefilled-syringe-treatment-journey.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "InfuCare Rx",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/vyvgart-hytrulo-prefilled-syringe-treatment-journey.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Option Care Health",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/vyvgart-hytrulo-prefilled-syringe-treatment-journey.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Optum",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/vyvgart-hytrulo-prefilled-syringe-treatment-journey.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Soleo Health",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/vyvgart-hytrulo-prefilled-syringe-treatment-journey.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Walgreens Specialty Pharmacy",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/vyvgart-hytrulo-prefilled-syringe-treatment-journey.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Alivia Specialty Pharmacy (Puerto Rico only)",
+        "source_url": "https://brandhcp.argenx.com/content/dam/vyvgart/hcp/pdfs/vyvgart-hytrulo-prefilled-syringe-treatment-journey.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "My VYVGART Path",
+      "phone": "1-833-697-2841 (1-833-MY-PATH-1)",
+      "url": "https://www.mypathenroll.com/"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read argenx 'VYVGART Hytrulo prefilled syringe treatment journey' PDF (linked from brandhcp.argenx.com/gmg/access/access-information, which says 'Order VYVGART Hytrulo prefilled syringe through a network of specialty pharmacies or distributors'). The PDF lists 10 'argenx Network Specialty Pharmacies' with phone/fax and says 'Send your patient's VYVGART Hytrulo prefilled syringe prescription directly to the specialty pharmacy... The specialty pharmacy will contact them to schedule shipment and training' - i.e., SP ships to the patient for self-injection, a genuine specialty-pharmacy LDD (not buy-and-bill). Language is 'contracted in-network specialty pharmacy'; no exclusive/only wording. My VYVGART Path: enrollment at MyPathEnroll.com, fax 1-833-698-7284; phone taken from the companion acquisition guide. File had no pharmacies on record; this fills them in. REMS not mentioned. Not on TRICARE Nov 2026 LDD list."
+  },
+  {
+    "brand": "Wainua",
+    "generic": "eplontersen",
+    "manufacturer": "AstraZeneca / Ionis Pharmaceuticals",
+    "pharmacies": [
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.orsini.com/?p=384",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.biospace.com/orsini-selected-as-the-exclusive-specialty-pharmacy-for-wainuatm-eplontersen-for-adults-with-hereditary-transthyretin-mediated-amyloid-polyneuropathy",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "Orsini",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Read Orsini's own press release (orsini.com, dated Jan 4 2024) and the BioSpace copy: 'Orsini is proud to be the exclusive specialty pharmacy offering access to WAINUA', selected by AstraZeneca and Ionis; caveat that WAINUA 'may also be available for use by integrated delivery networks (IDNs) within qualifying IDN-owned specialty pharmacies'. TRICARE Nov 2026 LDD list: Wainua -> ORSINI. Self-administered SC autoinjector, dispensed by specialty pharmacy (not buy-and-bill). No AstraZeneca/Wainua HCP page surfaced in two searches, so manufacturer page not found; no hub program name/phone shown on pages read (Orsini media phone only). File's exclusive/Orsini record is consistent with sources."
+  },
+  {
+    "brand": "Wakix",
+    "generic": "pitolisant",
+    "manufacturer": "Harmony Biosciences",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://wakixhcp.com/rxcenter/specialty-pharmacy",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://wakixhcp.com/rxcenter/specialty-pharmacy",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://wakixhcp.com/rxcenter/specialty-pharmacy",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Accredo",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "PANTHERx",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "WAKIX for You",
+      "phone": "1-855-WAKIX4U",
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read Harmony's HCP page wakixhcp.com/rxcenter/specialty-pharmacy, which lists exactly three specialty pharmacies with phone/fax: Accredo (1-800-987-4916), CVS (1-866-526-4151), PANTHERx Rare (1-866-797-4135), and says 'If you are unsure which Specialty Pharmacy to call, contact WAKIX for You at 1-855-WAKIX4U'. No exclusive/only wording, but the page presents a closed three-pharmacy list. Oral tablet dispensed by SP (not buy-and-bill). TRICARE Nov 2026 LDD list: Wakix -> ACCREDO, PANTHERX. File (Accredo, CVS Specialty, PANTHERx Rare) matches the manufacturer page exactly. REMS not mentioned; WAKIX for You URL not shown on the page read."
+  },
+  {
+    "brand": "WEZLANA",
+    "generic": "ustekinumab-auub",
+    "manufacturer": "Amgen Inc.",
+    "pharmacies": [
+      {
+        "name": "Nuvaila (Optum Health Solutions private-label subsidiary)",
+        "source_url": "https://aishealth.mmitnetwork.com/blogs/radar-on-specialty-pharmacy/optum-s-nuvaila-is-sole-distributor-of-first-stelara-biosimilar-wezlana",
+        "source_type": "other",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": "File lists CVS Specialty and Optum Specialty Pharmacy as a limited network. The only distribution source found (AIS Health, Jan 9 2025) says Amgen selected Optum's private-label subsidiary Nuvaila as 'sole distributor' of Wezlana. CVS Specialty is not supported by any source found; the Optum entry is consistent (via Nuvaila).",
+    "notes": "Two searches found no Amgen HCP ordering page for Wezlana (Amgen's amgensupportplus.com HCP request form surfaced but was not Wezlana-specific and was not read). The AIS Health 'Radar on Specialty Pharmacy' article (Jan 9 2025) reports Amgen made Optum's biosimilar private-label subsidiary Nuvaila the 'sole distributor' of Wezlana (ustekinumab-auub), the first Stelara biosimilar; it names no dispensing pharmacies. This is a private-label/PBM-exclusive arrangement rather than a classic manufacturer SP network. Wezlana has both IV (provider-administered induction) and SC (self-injected) presentations, so buy_and_bill left null. No hub program seen. Not on TRICARE Nov 2026 LDD list. REMS not mentioned."
+  },
+  {
+    "brand": "Winrevair",
+    "generic": "sotatercept-csrk",
+    "manufacturer": "Merck Sharp & Dohme LLC (Merck & Co., Inc.)",
+    "pharmacies": [
+      {
+        "name": "CVS Specialty Pharmacy",
+        "source_url": "https://www.merckconnect.com/winrevair/frequently-asked-questions/",
+        "source_type": "manufacturer",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "Accredo Health Group, Inc.",
+        "source_url": "https://www.merckconnect.com/winrevair/frequently-asked-questions/",
+        "source_type": "manufacturer",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "CVS",
+        "source_url": "https://pulmonaryhypertensionnews.com/news/winrevair-pah-treatment-adults-available-soon-us/",
+        "source_type": "other",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Accredo",
+        "source_url": "https://pulmonaryhypertensionnews.com/news/winrevair-pah-treatment-adults-available-soon-us/",
+        "source_type": "other",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "The Merck Access Program",
+      "phone": "1-855-494-6738 (1-855-4WINREVAIR, Merck National Service Center)",
+      "url": "merckaccessprogram.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read Merck's HCP FAQ at merckconnect.com/winrevair/frequently-asked-questions: 'Merck uses a limited Specialty Pharmacy network for WINREVAIR: CVS Specialty Pharmacy, and Accredo Health Group, Inc.' with phones (Accredo 866-344-4874, CVS 877-242-2738). exclusive_claimed set true because the manufacturer names a closed two-pharmacy 'limited' network (it does not literally use 'exclusive' and adds 'Merck is not affiliated with and does not endorse one Speciality Pharmacy over another'). Pulmonary Hypertension News (Apr 2024) reported CVS and Accredo were 'selected as specialty pharmacies to dispense Winrevair initially'. SC injection dispensed by SP (not buy-and-bill). Merck Access Program URL shown on page; the phone shown is the Merck National Service Center line, not labelled as the Access Program's own number. MerckHelps (merckhelps.com) also listed. REMS not mentioned. Not on TRICARE Nov 2026 LDD list. File (Accredo, CVS Specialty) matches."
+  },
+  {
+    "brand": "Xdemvy",
+    "generic": "lotilaner ophthalmic solution 0.25%",
+    "manufacturer": "Tarsus Pharmaceuticals",
+    "pharmacies": [
+      {
+        "name": "AllianceRx Walgreens Pharmacy",
+        "source_url": "https://drugstorenews.com/alliancerx-walgreens-pharmacy-selected-distribute-xdemvy",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "Tarsus Connect",
+      "phone": "1-866-846-3092",
+      "url": "xdemvy.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Drug Store News coverage of the AllianceRx Walgreens announcement says it is 'one of four specialty pharmacies selected to distribute Xdemvy'; the other three are not named, so the file's CVS Specialty entry is unverified (not contradicted). Tarsus's own launch press release (Aug 24 2023, read on BioSpace) says XDEMVY 'is now available at pharmacies nationwide for prescription' and names no pharmacy, and gives Tarsus Connect (1-866-846-3092, xdemvy.com) as the patient support program - that release is manufacturer-authored but hosted on a third-party site, so manufacturer_page_found is false; no Tarsus/xdemvyhcp.com access page surfaced in two searches. Topical eye drop, pharmacy-dispensed, not buy-and-bill. Not on TRICARE Nov 2026 LDD list. REMS not mentioned."
+  },
+  {
+    "brand": "Xembify",
+    "generic": "immune globulin subcutaneous (human)-klhw 20%",
+    "manufacturer": "Grifols",
+    "pharmacies": [
+      {
+        "name": "Soleo Health",
+        "source_url": "https://www.businesswire.com/news/home/20200401005095/en",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Read Soleo Health's Business Wire release (approx. Apr 1 2020): 'Selected by Grifols as Limited Drug Distribution Partner for XEMBIFY', 'one of their specialty pharmacy limited drug distribution providers' - confirms Grifols runs a limited SP network but not exclusive, and names no other pharmacies. Two searches found no Grifols/xembify.com HCP ordering page, so the file's Accredo, CVS Specialty and Optum entries are unverified (not contradicted). A third-party site (PrescriberPoint) describes an 'Xembify Connexions' patient assistance program with a phone number, but it was not seen on a manufacturer page so hub_program is left null. Xembify is a self-administered SC immunoglobulin dispensed by SP/home-infusion providers, not buy-and-bill. Not on TRICARE Nov 2026 LDD list. REMS not mentioned."
+  },
+  {
+    "brand": "Xenazine",
+    "generic": "tetrabenazine",
+    "manufacturer": "Lundbeck",
+    "pharmacies": [
+      {
+        "name": "Advanced Care Scripts (Omnicare Specialty Care Group)",
+        "source_url": "https://drugstorenews.com/news/lundbeck-adds-omnicare-limited-distribution-network-huntingtons-drug",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Only usable source was an undated Drug Store News item: Lundbeck added Omnicare's specialty pharmacy Advanced Care Scripts to the Xenazine limited distribution network, with Omnicare described as 'the exclusive partner of product in the long-term care channel' (exclusive_claimed true applies to the LTC channel only). No Lundbeck/xenazineusa.com HCP page surfaced in two searches, and no source named Accredo, CVS Specialty or Walgreens for Xenazine, so the file's pharmacies are unverified (not contradicted). Oral tablet, pharmacy-dispensed, not buy-and-bill. Generic tetrabenazine has been available for years, so the brand LDD network may be legacy. Not on TRICARE Nov 2026 LDD list. REMS not mentioned."
+  },
+  {
+    "brand": "XENLETA INJECTION",
+    "generic": "lefamulin",
+    "manufacturer": "Nabriva Therapeutics",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": false,
+    "conflict_note": "File lists CVS Specialty as a limited network; no source found names any specialty pharmacy for XENLETA. Nabriva's 2020 SEC filing says XENLETA (oral and IV) is sold in the U.S. 'through major specialty distributors' (unnamed), not through a specialty pharmacy network.",
+    "notes": "Two searches surfaced only 2019-2020 material: Nabriva's SEC 10-Q (sec.gov) stating XENLETA became available in the US in Sept 2019 'through major specialty distributors'; a Nabriva-Vizient agreement to make XENLETA available to Vizient's hospital pharmacy network program; and a June 2020 WEP Clinical release about an exclusive named-patient (ex-US) program. No manufacturer HCP/ordering page and no current (2024+) US distribution source found; no pharmacy named anywhere. The IV formulation is a hospital-administered antibiotic acquired via wholesalers/specialty distributors, i.e., provider-administered (buy-and-bill style), not a specialty-pharmacy LDD. Not on TRICARE Nov 2026 LDD list. REMS not mentioned."
+  },
+  {
+    "brand": "XENLETA TABLET",
+    "generic": "lefamulin",
+    "manufacturer": "Nabriva Therapeutics",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Shared research with XENLETA INJECTION. Nabriva's 2020 SEC filing says the oral tablets were made available in the US (Sept 2019) 'through major specialty distributors' (unnamed); a 2020 Vizient agreement covered hospital pharmacy network access. No specialty pharmacy was named in any source, no manufacturer HCP/ordering page surfaced, and no current (2024+) US distribution information was found. Oral antibiotic for community-acquired bacterial pneumonia - a short-course retail/hospital product, not a typical specialty-pharmacy LDD and not buy-and-bill. File had no pharmacies on record. Not on TRICARE Nov 2026 LDD list. REMS not mentioned."
+  },
+  {
+    "brand": "XENPOZYME",
+    "generic": "olipudase alfa-rpcp",
+    "manufacturer": "Sanofi",
+    "pharmacies": [
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.orsini.com/therapeutic-areas/genetics/",
+        "source_type": "other",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "CareConnectPSS",
+      "phone": "1-800-745-4447, Option 3",
+      "url": "www.CareConnectPSS.com"
+    },
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": "File records a limited network of CVS Specialty and Orsini Specialty Pharmacy. Sanofi's XENPOZYME Billing and Coding Guide (Nov 2024) says the product can be ordered direct from Sanofi or from six authorized specialty distributors (Cardinal Health, Cardinal Health SPD, McKesson Specialty Health, McKesson Pharmaceutical Distribution, McKesson Plasma and Biologics, Morris & Dickson) and 'is also available through most specialty pharmacies' - i.e., Sanofi does not describe a limited SP network. CVS Specialty is not named by any source found; Orsini's own site lists Xenpozyme among therapies it supports.",
+    "notes": "Read Sanofi's XENPOZYME Billing and Coding Guide PDF (xenpozyme.com): J0218, 'expected to be covered under the Medicare Part B benefit', 'should be administered in a clinic or hospital setting during the dose-escalation phase', home infusion by an HCP possible in maintenance - a provider-administered infused enzyme replacement therapy acquired buy-and-bill from Sanofi (Rare Disease Product Services 800-745-4447 Opt 1) or authorized specialty distributors, with SP access described only as 'available through most specialty pharmacies' (none named). So this is NOT a specialty-pharmacy LDD per the manufacturer. CareConnectPSS hub shown on the guide. Orsini's genetics therapeutic-area page lists 'Xenpozyme (olipudase alfa-rpcp)' under ASMD therapies supported (not a manufacturer designation). Cigna's PA form lists Accredo as Cigna's generic preferred SP, not a Xenpozyme-specific network, so not recorded. Not on TRICARE Nov 2026 LDD list. REMS not mentioned."
+  },
+  {
+    "brand": "Xeomin",
+    "generic": "incobotulinumtoxinA",
+    "manufacturer": "Merz Pharmaceuticals, LLC",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "MERZ CONNECT",
+      "phone": "1-855-463-7989 (1-855-4MERZTX)",
+      "url": "merzconnect.com/patient-xeomin"
+    },
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": "File records a limited SP network of CVS Specialty and Optum Specialty Pharmacy. Merz's HCP page names no specialty pharmacy; Xeomin is an HCP-injected neurotoxin acquired primarily by providers (buy-and-bill), with specialty pharmacy only as an optional reimbursement route ('If Using Specialty Pharmacy' via the MERZFLEX portal). No source found supports CVS Specialty or Optum as a designated network, so the LDD classification is unsupported.",
+    "notes": "Read Merz's HCP page hcp.xeomin.com/patient-assistance: XEOMIN (incobotulinumtoxinA) for injection; MERZ CONNECT savings (up to $5,000/yr) and patient assistance programs, phone 1-855-4MERZTX, URL merzconnect.com/patient-xeomin. The page names no distributor or specialty pharmacy; it references an 'If Using Specialty Pharmacy' MERZFLEX portal and a 'specialty pharmacy invoice' for savings-program reimbursement, implying SP acquisition is one option alongside provider purchase. Botulinum toxin is administered by the HCP in office, so this is provider-administered buy-and-bill, not a specialty-pharmacy LDD. Page does not literally use 'buy-and-bill'. Boxed warning for distant spread of toxin effect but no REMS mentioned. Not on TRICARE Nov 2026 LDD list."
+  },
+  {
+    "brand": "Xermelo",
+    "generic": "telotristat ethyl",
+    "manufacturer": "TerSera Therapeutics LLC",
+    "pharmacies": [
+      {
+        "name": "Biologics by McKesson",
+        "source_url": "https://www.mckesson.com/about-us/newsroom/press-releases/2022/biologics-mckesson-exclusive-specialty-pharmacy-provider-xermelo",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "Biologics by McKesson",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "TerSera Nurse Support Program",
+      "phone": null,
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "File lists Biologics by McKesson AND Optum Specialty Pharmacy; McKesson press release (July 25, 2022) says TerSera selected Biologics as the 'exclusive specialty pharmacy provider' for Xermelo effective Sept 1, 2022, and the TRICARE Nov 2026 LDD list shows Xermelo = BIOLOGICS only. Optum is not named by any source found.",
+    "notes": "Read the McKesson press release (July 25, 2022): TerSera Therapeutics selected Biologics by McKesson as the exclusive specialty pharmacy provider for Xermelo (oral capsule for carcinoid syndrome diarrhea) effective Sept 1, 2022; release mentions a 'TerSera Nurse Support Program' with no phone/URL (the 800-850-4306 number on the page is Biologics' prescription line, not the hub). TRICARE Nov 2026 LDD PDF lists 'Xermelo BIOLOGICS'. Oral self-administered drug dispensed by specialty pharmacy, not provider-administered. No TerSera-owned HCP/access page was surfaced in search (1 search used), so manufacturer_page_found=false."
+  },
+  {
+    "brand": "XIAFLEX",
+    "generic": "collagenase clostridium histolyticum",
+    "manufacturer": "Endo",
+    "pharmacies": [
+      {
+        "name": "CVS Specialty Pharmacy",
+        "source_url": "https://peyronies-disease.xiaflex.com/office-staff/acquisition/sp/",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "Keenova CARES / Endo Advantage",
+      "phone": null,
+      "url": "https://peyronies-disease.xiaflex.com/office-staff/endo-advantage/"
+    },
+    "rems": true,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": "File lists CVS Specialty and US Bioservices; the manufacturer's specialty-pharmacy acquisition page names CVS Specialty Pharmacy (1-844-343-4221) as the only specialty pharmacy. US Bioservices is not named on the manufacturer page read.",
+    "notes": "Read Endo's XIAFLEX office-staff acquisition pages. SP page (peyronies-disease.xiaflex.com/office-staff/acquisition/sp/): CVS Specialty Pharmacy is the sole SP named; under the SP model the pharmacy bills the plan for the drug and the office bills the procedure; 'Medicare Part B does not allow this option'. SD page (.../acquisition/sd/): Besse Medical (1-800-543-2111) is the only specialty distributor named for buy-and-bill ('your office pays for the drug and bills the insurance plan for both the drug and the procedure'). XIAFLEX is a provider-administered injection available via both buy-and-bill (SD) and a specialty-pharmacy (white-bag) channel, so it is a hybrid, not a pure SP LDD. Page states XIAFLEX is available 'only through a restricted program under a REMS' (XIAFLEX REMS Program, xiaflexrems.com). Hub: Keenova CARES / Endo Advantage referenced on the page with URL but no phone shown. Not on TRICARE LDD list. The generic name was not on the fetched text and is supplied from general knowledge."
+  },
+  {
+    "brand": "Xolair",
+    "generic": "omalizumab",
+    "manufacturer": "Genentech (co-promoted with Novartis in the US)",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read Genentech's product-distribution page (gene.com/contact-us/customer-service/product-distribution): it lists XOLAIR for subcutaneous use under 'Find an authorized distributor' and links to a genentech-access.com Xolair product-distribution page, but itself names no distributors or specialty pharmacies and makes no exclusive claims; Genentech Customer Service (800) 551-2231 shown. The genentech-access.com Xolair product-distribution page (https://www.genentech-access.com/hcp/brands/xolair/learn-about-our-services/product-distribution.html) could not be fetched (fetch permission blocked), so the actual authorized SP/distributor list was not verified. Xolair vials are provider-administered (buy-and-bill via authorized distributors); the PFS/autoinjector may be dispensed by specialty pharmacy for self-injection (see XOLAIR PF SYRINGE record). No source read names CVS Specialty or Optum, so the file's entries are unverified rather than contradicted. Not on the TRICARE LDD list, consistent with broad (non-limited) distribution. 2 searches used."
+  },
+  {
+    "brand": "XOLAIR PF SYRINGE",
+    "generic": "omalizumab (prefilled syringe)",
+    "manufacturer": "Genentech (co-promoted with Novartis in the US)",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Shared research with the Xolair record. Read Novartis's April 12, 2021 press release (novartis.com): FDA approved the Xolair prefilled syringe for self-injection across all indications for appropriate patients after at least three provider-observed injections; Novartis and Genentech co-promote Xolair in the US. The release does not say how the PFS is dispensed and names no pharmacies or hub program (phones shown are adverse-event lines only). Genentech's product-distribution page lists Xolair SC under authorized distributors but names none; the genentech-access.com Xolair distribution page was blocked from fetching. The PFS is self-administrable and therefore can flow through specialty pharmacies as well as buy-and-bill (hence buy_and_bill null). File has no pharmacies and type unknown; no source found to populate them. Not on the TRICARE LDD list."
+  },
+  {
+    "brand": "Xolremdi",
+    "generic": "mavorixafor",
+    "manufacturer": "X4 Pharmaceuticals",
+    "pharmacies": [
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1501697/000162828025014805/xfor-20241231.htm",
+        "source_type": "other",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "X4Connect",
+      "phone": "1-844-942-6628",
+      "url": "https://www.xolremdihcp.com/access-and-support"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read X4's HCP page (x4pharma.com/healthcare-professionals): names no dispensing pharmacy; gives X4Connect at 1-844-X4CNNCT (844-942-6628), M-F 8am-8pm ET, linking to xolremdihcp.com/access-and-support (that page itself was blocked from fetching). Read X4's FY2024 10-K (sec.gov, the company's own filing, recorded as source_type 'other' since it is not the manufacturer's website): 'XOLREMDI is commercially available in the U.S. through our specialty pharmacy partner PANTHERx Rare', which dispenses to patients and serves as point of contact for HCP/patient inquiries; no 'exclusive'/'limited distribution' wording in the portion read. TRICARE Nov 2026 LDD: 'Xolremdi PANTHERX'. Oral capsule dispensed by specialty pharmacy, not provider-administered. REMS not mentioned on pages read. File (PANTHERx Rare) agrees with sources."
+  },
+  {
+    "brand": "Xyrem",
+    "generic": "sodium oxybate",
+    "manufacturer": "Jazz Pharmaceuticals",
+    "pharmacies": [
+      {
+        "name": "Express Scripts Specialty Distribution Services (ESSDS)",
+        "source_url": "https://investor.jazzpharma.com/node/15711/html",
+        "source_type": "other",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "ESSDS",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": true,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": "File lists Accredo and ESSDS. Sources name only ESSDS (Jazz 2017 8-K: Express Scripts Specialty Distribution Services provides 'exclusive distribution' of Xyrem in the US; TRICARE LDD: 'Xyrem ESSDS'); xywav.com says the REMS Certified Pharmacy is 'the only pharmacy in the United States that is permitted to fill' prescriptions. Accredo is not named by any source read (it is a separate Express Scripts entity).",
+    "notes": "Research shared with Xywav (same 'XYWAV and XYREM REMS'). Read Jazz's June 28, 2017 Form 8-K (investor.jazzpharma.com): Pharmacy Master Services Agreement with Express Scripts Specialty Distribution Services, Inc. for 'exclusive distribution and other customer and patient support services' for Xyrem in the US (previously distributed through Express Scripts and CuraScript). Read xywav.com/getting-xywav and xywav.com/faq (Jazz manufacturer pages): product is supplied only through the REMS Certified Pharmacy (not named on the page); REMS specialists line 1-866-997-3688; JazzCares nurse case managers mentioned. TRICARE Nov 2026 LDD lists 'Xyrem ESSDS'. Oral solution dispensed by the single REMS-certified pharmacy; not provider-administered. Hub program for Xyrem specifically was not seen on a Xyrem page, so hub_program is null (JazzCares seen only on Xywav pages). 2 searches used for the pair."
+  },
+  {
+    "brand": "Xywav",
+    "generic": "calcium, magnesium, potassium, and sodium oxybates",
+    "manufacturer": "Jazz Pharmaceuticals",
+    "pharmacies": [
+      {
+        "name": "ESSDS",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "JazzCares",
+      "phone": null,
+      "url": "https://www.xywav.com/jazzcares-for-xywav"
+    },
+    "rems": true,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": "File lists Accredo and ESSDS. Manufacturer pages (xywav.com) say 'the Certified Pharmacy is the only pharmacy in the United States that is permitted to fill your XYWAV prescription' (pharmacy not named on the page); TRICARE LDD names 'Xywav ESSDS'. Accredo is not named by any source read.",
+    "notes": "Read Jazz manufacturer pages xywav.com/getting-xywav and xywav.com/faq: XYWAV is supplied through the single Certified Pharmacy under the 'XYWAV and XYREM REMS' program; patients must enroll in the REMS; REMS specialists 1-866-997-3688; REMS site XYWAVXYREMREMS.com; JazzCares Savings & Support with nurse case managers at xywav.com/jazzcares-for-xywav (no JazzCares phone shown). The pages do not name the certified pharmacy; the TRICARE Nov 2026 LDD lists 'Xywav ESSDS', and Jazz's 2017 8-K (see Xyrem record) names Express Scripts Specialty Distribution Services as exclusive distributor for Xyrem. Oral solution dispensed by the REMS pharmacy; not provider-administered. Generic name supplied from general knowledge (not on fetched text)."
+  },
+  {
+    "brand": "Yargesa",
+    "generic": "miglustat",
+    "manufacturer": "Edenbridge Pharmaceuticals",
+    "pharmacies": [
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.orsini.com/orsini-announcement-orsini-specialty-pharmacy-chosen-to-dispense-yargesa-miglustat/",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://www.biospace.com/pantherx-rare-selected-by-edenbridge-pharmaceuticals-as-specialty-pharmacy-for-yargesa-miglustat-100-mg-capsules",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Read Orsini's April 18, 2024 announcement: Edenbridge Pharmaceuticals chose Orsini as 'preferred specialty pharmacy partner' and accepted it into Yargesa's 'limited distribution network'; no exclusive wording; no hub program named. Read PANTHERx Rare's April 1, 2024 release (BioSpace): PANTHERx selected by Edenbridge as specialty pharmacy for Yargesa (miglustat 100 mg capsules); no exclusive wording; no hub program. TRICARE Nov 2026 LDD: 'Yargesa PANTHERX, ORSINI'. Oral capsule dispensed by specialty pharmacy; not provider-administered. File (Orsini, PANTHERx Rare) matches all sources. No Edenbridge HCP/access page surfaced (1 search)."
+  },
+  {
+    "brand": "Yeztugo",
+    "generic": "lenacapavir",
+    "manufacturer": "Gilead Sciences",
+    "pharmacies": [
+      {
+        "name": "AcariaHealth",
+        "source_url": "https://www.yeztugohcp.com/coverage-acquisition",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Accredo Specialty Pharmacy",
+        "source_url": "https://www.yeztugohcp.com/coverage-acquisition",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Avita Specialty Pharmacy",
+        "source_url": "https://www.yeztugohcp.com/coverage-acquisition",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CenterWell Specialty Pharmacy",
+        "source_url": "https://www.yeztugohcp.com/coverage-acquisition",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Curant Health",
+        "source_url": "https://www.yeztugohcp.com/coverage-acquisition",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty Pharmacy",
+        "source_url": "https://www.yeztugohcp.com/coverage-acquisition",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Genoa Healthcare / Optum Specialty Pharmacy",
+        "source_url": "https://www.yeztugohcp.com/coverage-acquisition",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Walgreens Specialty Pharmacy",
+        "source_url": "https://www.yeztugohcp.com/coverage-acquisition",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Walmart Specialty Pharmacy",
+        "source_url": "https://www.yeztugohcp.com/coverage-acquisition",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "Gilead Advancing Access",
+      "phone": "1-800-226-2056",
+      "url": "https://prep.advancingaccess.com/hcp"
+    },
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": "File lists 4 pharmacies (AllianceRx Walgreens Pharmacy, CVS Specialty, Genoa Healthcare, Optum Specialty Pharmacy); Gilead's HCP acquisition page and SP contact card name 9 specialty pharmacies (AcariaHealth, Accredo, Avita, CenterWell, Curant Health, CVS Specialty, Genoa/Optum, Walgreens Specialty Pharmacy, Walmart Specialty Pharmacy). File omits AcariaHealth, Accredo, Avita, CenterWell, Curant Health and Walmart; Gilead lists 'Walgreens Specialty Pharmacy' rather than 'AllianceRx Walgreens'. No exclusivity claimed.",
+    "notes": "Read Gilead's yeztugohcp.com/coverage-acquisition page and the YEZTUGO SP contact card PDF (yeztugohcp.com/-/media/affinity/len4prephcp/file/yeztugo_sp_contact_card.pdf). The page describes two acquisition pathways for this HCP-administered twice-yearly SC injection: specialty pharmacy dispensing (9 named SPs with phone numbers) and buy-and-bill through 6 specialty distributors (McKesson Specialty/Plasma and Biologics, Cardinal Specialty, Besse Medical, ASD Healthcare, Morris & Dickson Specialty, CuraScript SD), plus in-house SP and alternate sites of care. No exclusive/'only' acquisition language; notes that payer networks may restrict SP choice. Gilead Advancing Access 1-800-226-2056, prep.advancingaccess.com/hcp. No REMS mentioned. Not on TRICARE LDD list. Hybrid buy-and-bill + specialty pharmacy product."
+  },
+  {
+    "brand": "Yimmugo",
+    "generic": "immune globulin intravenous (human)-dira 10% liquid",
+    "manufacturer": "Biotest AG (US distribution by Kedrion Biopharma)",
+    "pharmacies": [
+      {
+        "name": "AOM Infusion",
+        "source_url": "https://www.businesswire.com/news/home/20251202036399/en/AOM-Infusion-Designated-a-Limited-Distribution-Network-Specialty-Pharmacy-for-YIMMUGO-Immunoglobulin-Replacement-Therapy",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Advanced Infusion Care (AIC)",
+        "source_url": "https://businesswire.com/news/home/20251020834522/en/Advanced-Infusion-Care-AIC-Now-Offers-Kedrion-Biopharmas-YIMMUGO-Immune-Globulin-Intravenous-Human-Dira-10-Liquid",
+        "source_type": "press_release",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Read the Dec 2, 2025 BusinessWire release: Kedrion Biopharma selected AOM Infusion (Arlington, TX) as a 'limited distribution network specialty pharmacy' for YIMMUGO; no exclusive/sole wording; YIMMUGO is an IVIG infused every 3-4 weeks 'administered by a trained healthcare professional' at home or an infusion center. A March 13, 2026 release about QIVIGY repeats that AOM is in Kedrion's LDN for YIMMUGO. Search results also showed an Oct 20, 2025 BusinessWire title 'Advanced Infusion Care (AIC) Now Offers Kedrion Biopharma's YIMMUGO' (title only; not fetched) and a Soleo Health Yimmugo referral form. Search titles (Grifols/Biotest, Kedrion) describe Biotest as manufacturer with Kedrion holding exclusive US distribution rights. No Kedrion/Biotest HCP ordering page was found (2 searches). IVIG is HCP-administered and typically reaches patients via home-infusion/specialty pharmacies as well as hospital/clinic buy-and-bill, so buy_and_bill left null. File lists CVS Specialty and Optum Specialty Pharmacy, which no source read names (not contradicted, just unverified). Not on TRICARE LDD list."
+  },
+  {
+    "brand": "YONDELIS",
+    "generic": "trabectedin",
+    "manufacturer": "Janssen Products, LP (Johnson & Johnson)",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": "File lists CVS Specialty and Optum Specialty Pharmacy as a limited network. YONDELIS is a 24-hour IV infusion given via central venous access by a clinician (J&J Medical Connect administration-setting document), i.e., a provider-administered buy-and-bill oncology drug; no source read names any specialty pharmacy for it.",
+    "notes": "Read J&J Medical Connect's 'YONDELIS administration setting' PDF (jnjmedicalconnect.com): dosed 1.5 mg/m2 IV via central venous access over 24 hours every 3 weeks, inpatient or outpatient at clinician discretion, often via ambulatory pump; vesicant. Read buyandbill.com/yondelis-j9362: lists Janssen as manufacturer/labeler; no acquisition channel or patient-assistance program identified. Searches (2) surfaced no Janssen specialty-pharmacy network or specialty-distributor list for YONDELIS. Provider-administered IV chemotherapy -> buy-and-bill, NOT a specialty-pharmacy LDD. Not on TRICARE LDD list. Hub program not seen on pages read."
+  },
+  {
+    "brand": "Yorvipath",
+    "generic": "palopegteriparatide",
+    "manufacturer": "Ascendis Pharma (Ascendis Pharma Endocrinology, Inc.)",
+    "pharmacies": [
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://yorvipath.com/your-treatment-journey-and-support-with-asap/",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "PANTHERx Rare Pharmacy",
+        "source_url": "https://yorvipath.com/your-treatment-journey-and-support-with-asap/",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "Ascendis Signature Access Program (A·S·A·P)",
+      "phone": "1-844-442-7236",
+      "url": "https://yorvipath.com/your-treatment-journey-and-support-with-asap/"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read Ascendis's yorvipath.com ASAP page: YORVIPATH is 'shipped directly to your door by one of these specialty pharmacies, Orsini Specialty Pharmacy ((888) 204-7802) or PANTHERx Rare Pharmacy ((888) 379-1821)'; no explicit 'only/exclusive' wording, but only these two are named. Ascendis Signature Access Program 1-844-442-7236 (8am-8pm ET M-F). REMS not mentioned. Daily self-injected pen dispensed by specialty pharmacy; not provider-administered. TRICARE Nov 2026 LDD: 'Yorvipath PANTHERX, ORSINI'. File (Orsini, PANTHERx Rare) matches. 1 search used."
+  },
+  {
+    "brand": "YUFLYMA",
+    "generic": "adalimumab-aaty",
+    "manufacturer": "Celltrion USA, Inc.",
+    "pharmacies": [
+      {
+        "name": "CarePartners Specialty Pharmacy",
+        "source_url": "https://www.businesswire.com/news/home/20231016926590/en/Celltrion-USA-announces-distribution-and-incorporation-of-YUFLYMA%C2%AE-adalimumab-aaty-a-Humira%C2%AE-biosimilar-to-CarePartners-Specialty-Pharmacy-Cost-Savings-Programs",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Read Celltrion USA's Oct 16, 2023 BusinessWire release: YUFLYMA (Humira biosimilar, launched July 2, 2023) added to CarePartners Specialty Pharmacy's Cost Savings Programs; language is about broad access ('over 10 million lives'), with no exclusive/sole wording and no hub program/phone. Search result titles also referenced availability to Costco members (Aug 2024) and a Ventegra preferred-formulary placement, indicating broad retail/specialty distribution rather than a limited network. No Celltrion HCP access page found (1 search). Self-injected biologic dispensed by pharmacy; not provider-administered. File lists CVS Specialty only, which no source read names; the sources found do not support a limited-distribution classification, but no manufacturer page was read to formally contradict the file. Not on TRICARE LDD list."
+  },
+  {
+    "brand": "YUSIMRY",
+    "generic": "adalimumab-aqvh",
+    "manufacturer": "Coherus BioSciences (divested to Hong Kong King-Friend Industrial in 2024, per search-result titles)",
+    "pharmacies": [
+      {
+        "name": "Superior Biologics",
+        "source_url": "https://www.biospace.com/coherus-and-superior-biologics-announce-national-distribution-agreement-for-yusimry",
+        "source_type": "press_release",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Read the July 13, 2023 Coherus/Superior Biologics release (BioSpace): 'national distribution agreement' making Superior Biologics specialty pharmacy the 'first formal distribution agreement' for YUSIMRY ($995/carton); no exclusive wording; no hub program named. Search-result titles also showed a Mark Cuban Cost Plus Drug Company partnership for YUSIMRY (2023) and Coherus's June 2024 divestiture of YUSIMRY to Hong Kong King-Friend Industry ($40M) -- these were seen as titles only, not fetched. Self-injected Humira biosimilar dispensed by pharmacies; not provider-administered. No manufacturer HCP/access page found (2 searches). File lists CVS Specialty only, which no source read names; available evidence points to broad (non-limited) distribution, but no manufacturer page was read to formally contradict the file. Not on TRICARE LDD list."
+  }
+]
