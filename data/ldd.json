@@ -2,7 +2,7 @@
   "meta": {
     "name": "LDD Watch",
     "description": "Limited-distribution drug directory: which specialty pharmacies can dispense each drug.",
-    "last_updated": "2026-10-30",
+    "last_updated": "2026-10-31",
     "disclaimer": "Public information compiled from manufacturer, pharmacy, and FDA sources. Verify with the manufacturer or pharmacy before relying on it for a patient."
   },
   "drugs": [
@@ -17149,8 +17149,8 @@
     {
       "id": "hetlioz-suspension",
       "brand": "Hetlioz Suspension",
-      "generic": "Hetlioz Suspension",
-      "manufacturer": "unknown",
+      "generic": "tasimelteon",
+      "manufacturer": "Vanda Pharmaceuticals Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -17193,7 +17193,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "HETLIOZSolutions",
+        "phone": "1-844-438-5469",
+        "url": "https://www.hetliozpro.com/hetlioz-solutions/patient-support"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -17209,14 +17213,20 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Express Scripts (TRICARE Pharmacy Program)"
+        },
+        {
+          "url": "https://www.accredo.com/prescribers/referral-forms/hetlioz.pdf",
+          "type": "other",
+          "date_checked": "2026-10-31",
+          "note": "verification: Accredo"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 4 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 4 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: Manufacturer HCP page (hetliozpro.com) and the HETLIOZSolutions referral form (hosted by Accredo, program operated by RxCrossroads) state HETLIOZ/HETLIOZ LQ is 'distributed only through specialty pharmacies' but name no specific pharmacy network; the Accredo-hosted form covers HETLIOZ LQ liquid suspension, confirming Accredo dispenses it. Product is on the TRICARE Oct 2026 LDD list. On-file AllianceRx Walgreens, Optum, PANTHERx Rare and Walgreens Specialty were not confirmed by any manufacturer source (payer-list only)."
     },
     {
       "id": "bepirovirsen",
@@ -17275,8 +17285,8 @@
     {
       "id": "hizentra",
       "brand": "Hizentra",
-      "generic": "Hizentra",
-      "manufacturer": "unknown",
+      "generic": "immune globulin subcutaneous (human) 20% liquid",
+      "manufacturer": "CSL Behring LLC (manufactured by CSL Behring AG)",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -17298,7 +17308,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "Hizentra Connect",
+        "phone": "1-877-355-4447",
+        "url": "https://www.hizentra.com/hizentra-connect-enrollment/"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -17334,12 +17348,12 @@
           "note": "Health Alliance"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 6 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 6 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Manufacturer pages (hizentra.com, hizentrahcp.com) name no specialty pharmacy network and contain no limited/exclusive distribution language; the 'limited_network' type with CVS Specialty/Optum on file comes only from payer lists and reflects payer network restrictions, not a manufacturer LDD. Manufacturer patient and HCP pages found; they describe Hizentra Connect (Pharmacord-hosted enrollment, fax 1-866-720-4373) and self-administered subcutaneous infusion via 'your nurse or specialty pharmacy' with no named network. Not on the TRICARE Oct 2026 LDD list. On-file CVS Specialty and Optum Specialty Pharmacy are unverified by the manufacturer."
     },
     {
       "id": "pritelivir",
@@ -17353,8 +17367,20 @@
       ],
       "ndcs": [],
       "distribution_type": "unknown",
-      "pharmacies": [],
-      "hub_program": null,
+      "pharmacies": [
+        {
+          "name": "TC Script",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        }
+      ],
+      "hub_program": {
+        "name": "HOVILPRI Horizons",
+        "phone": "833-291-1033",
+        "url": "https://www.hovilprihcp.com/ordering-and-access"
+      },
       "rems": false,
       "cold_chain": false,
       "controlled_substance": false,
@@ -17382,20 +17408,26 @@
           "type": "other",
           "date_checked": "2026-10-29",
           "note": "US launch expected before end of 2026; no pricing or distribution disclosed."
+        },
+        {
+          "url": "https://www.hovilprihcp.com/ordering-and-access",
+          "type": "manufacturer",
+          "date_checked": "2026-10-31",
+          "note": "verification: TC Script"
         }
       ],
-      "confidence": "low",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Likely specialty/limited candidate (orphan-sized immunocompromised population, small US commercial organization, first-in-class oral antiviral) but no pharmacy network or distribution model has been published; product not yet launched (expected before end of 2026). Manufacturer phone 1-844-835-6947 from drugs.com is the general product line, not a confirmed hub. No REMS. Fetch-blocked URL: https://www.hovilprihcp.com (manufacturer HCP site, the only source that could support 'high'). Re-check hovilprihcp.com access/ordering pages and specialty pharmacy press releases at next review. openFDA NDC query blocked by proxy."
+      "next_review_date": "2027-01-29",
+      "notes": "Likely specialty/limited candidate (orphan-sized immunocompromised population, small US commercial organization, first-in-class oral antiviral) but no pharmacy network or distribution model has been published; product not yet launched (expected before end of 2026). Manufacturer phone 1-844-835-6947 from drugs.com is the general product line, not a confirmed hub. No REMS. Fetch-blocked URL: https://www.hovilprihcp.com (manufacturer HCP site, the only source that could support 'high'). Re-check hovilprihcp.com access/ordering pages and specialty pharmacy press releases at next review. openFDA NDC query blocked by proxy. Verification 2026-10-31: CONFLICT: Manufacturer HCP site (previously fetch-blocked) is now readable: it states 'HOVILPRI is not available at all specialty pharmacies' (limited network) and names a hub-affiliated pharmacy, HOVILPRI Horizons Pharmacy / TC Script, for EHR prescribing; no pharmacy was on file. Manufacturer HCP ordering-and-access page found (hovilprihcp.com): HOVILPRI Horizons hub (phone 833-291-1033, fax 833-847-9203, Mon-Fri 8am-8pm ET) routes prescriptions to 'a specialty pharmacy that can deliver HOVILPRI', and the page still says 'Product availability coming soon' (approved Oct 2026, not yet commercially available). Not on the TRICARE Oct 2026 LDD list; no REMS mentioned. Oral tablet, not buy-and-bill. Pharmacy named on the manufacturer page as HOVILPRI Horizons Pharmacy / TC Script (NPI 1104391770)."
     },
     {
       "id": "hulio",
       "brand": "HULIO",
-      "generic": "HULIO",
-      "manufacturer": "unknown",
+      "generic": "adalimumab-fkjp",
+      "manufacturer": "Biocon Biologics Ltd",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -17410,7 +17442,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "HULIO360",
+        "phone": null,
+        "url": null
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -17432,8 +17468,8 @@
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Manufacturer launch press release describes an open commercial launch (two WAC options offered to health plans and PBMs) with no limited/exclusive distribution language; the CVS Specialty-only 'limited_network' entry on file appears to be a payer/PBM network restriction rather than a manufacturer LDD. Only the Biocon Biologics US launch press release (bioconbiologics.com) was readable; the HCP site huliohcp.com redirects to adalimumabfkjphcp.com, which was fetch-blocked in this session. Not on the TRICARE Oct 2026 LDD list. On-file CVS Specialty not confirmed by any manufacturer source; self-injected biosimilar, not buy-and-bill."
     },
     {
       "id": "topotecan-capsules",
@@ -17533,15 +17569,41 @@
     {
       "id": "hyftor",
       "brand": "HYFTOR",
-      "generic": "HYFTOR",
-      "manufacturer": "unknown",
+      "generic": "sirolimus topical gel 0.2%",
+      "manufacturer": "Nobelpharma America, LLC",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
       "distribution_type": "unknown",
-      "pharmacies": [],
-      "hub_program": null,
+      "pharmacies": [
+        {
+          "name": "Walgreens Specialty Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": "https://www.walgreensspecialtyrx.com",
+          "notes": null
+        },
+        {
+          "name": "Total Care Rx",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "AllianceRx Walgreens Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": "https://www.alliancerxwp.com",
+          "notes": null
+        }
+      ],
+      "hub_program": {
+        "name": "Nobelpharma Connect",
+        "phone": "1-877-649-3867",
+        "url": "https://www.nobelpharmaconnect.com/"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -17551,20 +17613,32 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Florida Blue"
+        },
+        {
+          "url": "https://www.hyftor.com/wp-content/uploads/2026/01/Vermont.pdf",
+          "type": "manufacturer",
+          "date_checked": "2026-10-31",
+          "note": "verification: Walgreens Specialty Pharmacy (exclusive)"
+        },
+        {
+          "url": "https://www.managedhealthcareexecutive.com/view/alliancerx-walgreens-total-care-rx-chosen-to-distribute-to-hyftor",
+          "type": "other",
+          "date_checked": "2026-10-31",
+          "note": "verification: AllianceRx Walgreens Pharmacy"
         }
       ],
-      "confidence": "low",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 1 public LDD list row(s) on 2026-10-29. Flagged as limited distribution by a payer/PBM list but no dispensing pharmacy named. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 1 public LDD list row(s) on 2026-10-29. Flagged as limited distribution by a payer/PBM list but no dispensing pharmacy named. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: No pharmacy was on file; the manufacturer's 'HYFTOR Approved Specialty Pharmacies' document (Jan 2026) states HYFTOR 'is available exclusively through a network of specialty pharmacies' and names Walgreens (regional specialty, store 10996) and Total Care Rx. This record duplicates 'Hyftor Gel' (same product). Manufacturer document on hyftor.com (Jan 2026 approved specialty pharmacy list) and hyftor.com support page found; 2022 trade coverage reports Nobelpharma 'has chosen AllianceRx Walgreens Pharmacy and Total Care Rx to distribute Hyftor'. Not on the TRICARE Oct 2026 LDD list under this brand string (listed as Hyftor Gel). Topical self-applied gel, not buy-and-bill. Walgreens entry on the Jan 2026 list is a Walgreens regional specialty location (Boston MA, store 10996)."
     },
     {
       "id": "hyftor-gel",
       "brand": "Hyftor Gel",
-      "generic": "Hyftor Gel",
-      "manufacturer": "unknown",
+      "generic": "sirolimus topical gel 0.2%",
+      "manufacturer": "Nobelpharma America, LLC",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -17591,9 +17665,20 @@
           "fax": null,
           "enrollment_url": "https://www.walgreensspecialtyrx.com",
           "notes": null
+        },
+        {
+          "name": "Total Care Rx",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "Nobelpharma Connect",
+        "phone": "1-877-649-3867",
+        "url": "https://www.nobelpharmaconnect.com/"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -17615,20 +17700,32 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Express Scripts (TRICARE Pharmacy Program)"
+        },
+        {
+          "url": "https://www.hyftor.com/wp-content/uploads/2026/01/Vermont.pdf",
+          "type": "manufacturer",
+          "date_checked": "2026-10-31",
+          "note": "verification: Walgreens Specialty Pharmacy (exclusive)"
+        },
+        {
+          "url": "https://www.managedhealthcareexecutive.com/view/alliancerx-walgreens-total-care-rx-chosen-to-distribute-to-hyftor",
+          "type": "other",
+          "date_checked": "2026-10-31",
+          "note": "verification: AllianceRx Walgreens Pharmacy"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: Manufacturer 'HYFTOR Approved Specialty Pharmacies' document (hyftor.com, Jan 2026) confirms an exclusive network consisting of Walgreens specialty (the successor to AllianceRx Walgreens, listed as a Walgreens regional specialty location) and Total Care Rx, matching the on-file pharmacies; 2022 trade press confirms the original AllianceRx Walgreens / Total Care Rx selection. On the TRICARE Oct 2026 LDD list. Duplicate of the 'HYFTOR' record. Walgreens entry on the Jan 2026 list is a Walgreens regional specialty location (Boston MA, store 10996)."
     },
     {
       "id": "hyqvia",
       "brand": "HyQvia",
-      "generic": "HyQvia",
-      "manufacturer": "unknown",
+      "generic": "immune globulin infusion 10% (human) with recombinant human hyaluronidase",
+      "manufacturer": "Takeda Pharmaceuticals U.S.A., Inc. (trademark of Baxalta Incorporated)",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -17732,9 +17829,202 @@
           "fax": null,
           "enrollment_url": "https://www.walgreensspecialtyrx.com",
           "notes": null
+        },
+        {
+          "name": "Advanced Infusion Care",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "AmeriPharma Specialty Care",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "Amerita, Inc.",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "AOM Infusion",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "Axiva Health Solutions",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "Barnes Healthcare Services",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "BioPlus Specialty Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": "https://www.bioplusrx.com",
+          "notes": null
+        },
+        {
+          "name": "Blue Sky Specialty Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "California Specialty Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "Care Fusion Rx",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "CenterWell Specialty Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "Chartwell Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "ContinuumRx",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "CSI Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "HPC Specialty Infusion",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "InfuCare Rx",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "IV Solutions Rx",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "Lux Infusion",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "OSO Home Care Inc.",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "Palmetto Infusion",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "PromptCare",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "Prosper Infusion",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "Realo Specialty Care Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "Specialty Care Rx",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "Sunrise Rx",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "Vital Care Infusion Services",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "Vivo Infusion",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "Takeda Patient Support",
+        "phone": null,
+        "url": "https://www.takedapatientsupport.com/s/"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -17762,14 +18052,20 @@
           "type": "pharmacy",
           "date_checked": "2026-10-29",
           "note": "CVS Specialty"
+        },
+        {
+          "url": "https://hyqviahcp.com/about/ordering-handling-info",
+          "type": "manufacturer",
+          "date_checked": "2026-10-31",
+          "note": "verification: AcariaHealth"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Manufacturer page lists 37 authorized specialty pharmacy providers (plus 'many hospital-owned specialty pharmacies'), far broader than the 14 on file; on-file 'Biologics by McKesson', 'Biomatrix Specialty Pharmacy' and 'Us Bio' do not appear on the current manufacturer list, and the manufacturer lists Optum Infusion Pharmacy rather than Optum Specialty Pharmacy. Page also offers direct clinic acquisition (medical benefit), so this is an authorized-network product rather than an exclusive LDD. Manufacturer HCP ordering page (hyqviahcp.com) found with a full 'authorized to dispense HyQvia' SPP list and a downloadable SPP PDF; no exclusivity language, with a note to 'inquire with specific SPPs for current status'. Product is on the TRICARE Oct 2026 LDD list. On-file AcariaHealth, Accredo, AIS (Advanced Infusion Care), CVS Specialty, KabaFusion, Nufactor, Option Care Health, Optum (as Optum Infusion), OSO, Soleo Health and Walgreens Specialty confirmed; Biologics by McKesson, Biomatrix and US Bio unverified. Can be clinic-administered under the medical benefit but is primarily home/self-infused SC IG, so not classified as buy-and-bill only."
     },
     {
       "id": "sevabertinib",
@@ -18080,8 +18376,8 @@
     {
       "id": "iclusig",
       "brand": "Iclusig",
-      "generic": "Iclusig",
-      "manufacturer": "unknown",
+      "generic": "ponatinib",
+      "manufacturer": "Takeda Pharmaceuticals U.S.A., Inc. (trademark of ARIAD Pharmaceuticals, Inc.)",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -18096,7 +18392,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "Takeda Oncology Here2Assist",
+        "phone": "1-844-817-6468",
+        "url": "https://www.here2assist.com/hcp/iclusig/distribution-and-fulfillment"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -18130,20 +18430,26 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Prime Therapeutics"
+        },
+        {
+          "url": "https://www.here2assist.com/hcp/iclusig/distribution-and-fulfillment",
+          "type": "manufacturer",
+          "date_checked": "2026-10-31",
+          "note": "verification: AcariaHealth"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: Manufacturer Here2Assist distribution-and-fulfillment page (Takeda, 2026) names AcariaHealth (1-833-442-8911) as the specialty pharmacy, plus specialty distributors and the ICLUSIGDirect purchase program via Foundation Care for in-office dispensing; a 2012-era ARIAD press release named Biologics, Inc. as the then-exclusive pharmacy (historical, superseded). On the TRICARE Oct 2026 LDD list; on-file AcariaHealth confirmed. (2012 Biologics Inc. exclusivity, biospace.com, is historical and not recorded as a pharmacy.)"
     },
     {
       "id": "icotyde",
       "brand": "Icotyde",
-      "generic": "Icotyde",
-      "manufacturer": "unknown",
+      "generic": "icotrokinra",
+      "manufacturer": "Johnson & Johnson (Janssen)",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -18165,7 +18471,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "ICOTYDE withMe",
+        "phone": "(888) 796-8154",
+        "url": "https://www.icotyde.com/plaque-psoriasis/icotyde-with-me/"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -18183,18 +18493,18 @@
           "note": "CVS Specialty"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: Manufacturer patient page (icotyde.com 'Getting ICOTYDE') says the prescription is filled through 'a specialty pharmacy (SP)' with no named network and no exclusive/limited language; the only phone shown is the J&J withMe-Healthcare caller number. Not on the TRICARE Oct 2026 LDD list. On-file CVS Specialty and Optum are payer-list only and unverified; oral tablet, not buy-and-bill."
     },
     {
       "id": "enasidenib",
       "brand": "Idhifa",
       "generic": "enasidenib",
-      "manufacturer": "unknown",
+      "manufacturer": "Bristol-Myers Squibb (Celgene; licensed from Servier Pharmaceuticals)",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -18223,7 +18533,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "BMS Access Support",
+        "phone": "1-800-861-0048",
+        "url": "https://www.idhifapro.com/access-and-support"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -18259,12 +18573,12 @@
           "note": "CVS Specialty"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 6 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 6 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Manufacturer distribution brochure names only authorized distributors (Cardinal Health SPD, CuraScript SD, McKesson Specialty Health, Oncology Supply, ASD Healthcare, McKesson Plasma and Biologics, Cardinal Puerto Rico, Cesar Castillo) for physician offices, hospitals and in-office dispensing, with no specialty pharmacy list and no exclusive/limited language; the on-file Biologics by McKesson / CVS Specialty / Optum network is payer-list only. Manufacturer page (idhifapro.com access-and-support and the IDHIFA distribution-info brochure, BMS 2021) found; it says the product 'is available for specialty pharmacy and in-office dispensing' through authorized distributors but names no pharmacy network. Not on the TRICARE Oct 2026 LDD list. On-file pharmacies unverified by the manufacturer; oral tablet, not buy-and-bill. Note: US rights for IDHIFA moved to Servier; the readable brochure is BMS-era."
     },
     {
       "id": "travoprost-intracameral-implant",
@@ -18275,7 +18589,7 @@
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
-      "distribution_type": "limited_network",
+      "distribution_type": "exclusive",
       "pharmacies": [
         {
           "name": "Orsini Specialty Pharmacy",
@@ -18301,20 +18615,32 @@
           "type": "pharmacy",
           "date_checked": "2026-10-29",
           "note": "Orsini Specialty Pharmacy"
+        },
+        {
+          "url": "https://www.glaukos.com/wp-content/uploads/2025/10/iDose_Specialty_Pharmacy_Brochure.pdf",
+          "type": "manufacturer",
+          "date_checked": "2026-10-31",
+          "note": "verification: Orsini Specialty Pharmacy (exclusive)"
+        },
+        {
+          "url": "https://www.orsini.com/idose-tr-travoprost-intraocular-implant/",
+          "type": "other",
+          "date_checked": "2026-10-31",
+          "note": "verification: Orsini Specialty Pharmacy"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Payer list marks it buy-and-bill (provider-administered), no specialty pharmacy. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Payer list marks it buy-and-bill (provider-administered), no specialty pharmacy. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: Manufacturer iDose Specialty Pharmacy Brochure (glaukos.com, 2025) states 'iDose TR is dispensed exclusively by the specialty pharmacy, Orsini' (Orsini 847-378-5982, fax 847-892-1145), confirming the on-file pharmacy, while the primary channel is provider-administered buy-and-bill (J7355/0660T, purchased directly from Glaukos; 'Medicare FFS does not allow Part B covered drugs via SP'), so the Orsini route is a white-bag-style SP option for participating commercial plans, not a classic specialty-pharmacy LDD. Not on the TRICARE Oct 2026 LDD list. No hub program named; Glaukos Reimbursement Liaison referenced without contact details."
     },
     {
       "id": "ilaris",
       "brand": "Ilaris",
-      "generic": "Ilaris",
-      "manufacturer": "unknown",
+      "generic": "canakinumab",
+      "manufacturer": "Novartis Pharmaceuticals Corporation",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -18336,7 +18662,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "ILARIS Companion",
+        "phone": "1-866-972-8315",
+        "url": "https://www.ilarishcp.com/access"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -18366,40 +18696,29 @@
           "note": "CVS Specialty"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Manufacturer guide says ILARIS is distributed through a 'select system of specialty pharmacies, specialty distributors' with specialty pharmacies 'limited to those with URAC and/or ACHC accreditation' but names no pharmacy (only 8 specialty distributors and 4 GPOs); it also states Novartis 'does not recommend the use of any particular distributor'. On-file CVS Specialty/Optum are payer-list only. Manufacturer ILARIS Companion HCP guide (Novartis, Sept 2025) found: medical-benefit patients 'may be acquired through the buy and bill process' via distributors (ASD Healthcare, Besse Medical, McKesson Specialty Care, McKesson Plasma and Biologics, CuraScript SD, Cardinal Health SD, Metro Medical, Oncology Supply) while pharmacy-benefit patients go through an accredited specialty pharmacy, so it is a mixed buy-and-bill/specialty-pharmacy product rather than a pure SP LDD. Not on the TRICARE Oct 2026 LDD list. On-file pharmacies unverified."
     },
     {
       "id": "iluvien",
       "brand": "Iluvien",
-      "generic": "Iluvien",
-      "manufacturer": "unknown",
+      "generic": "fluocinolone acetonide intravitreal implant",
+      "manufacturer": "ANI Pharmaceuticals (Alimera Sciences)",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
-      "distribution_type": "limited_network",
-      "pharmacies": [
-        {
-          "name": "CVS Specialty",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://www.cvsspecialty.com",
-          "notes": null
-        },
-        {
-          "name": "Optum Specialty Pharmacy",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://specialty.optumrx.com",
-          "notes": null
-        }
-      ],
-      "hub_program": null,
+      "distribution_type": "open",
+      "pharmacies": [],
+      "hub_program": {
+        "name": "ILUVIEN AccessPlus",
+        "phone": "1-844-445-8843",
+        "url": "https://hcp.iluvien.com/accessplus/"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -18429,33 +18748,29 @@
           "note": "Health Alliance"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-04-29",
+      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Manufacturer AccessPlus overview names only specialty distributors (Besse Medical, McKesson Specialty Health) 'for the buy-and-bill process' and an unnamed 'specialty pharmacy network'; no pharmacy is named and no exclusive language appears, so the on-file CVS Specialty/Optum entries are payer-list only. Manufacturer AccessPlus summary (hcp.iluvien.com, Dec 2025; phone 1-844-445-8843 option 3, fax 1-844-501-7161) found: ILUVIEN is a physician-administered intravitreal implant acquired primarily buy-and-bill (J7313) through Besse/McKesson, with specialty pharmacy referral routing offered when payers require it, so it is not a specialty-pharmacy LDD. Not on the TRICARE Oct 2026 LDD list. On-file pharmacies unverified."
     },
     {
       "id": "imaavy",
       "brand": "IMAAVY",
-      "generic": "IMAAVY",
-      "manufacturer": "unknown",
+      "generic": "nipocalimab-aahu",
+      "manufacturer": "Johnson & Johnson",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
-      "distribution_type": "limited_network",
-      "pharmacies": [
-        {
-          "name": "CVS Specialty",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://www.cvsspecialty.com",
-          "notes": null
-        }
-      ],
-      "hub_program": null,
+      "distribution_type": "open",
+      "pharmacies": [],
+      "hub_program": {
+        "name": "IMAAVY withMe",
+        "phone": "844-494-8463",
+        "url": "https://www.jnjwithme.com/hcp/imaavy/"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -18473,12 +18788,12 @@
           "note": "CVS Specialty"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Payer list marks it buy-and-bill (provider-administered), no specialty pharmacy. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-04-29",
+      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Payer list marks it buy-and-bill (provider-administered), no specialty pharmacy. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Manufacturer HCP access page describes buy-and-bill coding/billing and 'commercial prescription triage to mandated specialty pharmacies' without naming any pharmacy or exclusivity; the on-file CVS Specialty entry is payer-list only. Manufacturer HCP access-and-support page (imaavyhcp.com) found: IMAAVY is an IV infusion (300 mg single-dose vial) given in-office, at an infusion clinic or at home, with buy-and-bill billing guidance and an IMAAVY withMe hub (844-4withMe, Mon-Fri 8am-8pm ET, Portal.JNJwithMe.com), so it is a provider-administered product rather than a specialty-pharmacy LDD; payer-mandated specialty pharmacies are referenced but not named. Not on the TRICARE Oct 2026 LDD list. On-file CVS Specialty unverified."
     },
     {
       "id": "imatinib-mesylate-2",
@@ -18507,8 +18822,8 @@
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 1 public LDD list row(s) on 2026-10-29. Flagged as limited distribution by a payer/PBM list but no dispensing pharmacy named. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 1 public LDD list row(s) on 2026-10-29. Flagged as limited distribution by a payer/PBM list but no dispensing pharmacy named. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Record is a multi-source generic (imatinib mesylate tablets) with no manufacturer; no source names a dispensing pharmacy or restricted network for the generic. The only pharmacy-selection news found concerns a different product, IMKELDI (imatinib oral solution, Shorla Oncology), for which Onco360 was named national pharmacy partner (press release 2026-06-02, no exclusivity language); it was not added because it is not the generic tablet product on file. No manufacturer access page or LDD network source found for generic imatinib mesylate; search surfaced only general LDD articles and an IMKELDI (imatinib oral solution) Onco360 press release (https://www.brightspringhealth.com/news/onco360-has-been-selected-as-a-national-specialty-pharmacy-provider-for-imkeldi-imatinib-oral-solution/). Not on the TRICARE Oct 2026 LDD list. No pharmacies on file to confirm; the payer LDD flag appears unsupported for the generic."
     },
     {
       "id": "ibrutinib",
@@ -18681,42 +18996,37 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Prime Therapeutics"
+        },
+        {
+          "url": "https://stocktitan.net/news/RYTM/panthe-rx-rare-selected-by-rhythm-pharmaceuticals-inc-as-the-rh7lr5rwhtj8.html",
+          "type": "press_release",
+          "date_checked": "2026-10-31",
+          "note": "verification: PANTHERx Rare (exclusive)"
         }
       ],
       "confidence": "medium",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 6 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 6 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: PANTHERx Rare press release (2026-03-20, Rhythm Pharmaceuticals) names PANTHERx as the exclusive U.S. pharmacy distribution partner for the expanded IMCIVREE indication; no manufacturer HCP access page was reached (the Rhythm hub program was not shown in any fetched source, so hub left null). On the TRICARE Oct 2026 LDD list. On-file pharmacy (PANTHERx Rare) confirmed with exclusive language."
     },
     {
       "id": "imdelltra",
       "brand": "IMDELLTRA",
-      "generic": "IMDELLTRA",
-      "manufacturer": "unknown",
+      "generic": "tarlatamab-dlle",
+      "manufacturer": "Amgen Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
-      "distribution_type": "limited_network",
-      "pharmacies": [
-        {
-          "name": "CVS Specialty",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://www.cvsspecialty.com",
-          "notes": null
-        },
-        {
-          "name": "Carle Specialty Pharmacy",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://carle.org",
-          "notes": null
-        }
-      ],
-      "hub_program": null,
+      "distribution_type": "open",
+      "pharmacies": [],
+      "hub_program": {
+        "name": "Amgen SupportPlus",
+        "phone": "(866) 264-2778",
+        "url": "https://www.amgensupportplus.com/hcp/imdelltra"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -18740,12 +19050,12 @@
           "note": "Health Alliance"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-04-29",
+      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: On-file pharmacies (CVS Specialty, Carle Specialty Pharmacy) are not named by any manufacturer source; IMDELLTRA is an intravenous, provider-administered infusion with HCPCS J9026 (buy-and-bill), so it is not a specialty-pharmacy LDD and the on-file specialty pharmacy list is unsupported. Manufacturer hub page (Amgen SupportPlus HCP) found; it names no specialty pharmacies or distributors. IMDELLTRA is an IV infusion billed under J9026 with chemotherapy infusion administration codes (https://buyandbill.com/imdelltra-j9026/), i.e. provider-administered buy-and-bill, not a specialty-pharmacy LDD. Not on the TRICARE Oct 2026 LDD list; on-file pharmacies unverified."
     },
     {
       "id": "durvalumab",
@@ -19076,15 +19386,27 @@
     {
       "id": "impavido",
       "brand": "IMPAVIDO",
-      "generic": "IMPAVIDO",
-      "manufacturer": "unknown",
+      "generic": "miltefosine",
+      "manufacturer": "Eton Pharmaceuticals, Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
       "distribution_type": "unknown",
-      "pharmacies": [],
-      "hub_program": null,
+      "pharmacies": [
+        {
+          "name": "AnovoRx",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": "https://www.anovorx.com",
+          "notes": null
+        }
+      ],
+      "hub_program": {
+        "name": "Eton Cares",
+        "phone": null,
+        "url": null
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -19094,20 +19416,26 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Florida Blue"
+        },
+        {
+          "url": "https://finviz.com/news/395808/eton-pharmaceuticals-announces-us-commercial-availability-of-impavido-miltefosine-capsules",
+          "type": "press_release",
+          "date_checked": "2026-10-31",
+          "note": "verification: AnovoRx"
         }
       ],
       "confidence": "low",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 1 public LDD list row(s) on 2026-10-29. Flagged as limited distribution by a payer/PBM list but no dispensing pharmacy named. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 1 public LDD list row(s) on 2026-10-29. Flagged as limited distribution by a payer/PBM list but no dispensing pharmacy named. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: No pharmacy on file; Eton's 2026-09-28 US launch release says distribution is centralized through Anovo Specialty Pharmacy (e-prescribe to Anovo #5, Memphis; dedicated IMPAVIDO line 877-469-4078), with hospital inpatient supply also arranged via Anovo. Add Anovo as the dispensing pharmacy. Eton Pharmaceuticals press release (commercial availability, 2026-09-28) found; it names Anovo Specialty Pharmacy as the centralized distribution channel without using exclusive language, and names the Eton Cares program (no hub phone/URL shown; product site www.impavidous.com could not be fetched). Not on the TRICARE Oct 2026 LDD list. No on-file pharmacies to confirm."
     },
     {
       "id": "inbrija",
       "brand": "Inbrija",
-      "generic": "Inbrija",
-      "manufacturer": "unknown",
+      "generic": "levodopa inhalation powder",
+      "manufacturer": "Merz Therapeutics, LLC",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -19129,7 +19457,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "Patient Support Services",
+        "phone": "1-833-462-7452",
+        "url": "https://inbrija.com/savings-and-support"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -19165,18 +19497,18 @@
           "note": "Prime Therapeutics"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: Manufacturer page (inbrija.com savings-and-support, Merz) found; it says Patient Support Services works with 'a specialty pharmacy' but names none and makes no exclusivity claim. On the TRICARE Oct 2026 LDD list. On-file pharmacies (AllianceRx Walgreens Pharmacy, Walgreens Specialty Pharmacy) remain unverified by the manufacturer source."
     },
     {
       "id": "increlex",
       "brand": "Increlex",
-      "generic": "Increlex",
-      "manufacturer": "unknown",
+      "generic": "mecasermin",
+      "manufacturer": "Eton Pharmaceuticals, Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -19226,7 +19558,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "Eton Cares Program",
+        "phone": null,
+        "url": null
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -19272,14 +19608,20 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Prime Therapeutics"
+        },
+        {
+          "url": "https://www.einpresswire.com/article/770663645/eton-pharmaceuticals-closes-acquisition-of-increlex-mecasermin-injection",
+          "type": "press_release",
+          "date_checked": "2026-10-31",
+          "note": "verification: AnovoRx (exclusive)"
         }
       ],
       "confidence": "medium",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 9 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 9 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Eton's acquisition release (2024-12-20) states Increlex is available in the U.S. exclusively through AnovoRx (e-prescribe AnovoRx #5; AnovoRx 1-833-343-2500). On-file list also includes Accredo, AllianceRx Walgreens Pharmacy, CVS Specialty, Optum Specialty Pharmacy and Walgreens Specialty Pharmacy, which conflict with the exclusive-AnovoRx statement and likely reflect the pre-acquisition Ipsen network. Eton Pharmaceuticals press release found (manufacturer site increlex.com could not be fetched); it names AnovoRx as the exclusive U.S. specialty pharmacy and the Eton Cares Program (administered by AnovoRx; no hub phone/URL shown). On the TRICARE Oct 2026 LDD list. Of the six on-file pharmacies only AnovoRx is confirmed; the other five are contradicted by the exclusive claim."
     },
     {
       "id": "valbenazine",
@@ -19312,9 +19654,27 @@
           "fax": null,
           "enrollment_url": "https://www.pantherxrare.com",
           "notes": null
+        },
+        {
+          "name": "Walgreens Specialty Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": "https://www.walgreensspecialtyrx.com",
+          "notes": null
+        },
+        {
+          "name": "Genoa Healthcare",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": "https://www.genoahealthcare.com",
+          "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "Neurocrine Access Support",
+        "phone": "1-844-647-3992",
+        "url": "https://ingrezza.neurocrineaccesssupport.com/hcp/pharmacy/"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -19348,20 +19708,26 @@
           "type": "pharmacy",
           "date_checked": "2026-10-29",
           "note": "CVS Specialty"
+        },
+        {
+          "url": "https://ingrezza.neurocrineaccesssupport.com/hcp/pharmacy/",
+          "type": "manufacturer",
+          "date_checked": "2026-10-31",
+          "note": "verification: CVS Specialty"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Manufacturer page lists a 'Dedicated Specialty Pharmacy Network' of five pharmacies (CVS Specialty, Orsini, PANTHERx Rare, Walgreens Specialty, Genoa Healthcare) but also states many local pharmacies nationwide and LTC pharmacies have access to INGREZZA, i.e. not a closed LDD. On-file list is missing Walgreens Specialty Pharmacy and Genoa Healthcare. Manufacturer HCP pharmacy page (Neurocrine Access Support) found; it names five dedicated specialty pharmacies with no exclusive language and says retail and LTC pharmacies also have access. On the TRICARE Oct 2026 LDD list. All three on-file pharmacies confirmed; two additional network pharmacies added."
     },
     {
       "id": "ingrezza-sprinkle-caps",
       "brand": "Ingrezza Sprinkle Caps",
-      "generic": "Ingrezza Sprinkle Caps",
-      "manufacturer": "unknown",
+      "generic": "valbenazine",
+      "manufacturer": "Neurocrine Biosciences",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -19388,9 +19754,34 @@
           "fax": null,
           "enrollment_url": "https://www.pantherxrare.com",
           "notes": null
+        },
+        {
+          "name": "CVS Specialty",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": "https://www.cvsspecialty.com",
+          "notes": null
+        },
+        {
+          "name": "Walgreens Specialty Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": "https://www.walgreensspecialtyrx.com",
+          "notes": null
+        },
+        {
+          "name": "Genoa Healthcare",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": "https://www.genoahealthcare.com",
+          "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "Neurocrine Access Support",
+        "phone": "1-844-647-3992",
+        "url": "https://ingrezza.neurocrineaccesssupport.com/hcp/pharmacy/"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -19406,14 +19797,20 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Express Scripts (TRICARE Pharmacy Program)"
+        },
+        {
+          "url": "https://ingrezza.neurocrineaccesssupport.com/hcp/pharmacy/",
+          "type": "manufacturer",
+          "date_checked": "2026-10-31",
+          "note": "verification: CVS Specialty"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: The Neurocrine Access Support pharmacy page covers INGREZZA and INGREZZA SPRINKLE together and names CVS Specialty, Orsini, PANTHERx Rare, Walgreens Specialty and Genoa Healthcare; on-file Amber Specialty Pharmacy is not named by the manufacturer (unverified), and on-file list is missing CVS Specialty, Walgreens Specialty Pharmacy and Genoa Healthcare. Page also says many retail and LTC pharmacies have access. Same manufacturer HCP pharmacy page as Ingrezza (it references INGREZZA SPRINKLE capsules but gives no Sprinkle-specific dispensing rules); no exclusive language. On the TRICARE Oct 2026 LDD list. On-file Orsini and PANTHERx Rare confirmed; Amber Specialty Pharmacy unverified."
     },
     {
       "id": "imlunestrant",
@@ -19897,8 +20294,8 @@
     {
       "id": "intron-a",
       "brand": "Intron A",
-      "generic": "Intron A",
-      "manufacturer": "unknown",
+      "generic": "interferon alfa-2b",
+      "manufacturer": "Merck",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -19929,28 +20326,20 @@
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Product is permanently discontinued by Merck (solution for injection discontinued mid-2021; powder for injection on or near March 2022, per OptumRx drug-withdrawal notice), so an active LDD network including on-file Optum Specialty Pharmacy cannot be confirmed. No manufacturer access page exists; only an OptumRx drug-withdrawal notice (https://prod-prorx.optum.com/content/dam/optum3/professional-optumrx/news/rxnews/drug-withdrawls/drugwithdrawal_introna_2022-0204.pdf) stating Merck discontinued Intron A for business reasons. Not on the TRICARE Oct 2026 LDD list. On-file pharmacy (Optum Specialty Pharmacy) unverified; record should likely be retired."
     },
     {
       "id": "invega-hafyera",
       "brand": "INVEGA HAFYERA",
-      "generic": "INVEGA HAFYERA",
-      "manufacturer": "unknown",
+      "generic": "paliperidone palmitate extended-release injectable suspension",
+      "manufacturer": "Janssen Pharmaceuticals, Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
-      "distribution_type": "limited_network",
-      "pharmacies": [
-        {
-          "name": "Genoa Healthcare",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://www.genoahealthcare.com",
-          "notes": null
-        }
-      ],
+      "distribution_type": "open",
+      "pharmacies": [],
       "hub_program": null,
       "rems": false,
       "cold_chain": null,
@@ -19963,32 +20352,24 @@
           "note": "Florida Blue"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 1 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-04-29",
+      "notes": "Bulk-loaded from 1 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Manufacturer sources show INVEGA HAFYERA as a healthcare-provider-administered intramuscular injection distributed through J&J authorized distributors (e.g., McKesson Specialty Care Distribution LLC listed on the J&J distributor page); no manufacturer source names Genoa Healthcare or any specialty-pharmacy LDD network. J&J Innovative Medicine distributor pages (https://innovativemedicine.jnj.com/us/distributor/mckesson-specialty-health) list INVEGA HAFYERA under authorized distributor McKesson Specialty Care Distribution LLC, and J&J Medical Connect describes the Invega LAIs as HCP-administered injections, i.e. provider-administered buy-and-bill rather than a specialty-pharmacy LDD. Not on the TRICARE Oct 2026 LDD list. On-file Genoa Healthcare unverified."
     },
     {
       "id": "invega-sustenna",
       "brand": "INVEGA SUSTENNA",
-      "generic": "INVEGA SUSTENNA",
-      "manufacturer": "unknown",
+      "generic": "paliperidone palmitate extended-release injectable suspension",
+      "manufacturer": "Janssen Pharmaceuticals, Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
-      "distribution_type": "limited_network",
-      "pharmacies": [
-        {
-          "name": "Genoa Healthcare",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://www.genoahealthcare.com",
-          "notes": null
-        }
-      ],
+      "distribution_type": "open",
+      "pharmacies": [],
       "hub_program": null,
       "rems": false,
       "cold_chain": null,
@@ -20001,32 +20382,24 @@
           "note": "Florida Blue"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 1 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-04-29",
+      "notes": "Bulk-loaded from 1 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Manufacturer sources show INVEGA SUSTENNA as a healthcare-provider-administered intramuscular injection distributed through J&J authorized distributors (e.g., McKesson Specialty Care Distribution LLC); no manufacturer source names Genoa Healthcare or any specialty-pharmacy LDD network. J&J Medical Connect (https://www.jnjmedicalconnect.com/products/invega-sustenna/medical-content/how-will-i-receive-invega-sustenna) states a healthcare provider administers INVEGA SUSTENNA by IM injection, and the J&J distributor page lists it under McKesson Specialty Care Distribution LLC, i.e. provider-administered buy-and-bill rather than a specialty-pharmacy LDD. Not on the TRICARE Oct 2026 LDD list. On-file Genoa Healthcare unverified."
     },
     {
       "id": "invega-trinza",
       "brand": "INVEGA TRINZA",
-      "generic": "INVEGA TRINZA",
-      "manufacturer": "unknown",
+      "generic": "paliperidone palmitate extended-release injectable suspension",
+      "manufacturer": "Janssen Pharmaceuticals, Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
-      "distribution_type": "limited_network",
-      "pharmacies": [
-        {
-          "name": "Genoa Healthcare",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://www.genoahealthcare.com",
-          "notes": null
-        }
-      ],
+      "distribution_type": "open",
+      "pharmacies": [],
       "hub_program": null,
       "rems": false,
       "cold_chain": null,
@@ -20039,18 +20412,18 @@
           "note": "Florida Blue"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 1 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-04-29",
+      "notes": "Bulk-loaded from 1 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Manufacturer sources show INVEGA TRINZA as a healthcare-provider-administered intramuscular injection distributed through J&J authorized distributors (e.g., McKesson Specialty Care Distribution LLC); no manufacturer source names Genoa Healthcare or any specialty-pharmacy LDD network. J&J Innovative Medicine distributor page lists INVEGA TRINZA under authorized distributor McKesson Specialty Care Distribution LLC and J&J Medical Connect describes the Invega LAIs as HCP-administered injections, i.e. provider-administered buy-and-bill rather than a specialty-pharmacy LDD. Not on the TRICARE Oct 2026 LDD list. On-file Genoa Healthcare unverified."
     },
     {
       "id": "iqirvo",
       "brand": "Iqirvo",
-      "generic": "Iqirvo",
-      "manufacturer": "unknown",
+      "generic": "elafibranor",
+      "manufacturer": "Ipsen Biopharmaceuticals, Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -20091,9 +20464,27 @@
           "fax": null,
           "enrollment_url": "https://www.walgreensspecialtyrx.com",
           "notes": null
+        },
+        {
+          "name": "CenterWell Specialty Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
+        },
+        {
+          "name": "Optum Specialty Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": "https://specialty.optumrx.com",
+          "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "IPSEN CARES",
+        "phone": "(866) 435-5677",
+        "url": "https://www.iqirvohcp.com/access-and-resources/access-support"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -20121,20 +20512,26 @@
           "type": "pharmacy",
           "date_checked": "2026-10-29",
           "note": "CVS Specialty"
+        },
+        {
+          "url": "https://www.ipsencares.com/sites/g/files/kcxpwu1121/files/2025-06/IQV-US-001069-V1.0-IPSEN-CARES-Iqirvo-Specialty-Pharmacy-Network-Flashcard.pdf",
+          "type": "manufacturer",
+          "date_checked": "2026-10-31",
+          "note": "verification: AcariaHealth"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Ipsen Cares network flashcard (2025-06) lists six national specialty pharmacies: AcariaHealth, Accredo, CenterWell Specialty Pharmacy, CVS Specialty, OptumRx Specialty and Walgreens Specialty (hospital-owned pharmacies order via CuraScript SD). On-file list is missing CenterWell and Optum Specialty Pharmacy; on-file AllianceRx Walgreens Pharmacy is not named (manufacturer lists Walgreens Specialty). Manufacturer sources found (Ipsen Cares specialty pharmacy network flashcard and iqirvohcp.com access page); the network is described as six partner specialty pharmacies with no exclusive language. On the TRICARE Oct 2026 LDD list. On-file AcariaHealth, Accredo, CVS Specialty and Walgreens Specialty confirmed; AllianceRx Walgreens unverified; CenterWell and Optum added."
     },
     {
       "id": "gefitinib",
       "brand": "Iressa",
       "generic": "gefitinib",
-      "manufacturer": "unknown",
+      "manufacturer": "AstraZeneca",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -20167,6 +20564,13 @@
           "phone": null,
           "fax": null,
           "enrollment_url": "https://specialty.optumrx.com",
+          "notes": null
+        },
+        {
+          "name": "US Bioservices",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": "https://www.usbioservices.com",
           "notes": null
         }
       ],
@@ -20216,14 +20620,26 @@
           "type": "pharmacy",
           "date_checked": "2026-10-29",
           "note": "CVS Specialty"
+        },
+        {
+          "url": "https://www.amerisourcebergen.com/newsroom/press-releases/us-bioservices-selected-by-astrazeneca-to-dispense-iressa-and-tagrisso",
+          "type": "press_release",
+          "date_checked": "2026-10-31",
+          "note": "verification: US Bioservices"
+        },
+        {
+          "url": "https://www.biospace.com/biologics-inc-nc-selected-to-dispense-astrazeneca-plc-s-iressa-gefitinib",
+          "type": "press_release",
+          "date_checked": "2026-10-31",
+          "note": "verification: Biologics by McKesson"
         }
       ],
       "confidence": "medium",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 8 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 8 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: No current manufacturer access page found; only 2015-2017 pharmacy press releases (Biologics Inc., US Bioservices; a Diplomat release also surfaced but was not fetched) describing Iressa as a limited-distribution medication available only from select specialty pharmacies. On-file Accredo, CVS Specialty and Optum Specialty Pharmacy are not named by any fetched source; US Bioservices (not on file) is named. Found AmerisourceBergen press release (2017-02-06) stating IRESSA is a limited distribution medication available only from select specialty pharmacies, with US Bioservices selected, and a Biologics Inc. press release (2015-08-13) naming Biologics as a specialty pharmacy provider; no AstraZeneca access page or hub details were found. On the TRICARE Oct 2026 LDD list. On-file Biologics by McKesson confirmed (historical); Accredo, CVS Specialty and Optum Specialty unverified."
     },
     {
       "id": "iopamidol-oral",
@@ -20267,29 +20683,18 @@
       "id": "romidepsin-2",
       "brand": "ISTODAX",
       "generic": "romidepsin",
-      "manufacturer": "unknown",
+      "manufacturer": "Celgene Corporation (Bristol Myers Squibb)",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
-      "distribution_type": "limited_network",
-      "pharmacies": [
-        {
-          "name": "CVS Specialty",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://www.cvsspecialty.com",
-          "notes": null
-        },
-        {
-          "name": "Optum Specialty Pharmacy",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://specialty.optumrx.com",
-          "notes": null
-        }
-      ],
-      "hub_program": null,
+      "distribution_type": "open",
+      "pharmacies": [],
+      "hub_program": {
+        "name": "BMS Access Support",
+        "phone": null,
+        "url": null
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -20317,28 +20722,20 @@
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-04-29",
+      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: On-file CVS Specialty / Optum Specialty Pharmacy not confirmed by any manufacturer or press source; Istodax is an IV-infused oncology drug (romidepsin for injection) that is provider-administered, so it is not a specialty-pharmacy LDD in the usual sense. No manufacturer HCP/access page surfaced; sources found were payer PA policies (Johns Hopkins, Centene) and a PharmaLive article (https://www.pharmalive.com/bms-pulls-istodax-in-lymphoma-after-trial-failure/) confirming Celgene/BMS as maker, PTCL indication withdrawn, CTCL retained, and patients directed to BMS Access Support. Not on the TRICARE Oct 2026 LDD list. On-file pharmacies unverified; product is an IV infusion (buy-and-bill)."
     },
     {
       "id": "istodax-ovr",
       "brand": "Istodax OVR",
-      "generic": "Istodax OVR",
-      "manufacturer": "unknown",
+      "generic": "romidepsin",
+      "manufacturer": "Celgene Corporation (Bristol Myers Squibb)",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
-      "distribution_type": "limited_network",
-      "pharmacies": [
-        {
-          "name": "Optum Specialty Pharmacy",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://specialty.optumrx.com",
-          "notes": null
-        }
-      ],
+      "distribution_type": "open",
+      "pharmacies": [],
       "hub_program": null,
       "rems": false,
       "cold_chain": null,
@@ -20355,19 +20752,19 @@
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 1 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-04-29",
+      "notes": "Bulk-loaded from 1 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: No source found that names 'Istodax OVR' at all; on-file Optum Specialty Pharmacy unverified. As an Istodax (romidepsin) presentation it is an IV-infused, provider-administered product, not a specialty-pharmacy LDD. Two searches returned nothing naming 'Istodax OVR' (only generic Istodax label/pricing pages); generic and manufacturer are inferred from the Istodax brand, not seen for the OVR presentation specifically. Not on the TRICARE Oct 2026 LDD list. On-file pharmacy unverified; treat as buy-and-bill like Istodax."
     },
     {
       "id": "isturisa",
       "brand": "Isturisa",
-      "generic": "Isturisa",
-      "manufacturer": "unknown",
+      "generic": "osilodrostat",
+      "manufacturer": "Recordati Rare Diseases Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
-      "distribution_type": "limited_network",
+      "distribution_type": "exclusive",
       "pharmacies": [
         {
           "name": "AnovoRx",
@@ -20377,7 +20774,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "R.A.R.E. Patient Support Program",
+        "phone": null,
+        "url": "https://www.isturisastart.com"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -20411,14 +20812,20 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Prime Therapeutics"
+        },
+        {
+          "url": "https://www.recordatirarediseases.com/us/node/190",
+          "type": "manufacturer",
+          "date_checked": "2026-10-31",
+          "note": "verification: AnovoRx (exclusive)"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: Recordati Rare Diseases US press release (manufacturer site) states ISTURISA 'Is Now Exclusively Available Through AnovoRx Specialty Pharmacy' and 'exclusively through the R.A.R.E. Patient Support Program' with referral form at www.isturisastart.com (release dated May 2020; no later update found). On the TRICARE Oct 2026 LDD list. On-file AnovoRx confirmed with exclusive language."
     },
     {
       "id": "inavolisib",
@@ -20539,9 +20946,27 @@
           "fax": null,
           "enrollment_url": "https://www.orsini.com",
           "notes": null
+        },
+        {
+          "name": "Accredo",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": "https://www.accredo.com",
+          "notes": null
+        },
+        {
+          "name": "Farmacia Doral (Axium) Specialty Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "Novartis Patient Support",
+        "phone": "1-855-441-4363",
+        "url": "https://itvisma-enrollment.com"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -20557,20 +20982,26 @@
           "type": "pharmacy",
           "date_checked": "2026-10-29",
           "note": "Orsini Specialty Pharmacy"
+        },
+        {
+          "url": "https://www.cdn.fuse.novartis.com/FA-11574514-1_ZOL_ITA_Product_Ordering_Pathways_Digital_5.26/FA-11574514-1.PDF",
+          "type": "manufacturer",
+          "date_checked": "2026-10-31",
+          "note": "verification: Accredo"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Payer list marks it buy-and-bill (provider-administered), no specialty pharmacy. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Payer list marks it buy-and-bill (provider-administered), no specialty pharmacy. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Manufacturer ordering-pathways document names Accredo and Axium/Farmacia Doral (PR) in addition to on-file Orsini; it also offers a buy-and-bill pathway via CuraScript SD Specialty Distribution (1-866-263-8464). Payer list on file marked it buy-and-bill only, but Novartis says it is also available through 'a limited network of specialty pharmacies'. Novartis 'Product Ordering Pathways' PDF (May 2026) for ZOLGENSMA/ITVISMA: buy-and-bill via CuraScript SD, or specialty-pharmacy pathway through a limited network (Accredo, Orsini, Axium/Farmacia Doral PR). Gene therapy is administered intrathecally by a provider, so dual-channel (buy-and-bill + limited SP network). Not on the TRICARE Oct 2026 LDD list. On-file Orsini confirmed; two pharmacies added. Farmacia Doral (Axium) serves Puerto Rico only."
     },
     {
       "id": "iwilfin",
       "brand": "Iwilfin",
-      "generic": "Iwilfin",
-      "manufacturer": "unknown",
+      "generic": "eflornithine",
+      "manufacturer": "USWM, LLC (US WorldMeds)",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -20592,7 +21023,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "IWILFIN Cares",
+        "phone": "877-IWILFIN (494-5346)",
+        "url": "https://iwilfin.com/caregiver-resources"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -20622,18 +21057,18 @@
           "note": "Blue Cross Blue Shield of Michigan / Blue Care Network"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 4 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 4 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: Manufacturer page (iwilfin.com/caregiver-resources) says IWILFIN 'is not available at your local pharmacy' and 'is distributed by a specialty pharmacy', with prescriptions routed through IWILFIN Cares, but names no pharmacy. On the TRICARE Oct 2026 LDD list. On-file Biomatrix Specialty Pharmacy and Curant Health are unverified (not named on the manufacturer page or any press release found)."
     },
     {
       "id": "ixinity",
       "brand": "IXINITY",
-      "generic": "IXINITY",
-      "manufacturer": "unknown",
+      "generic": "coagulation factor IX (recombinant)",
+      "manufacturer": "Medexus Pharma, Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -20655,7 +21090,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "Core Connections",
+        "phone": "1-855-IXINITY (1-855-494-6489)",
+        "url": "https://hcp.ixinity.com/financial-support"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -20679,39 +21118,24 @@
           "note": "Health Alliance"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: Manufacturer HCP page (hcp.ixinity.com/financial-support) describes the IXINITY Savings Program and Core Connections free-trial hub but names no specialty pharmacy and has no exclusive/limited language; factor IX is typically dispensed via hemophilia/specialty pharmacies under open distribution. Not on the TRICARE Oct 2026 LDD list. On-file CVS Specialty and Optum Specialty Pharmacy unverified."
     },
     {
       "id": "izervay",
       "brand": "IZERVAY",
-      "generic": "IZERVAY",
-      "manufacturer": "unknown",
+      "generic": "avacincaptad pegol",
+      "manufacturer": "Astellas Pharma Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
-      "distribution_type": "limited_network",
-      "pharmacies": [
-        {
-          "name": "CVS Specialty",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://www.cvsspecialty.com",
-          "notes": null
-        },
-        {
-          "name": "Carle Specialty Pharmacy",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://carle.org",
-          "notes": null
-        }
-      ],
+      "distribution_type": "open",
+      "pharmacies": [],
       "hub_program": null,
       "rems": false,
       "cold_chain": null,
@@ -20730,18 +21154,18 @@
           "note": "Health Alliance"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-04-29",
+      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Manufacturer flashcard says IZERVAY 'is available to order through your preferred distributor' (Besse, BioCare, Cardinal, CuraScript SD, McKesson Plasma & Biologics, McKesson Specialty, Metro Medical) and 'is also available through a broad open network of specialty pharmacies if mandated by a patient's health plan' - i.e., open distribution, not an LDD; on-file CVS Specialty and Carle Specialty Pharmacy are not named. Astellas eye-care-professional distribution flashcard (izervayecp.com) found: intravitreal injection acquired buy-and-bill through seven specialty distributors, with an open specialty-pharmacy network as a payer-mandated alternative. Not on the TRICARE Oct 2026 LDD list. On-file pharmacies unverified; product is provider-administered and open-distribution."
     },
     {
       "id": "deferasirox-2",
       "brand": "JADENU",
       "generic": "deferasirox",
-      "manufacturer": "unknown",
+      "manufacturer": "Novartis Pharmaceuticals",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -20778,8 +21202,8 @@
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Only distribution source found is a 2015 Pharmacy Times item saying Avella was 'selected by Novartis Pharmaceuticals to dispense Jadenu' (Avella has since been acquired by Optum); on-file CVS Specialty is not named anywhere, and generic deferasirox tablets are now widely available, so limited-distribution status is doubtful. No current Novartis HCP/access page found; only a 2015 Avella selection article (no exclusive language). Not on the TRICARE Oct 2026 LDD list. On-file CVS Specialty unverified. 2015 Avella selection article (pharmacytimes.com/view/avella-selected-by-novartis-pharmaceuticals-to-distribute-jadenu) is historical; Avella no longer operates independently, not recorded as a pharmacy."
     },
     {
       "id": "ruxolitinib",
@@ -20938,8 +21362,8 @@
     {
       "id": "jakafi-xr",
       "brand": "Jakafi XR",
-      "generic": "Jakafi XR",
-      "manufacturer": "unknown",
+      "generic": "ruxolitinib",
+      "manufacturer": "Incyte",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -20961,7 +21385,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "IncyteCARES",
+        "phone": "1-855-452-5234",
+        "url": "https://www.incytecares.com"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -20985,12 +21413,12 @@
           "note": "CVS Specialty"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 4 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 4 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: Incyte press release (May 1, 2026) says Jakafi XR 'will be available for pharmacy orders by May 8' with IncyteCARES support; the jakafi.com IncyteCARES page says prescriptions are filled 'by an approved specialty pharmacy' but names none and uses no exclusive language. Not on the TRICARE Oct 2026 LDD list. On-file CVS Specialty and Optum Specialty Pharmacy unverified."
     },
     {
       "id": "nerandomilast",
@@ -21022,6 +21450,13 @@
           "phone": null,
           "fax": null,
           "enrollment_url": "https://www.orsini.com",
+          "notes": null
+        },
+        {
+          "name": "Accredo",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": "https://www.accredo.com",
           "notes": null
         }
       ],
@@ -21059,20 +21494,32 @@
           "type": "pharmacy",
           "date_checked": "2026-10-29",
           "note": "CVS Specialty"
+        },
+        {
+          "url": "https://www.orsini.com/?p=1620",
+          "type": "press_release",
+          "date_checked": "2026-10-31",
+          "note": "verification: Orsini Specialty Pharmacy"
+        },
+        {
+          "url": "https://www.accredo.com/hi/prescribers/referral-forms/jascayd.pdf",
+          "type": "other",
+          "date_checked": "2026-10-31",
+          "note": "verification: Accredo"
         }
       ],
       "confidence": "medium",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 6 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 6 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Accredo publishes a Jascayd-specific prescriber referral form (not on file); Orsini press release says it was chosen as 'a specialty pharmacy partner' (non-exclusive). On-file CVS Specialty and Optum Specialty Pharmacy not named in any source found. No Boehringer Ingelheim HCP access page surfaced; Orsini press release (Oct 14, 2025) confirms Orsini as a BI-selected partner, and an Accredo referral form indicates Accredo also dispenses. Not on the TRICARE Oct 2026 LDD list. On-file Orsini confirmed; CVS and Optum unverified; Accredo added."
     },
     {
       "id": "javygtor",
       "brand": "Javygtor",
-      "generic": "Javygtor",
-      "manufacturer": "unknown",
+      "generic": "sapropterin dihydrochloride",
+      "manufacturer": "Cycle Pharmaceuticals Limited",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -21094,7 +21541,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "Cycle Vita",
+        "phone": "+1 (888) 360-8482",
+        "url": "https://cyclepharma.com/cycle-vita/"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -21118,12 +21569,12 @@
           "note": "Prime Therapeutics"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: Cycle Pharmaceuticals products page names the Cycle Vita support program but gives no dispensing-pharmacy or exclusivity information; an Accredo medications listing surfaced in search but was not confirmed. On the TRICARE Oct 2026 LDD list. On-file Accredo and Optum Specialty Pharmacy unverified."
     },
     {
       "id": "pirtobrutinib",
@@ -21259,20 +21710,26 @@
           "type": "pharmacy",
           "date_checked": "2026-10-29",
           "note": "Orsini Specialty Pharmacy"
+        },
+        {
+          "url": "https://www.orsini.com/?p=1601",
+          "type": "other",
+          "date_checked": "2026-10-31",
+          "note": "verification: Orsini Specialty Pharmacy"
         }
       ],
       "confidence": "medium",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: No Zydus HCP/access page found; Orsini's own JAYTHARI product page (Sept 2025) lists it as a dispensed product with an enrollment form and manufacturer Zydus Lifesciences Limited, but contains no selection or exclusive language. On the TRICARE Oct 2026 LDD list. On-file Orsini supported by the pharmacy's own page only."
     },
     {
       "id": "jelmyto",
       "brand": "Jelmyto",
-      "generic": "Jelmyto",
-      "manufacturer": "unknown",
+      "generic": "mitomycin (for pyelocalyceal solution)",
+      "manufacturer": "UroGen Pharma, Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -21284,6 +21741,13 @@
           "phone": null,
           "fax": null,
           "enrollment_url": "https://specialty.optumrx.com",
+          "notes": null
+        },
+        {
+          "name": "Option Care Health",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": "https://www.optioncarehealth.com",
           "notes": null
         }
       ],
@@ -21297,20 +21761,26 @@
           "type": "pharmacy",
           "date_checked": "2026-10-29",
           "note": "Optum Specialty"
+        },
+        {
+          "url": "https://optioncarehealth.com/news/option-care-health-selected-as-preferred-pharmacy-partner-to-prepare-and-distribute-breakthrough-cancer-therapy",
+          "type": "press_release",
+          "date_checked": "2026-10-31",
+          "note": "verification: Option Care Health"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Option Care Health press release (May 2020) says it was selected by UroGen as 'a preferred national pharmacy provider to prepare and deliver' Jelmyto (preferred, not exclusive); on-file Optum Specialty Pharmacy is not named in any source found. UroGen's Jelmyto portfolio page covers only supplies and links to 'JELMYTO support offerings' without naming a hub or pharmacy; the drug is a physician-instilled pyelocalyceal solution compounded by USP 800 pharmacies (Option Care) and administered in the office, so it is provider-administered. Not on the TRICARE Oct 2026 LDD list. On-file Optum unverified; Option Care added. buy_and_bill left null: physician-instilled but prepared and shipped by a pharmacy (Option Care 'preferred'); no manufacturer page states buy-and-bill vs specialty-pharmacy channel."
     },
     {
       "id": "jideytro",
       "brand": "JIDEYTRO",
-      "generic": "JIDEYTRO",
-      "manufacturer": "unknown",
+      "generic": "zidesamtinib",
+      "manufacturer": "GSK plc (via Nuvalent, Inc. acquisition)",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -21333,14 +21803,14 @@
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 1 public LDD list row(s) on 2026-10-29. Flagged as limited distribution by a payer/PBM list but no dispensing pharmacy named. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 1 public LDD list row(s) on 2026-10-29. Flagged as limited distribution by a payer/PBM list but no dispensing pharmacy named. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: GSK PR Newswire release (July 22, 2026) confirms FDA approval of Jideytro (zidesamtinib) for ROS1+ NSCLC as part of the Nuvalent acquisition but names no specialty pharmacy, hub, or distribution model; no GSK/Nuvalent HCP access page surfaced in three searches. Not on the TRICARE Oct 2026 LDD list. No pharmacies on file; none found."
     },
     {
       "id": "joenja",
       "brand": "Joenja",
-      "generic": "Joenja",
-      "manufacturer": "unknown",
+      "generic": "leniolisib",
+      "manufacturer": "Pharming Healthcare, Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -21355,7 +21825,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "APDS Assist",
+        "phone": "(877) 796-APDS (2737)",
+        "url": "https://joenja.com/apds-assist"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -21395,35 +21869,37 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Prime Therapeutics"
+        },
+        {
+          "url": "https://www.jotup.co/taxonomy/term/2654241",
+          "type": "other",
+          "date_checked": "2026-10-31",
+          "note": "verification: PANTHERx Rare"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 6 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 6 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: Manufacturer HCP/patient PDF (joenja.com/you-have-been-prescribed-now-what.pdf) names the APDS Assist hub and an 'APDS Assist Specialty Pharmacist' but does not name a dispensing pharmacy or use exclusive language; a search-result title ('PANTHERx Rare Launches Drug for APDS') is the only pharmacy mention and was not fetched. On the TRICARE Oct 2026 LDD list. On-file PANTHERx Rare is consistent with that title but not confirmed on the manufacturer page."
     },
     {
       "id": "jubereq",
       "brand": "JUBEREQ",
-      "generic": "JUBEREQ",
-      "manufacturer": "unknown",
+      "generic": "denosumab-desu",
+      "manufacturer": "Accord BioPharma, Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
-      "distribution_type": "limited_network",
-      "pharmacies": [
-        {
-          "name": "CVS Specialty",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://www.cvsspecialty.com",
-          "notes": null
-        }
-      ],
-      "hub_program": null,
+      "distribution_type": "open",
+      "pharmacies": [],
+      "hub_program": {
+        "name": "AccordCares",
+        "phone": null,
+        "url": null
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -21445,14 +21921,14 @@
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-04-29",
+      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: On-file CVS Specialty not confirmed by any source; manufacturer launch release names no specialty pharmacy and positions the product on the medical benefit (preferred on Cigna commercial medical benefit, supplied as a single-dose vial for providers), i.e., provider-administered buy-and-bill rather than a specialty-pharmacy LDD. Only source found was the Accord BioPharma commercial-availability press release (BioSpace, July 2026) for the Xgeva biosimilar JUBEREQ; no manufacturer access page located. Not on the TRICARE Oct 2026 LDD list. Appears to be a provider-administered buy-and-bill product, so not a specialty-pharmacy LDD; on-file CVS Specialty unverified."
     },
     {
       "id": "juxtapid",
       "brand": "Juxtapid",
-      "generic": "Juxtapid",
-      "manufacturer": "unknown",
+      "generic": "lomitapide",
+      "manufacturer": "Chiesi USA, Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -21467,8 +21943,12 @@
           "notes": null
         }
       ],
-      "hub_program": null,
-      "rems": false,
+      "hub_program": {
+        "name": "Chiesi Total Care (CTC)",
+        "phone": "1-855-898-2743",
+        "url": "https://chiesitotalcare.com"
+      },
+      "rems": true,
       "cold_chain": null,
       "controlled_substance": false,
       "sources": [
@@ -21507,14 +21987,20 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Prime Therapeutics"
+        },
+        {
+          "url": "https://resources.chiesiusa.com/Juxtapid/Juxtapid_HCP_Prior_Authorization_and_Access_Guide.pdf",
+          "type": "manufacturer",
+          "date_checked": "2026-10-31",
+          "note": "verification: Accredo"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 6 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 6 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: Chiesi's HCP Prior Authorization and Access Guide states the Chiesi Total Care program is 'offered through Accredo Specialty Pharmacy' and that JUXTAPID is available only through the JUXTAPID REMS; no other pharmacy is named and Accredo is not explicitly called the sole dispenser. On the TRICARE Oct 2026 LDD list. On-file Accredo confirmed."
     },
     {
       "id": "methotrexate-oral-solution",
@@ -21563,8 +22049,8 @@
     {
       "id": "jynarque",
       "brand": "Jynarque",
-      "generic": "Jynarque",
-      "manufacturer": "unknown",
+      "generic": "tolvaptan",
+      "manufacturer": "Otsuka America Pharmaceutical, Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -21600,8 +22086,12 @@
           "notes": null
         }
       ],
-      "hub_program": null,
-      "rems": false,
+      "hub_program": {
+        "name": "Otsuka Patient Experience Program (Otsuka Patient Support)",
+        "phone": "1-833-468-7852",
+        "url": "https://PatientExperienceProgram.com"
+      },
+      "rems": true,
       "cold_chain": null,
       "controlled_substance": false,
       "sources": [
@@ -21640,14 +22130,20 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Prime Therapeutics"
+        },
+        {
+          "url": "https://pkdcure.org/wp-content/uploads/Jynarque-REMS-and-PEL-Form-Blank-1-25-24.pdf",
+          "type": "other",
+          "date_checked": "2026-10-31",
+          "note": "verification: AllianceRx Walgreens Pharmacy"
         }
       ],
       "confidence": "medium",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 8 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 8 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: Otsuka's JYNARQUE REMS/Patient Experience Program enrollment form (hosted by PKD Foundation, Jan 2024 version) offers specialty-pharmacy choices printed as 'AllianceRx Optum' and 'PANTHERx' and states JYNARQUE is available only through the JYNARQUE REMS restricted distribution program (REMS line 1-866-244-9446, JYNARQUErems.com); no Otsuka HCP access page was fetched directly. On the TRICARE Oct 2026 LDD list. On-file AllianceRx Walgreens, Optum and PANTHERx are consistent with the form; the separate 'Walgreens Specialty Pharmacy' entry on file is the AllianceRx successor name and was not independently confirmed."
     },
     {
       "id": "kadcyla",
@@ -21734,31 +22230,13 @@
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
-      "distribution_type": "limited_network",
-      "pharmacies": [
-        {
-          "name": "CVS Specialty",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://www.cvsspecialty.com",
-          "notes": null
-        },
-        {
-          "name": "Optum Specialty Pharmacy",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://specialty.optumrx.com",
-          "notes": null
-        },
-        {
-          "name": "Orsini Specialty Pharmacy",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://www.orsini.com",
-          "notes": null
-        }
-      ],
-      "hub_program": null,
+      "distribution_type": "open",
+      "pharmacies": [],
+      "hub_program": {
+        "name": "Takeda Patient Support",
+        "phone": "1-866-888-0660",
+        "url": "https://TakedaPatientSupport.com/HCP"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -21794,18 +22272,18 @@
           "note": "CVS Specialty"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 6 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-04-29",
+      "notes": "Bulk-loaded from 6 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Manufacturer HCP page names no specialty pharmacy and states KALBITOR 'should only be administered by a healthcare professional with appropriate medical support' (site-of-care triage), so it is a provider-administered product rather than a specialty-pharmacy LDD; on-file CVS Specialty, Optum and Orsini are not confirmed by the manufacturer. Found the Takeda Patient Support page on kalbitor.com/hcp (hub phone and URL shown, 'specialty pharmacy (or site of care) triage' only, no pharmacy names, no exclusive language, no REMS). Not on the TRICARE Oct 2026 LDD list. Product is HCP-administered (buy-and-bill/site of care); on-file pharmacies unverified."
     },
     {
       "id": "kalydeco",
       "brand": "Kalydeco",
-      "generic": "Kalydeco",
-      "manufacturer": "unknown",
+      "generic": "ivacaftor",
+      "manufacturer": "Vertex Pharmaceuticals Incorporated",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -21867,9 +22345,20 @@
           "fax": null,
           "enrollment_url": "https://www.walgreensspecialtyrx.com",
           "notes": null
+        },
+        {
+          "name": "VytlOne Specialty Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "Vertex GPS (Guidance & Patient Support)",
+        "phone": null,
+        "url": null
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -21915,20 +22404,32 @@
           "type": "pharmacy",
           "date_checked": "2026-10-29",
           "note": "CVS Specialty"
+        },
+        {
+          "url": "https://www.vrtx.com/medicines/our-approved-medicines/authorized-specialty-pharmacies-and-distributors",
+          "type": "manufacturer",
+          "date_checked": "2026-10-31",
+          "note": "verification: Accredo"
+        },
+        {
+          "url": "https://www.maxor.com/maxor-selected-as-limited-distribution-provider-of-orkambi-and-kalydeco",
+          "type": "press_release",
+          "date_checked": "2026-10-31",
+          "note": "verification: Maxor Specialty"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 9 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 9 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Vertex's current authorized-pharmacy page lists VytlOne Specialty Pharmacy (new vs. file) and does not list 'Maxor Specialty' or 'AllianceRx Walgreens Pharmacy' by those names (Maxor was named in a 2019 press release; VytlOne appears to be the successor brand, and AllianceRx is now listed as Walgreens Specialty Pharmacy). Update file to match the manufacturer list. Vertex's authorized specialty pharmacies and distributors page (manufacturer) lists seven US specialty pharmacies plus two specialty distributors for KALYDECO/TRIKAFTA/ALYFTREK/SYMDEKO/ORKAMBI with no exclusive language; no Vertex GPS phone/URL shown on that page. On the TRICARE Oct 2026 LDD list. On-file Accredo, CVS Specialty, Fairview, AcariaHealth (Foundation Care), Optum and Walgreens Specialty confirmed; Maxor and AllianceRx names not on the current page. Vertex page also names two specialty distributors (DMS Pharmaceutical Group; McKesson Plasma and Biologics), not recorded as pharmacies."
     },
     {
       "id": "kanuma",
       "brand": "Kanuma",
-      "generic": "Kanuma",
-      "manufacturer": "unknown",
+      "generic": "sebelipase alfa",
+      "manufacturer": "Alexion Pharmaceuticals, Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -21947,6 +22448,13 @@
           "phone": null,
           "fax": null,
           "enrollment_url": "https://specialty.optumrx.com",
+          "notes": null
+        },
+        {
+          "name": "Orsini Specialty Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": "https://www.orsini.com",
           "notes": null
         }
       ],
@@ -21978,14 +22486,20 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Health Alliance"
+        },
+        {
+          "url": "https://orsini.com/?p=916",
+          "type": "other",
+          "date_checked": "2026-10-31",
+          "note": "verification: Orsini Specialty Pharmacy"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 5 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Alexion's product page names no specialty pharmacy; on-file CVS Specialty and Optum are not confirmed, and Orsini (not on file) carries a Kanuma product page. Alexion medicines page (manufacturer) confirms sebelipase alfa is an intravenous infusion but names no pharmacy, hub program or REMS; an Orsini Specialty Pharmacy product page for Kanuma appeared in search (title only, not fetched). Not on the TRICARE Oct 2026 LDD list. IV ERT usually billed under the medical benefit/infusion site, but the page does not state who administers it; on-file pharmacies unverified."
     },
     {
       "id": "eladocagene-exuparvovec-tneq",
@@ -22022,34 +22536,32 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Florida Blue"
+        },
+        {
+          "url": "https://www.orsini.com/kebilidi-eladocagene-exuparvovec-tneq/",
+          "type": "other",
+          "date_checked": "2026-10-31",
+          "note": "verification: Orsini Specialty Pharmacy"
         }
       ],
       "confidence": "medium",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Payer list marks it buy-and-bill (provider-administered), no specialty pharmacy. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Payer list marks it buy-and-bill (provider-administered), no specialty pharmacy. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: Only the Orsini product page was found (route 'Intraputaminal', site of care 'Healthcare facility', Prescription Start Form linked, phone 888-221-3495 unlabeled); no PTC access page fetched and no exclusive language seen. Not on the TRICARE Oct 2026 LDD list. Product is a provider-administered (neurosurgical) gene therapy, so it is not a specialty-pharmacy LDD in the usual sense; on-file Orsini consistent but exclusivity unverified. buy_and_bill left null: no manufacturer source states the acquisition channel (Orsini lists it; administration is in a healthcare facility)."
     },
     {
       "id": "kepivance",
       "brand": "Kepivance",
-      "generic": "Kepivance",
-      "manufacturer": "unknown",
+      "generic": "palifermin",
+      "manufacturer": "Sobi (Swedish Orphan Biovitrum)",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
-      "distribution_type": "limited_network",
-      "pharmacies": [
-        {
-          "name": "Optum Specialty Pharmacy",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://specialty.optumrx.com",
-          "notes": null
-        }
-      ],
+      "distribution_type": "open",
+      "pharmacies": [],
       "hub_program": null,
       "rems": false,
       "cold_chain": null,
@@ -22072,14 +22584,14 @@
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Payer list marks it buy-and-bill (provider-administered), no specialty pharmacy. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-04-29",
+      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Payer list marks it buy-and-bill (provider-administered), no specialty pharmacy. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: On-file Optum Specialty Pharmacy not confirmed by any source; product is an IV infusion given around stem-cell transplant (provider-administered buy-and-bill), not a specialty-pharmacy LDD. No manufacturer access page found; search only returned payer PA criteria, FDA safety page (fetch failed) and drug references describing a 5.16 mg intravenous solution. Manufacturer attribution (Sobi) comes from a search-result document title, not a fetched manufacturer page. Not on the TRICARE Oct 2026 LDD list; on-file Optum unverified."
     },
     {
       "id": "kesimpta",
       "brand": "KESIMPTA",
-      "generic": "KESIMPTA",
-      "manufacturer": "unknown",
+      "generic": "ofatumumab",
+      "manufacturer": "Novartis Pharmaceuticals Corporation",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -22092,9 +22604,27 @@
           "fax": null,
           "enrollment_url": "https://www.cvsspecialty.com",
           "notes": null
+        },
+        {
+          "name": "AllianceRx Walgreens Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": "https://www.alliancerxwp.com",
+          "notes": null
+        },
+        {
+          "name": "Homescripts Pharmacy",
+          "phone": null,
+          "fax": null,
+          "enrollment_url": null,
+          "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "Novartis Patient Support (Alongside Kesimpta)",
+        "phone": "855-KESIMPTA (855-537-4678)",
+        "url": "https://www.kesimptahcp.com"
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -22110,20 +22640,32 @@
           "type": "pharmacy",
           "date_checked": "2026-10-29",
           "note": "CVS Specialty"
+        },
+        {
+          "url": "https://www.chaindrugreview.com/kesimpta-available-through-alliancerx-walgreens-prime/",
+          "type": "press_release",
+          "date_checked": "2026-10-31",
+          "note": "verification: AllianceRx Walgreens Pharmacy"
+        },
+        {
+          "url": "https://www.cdn.fuse.novartis.com/FA-11627610_KSM_NPS_HCP_Start_Form_Digital_Update_4-26/FA-11627610.PDF",
+          "type": "manufacturer",
+          "date_checked": "2026-10-31",
+          "note": "verification: Homescripts Pharmacy"
         }
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: Novartis HCP start form leaves 'Preferred Specialty Pharmacy' open (prescriber's choice) and names only Homescripts for NY/IA; a 2020 AllianceRx Walgreens Prime announcement says Novartis chose it to dispense without exclusivity language. On-file CVS Specialty is not confirmed by either source, and the product looks like open/broad specialty distribution rather than an LDD. Novartis Patient Support HCP start form (manufacturer, 2026 revision) shows hub phone/URL, an open preferred-pharmacy field and Homescripts for NY/IA e-prescriptions; AllianceRx Walgreens Prime press coverage (Dec 2020) reports it was chosen to dispense, no exclusive language. Not on the TRICARE Oct 2026 LDD list. On-file CVS Specialty unverified. Homescripts is listed for NY and IA prescriptions only."
     },
     {
       "id": "keveyis",
       "brand": "Keveyis",
-      "generic": "Keveyis",
-      "manufacturer": "unknown",
+      "generic": "dichlorphenamide",
+      "manufacturer": "Xeris Biopharma",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -22138,7 +22680,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "Xeris CareConnection (Keveyis Bridge Program / $0 Co-pay Program)",
+        "phone": "844-538-3947 (844-KEVEYIS)",
+        "url": null
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -22166,14 +22712,14 @@
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 3 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: No current source names PANTHERx Rare (on file); the only exclusivity source is a 2015-era Drug Store News item naming Diplomat Pharmacy as exclusive distributor under the prior owner Taro, which predates Strongbridge/Xeris ownership and Diplomat's acquisition by Optum. No Xeris HCP access page located; hub details come from a PrescriberPoint summary of the Keveyis Bridge Program (Xeris CareConnection phone shown, no pharmacy named). A generic dichlorphenamide (Torrent) has also launched. On the TRICARE Oct 2026 LDD list. On-file PANTHERx Rare unverified. (Diplomat exclusivity is historical/defunct; not recorded as a pharmacy.)"
     },
     {
       "id": "kevzara",
       "brand": "KEVZARA",
-      "generic": "KEVZARA",
-      "manufacturer": "unknown",
+      "generic": "sarilumab",
+      "manufacturer": "Sanofi / Regeneron Pharmaceuticals",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
@@ -22188,7 +22734,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "KevzaraConnect",
+        "phone": null,
+        "url": null
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -22210,8 +22760,8 @@
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: On-file CVS Specialty not confirmed; only source is a May 2017 Drug Store News item that Diplomat would dispense Kevzara, with no exclusivity or network language. Product appears to be broadly distributed self-injectable, not an LDD. No Sanofi/Regeneron access page fetched; KevzaraConnect hub name seen only in PrescriberPoint program titles (no phone/URL seen). Not on the TRICARE Oct 2026 LDD list. On-file CVS Specialty unverified. 2017 Diplomat Pharmacy dispensing announcement (drugstorenews.com/pharmacy/diplomat-dispense-kevzara) is historical; Diplomat no longer operates, not recorded as a pharmacy."
     },
     {
       "id": "pembrolizumab",
@@ -22311,30 +22861,19 @@
     {
       "id": "khapzory",
       "brand": "Khapzory",
-      "generic": "Khapzory",
-      "manufacturer": "unknown",
+      "generic": "levoleucovorin",
+      "manufacturer": "Acrotech Biopharma",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
-      "distribution_type": "limited_network",
-      "pharmacies": [
-        {
-          "name": "CVS Specialty",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://www.cvsspecialty.com",
-          "notes": null
-        },
-        {
-          "name": "Optum Specialty Pharmacy",
-          "phone": null,
-          "fax": null,
-          "enrollment_url": "https://specialty.optumrx.com",
-          "notes": null
-        }
-      ],
-      "hub_program": null,
+      "distribution_type": "open",
+      "pharmacies": [],
+      "hub_program": {
+        "name": "STAR (Specialty Therapy Access Resources)",
+        "phone": null,
+        "url": null
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -22356,25 +22895,31 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Health Alliance"
+        },
+        {
+          "url": "https://static.cigna.com/assets/chcp/pdf/resourceLibrary/prescription/Khapzory.pdf",
+          "type": "pbm",
+          "date_checked": "2026-10-31",
+          "note": "verification: Accredo"
         }
       ],
       "confidence": "medium",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 4 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-04-29",
+      "notes": "Bulk-loaded from 4 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: CONFLICT: On-file CVS Specialty and Optum not confirmed; Cigna's PA form lists acquisition via physician office stock, infusion center, hospital outpatient or Accredo, consistent with a provider-administered injectable (buy-and-bill) rather than a specialty-pharmacy LDD. No Acrotech access page found; Cigna coverage request form (payer) shows Khapzory 175 mg/300 mg powder for injection with site-of-care acquisition options and Accredo as Cigna's preferred specialty pharmacy. STAR program name seen only in PrescriberPoint titles for Acrotech products, no Khapzory-specific phone/URL. Not on the TRICARE Oct 2026 LDD list; on-file pharmacies unverified."
     },
     {
       "id": "khindivi",
       "brand": "Khindivi",
-      "generic": "Khindivi",
-      "manufacturer": "unknown",
+      "generic": "hydrocortisone (oral solution)",
+      "manufacturer": "Eton Pharmaceuticals, Inc.",
       "approval_date": null,
       "indication": null,
       "dosage_forms": [],
       "ndcs": [],
-      "distribution_type": "limited_network",
+      "distribution_type": "exclusive",
       "pharmacies": [
         {
           "name": "AnovoRx",
@@ -22384,7 +22929,11 @@
           "notes": null
         }
       ],
-      "hub_program": null,
+      "hub_program": {
+        "name": "Eton Cares Program",
+        "phone": null,
+        "url": null
+      },
       "rems": false,
       "cold_chain": null,
       "controlled_substance": false,
@@ -22400,14 +22949,20 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Prime Therapeutics"
+        },
+        {
+          "url": "https://www.biospace.com/press-releases/eton-pharmaceuticals-announces-u-s-fda-approval-for-khindivi-hydrocortisone-oral-solution",
+          "type": "press_release",
+          "date_checked": "2026-10-31",
+          "note": "verification: AnovoRx (exclusive)"
         }
       ],
       "confidence": "medium",
       "status": "draft",
       "verified_by": null,
       "verified_date": null,
-      "next_review_date": "2027-01-27",
-      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page."
+      "next_review_date": "2027-01-29",
+      "notes": "Bulk-loaded from 2 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Verification 2026-10-31: Eton's FDA-approval press release (May 28, 2025) states KHINDIVI is available 'exclusively through Anovo' (e-prescribe to 'Anovo #5', referral fax 855-813-2039) with Eton Cares co-pay support administered by Anovo; no khindivi.com HCP page fetched. On the TRICARE Oct 2026 LDD list. On-file 'AnovoRx' is the same pharmacy (now branded Anovo), so confirmed as exclusive."
     },
     {
       "id": "kimmtrak",
