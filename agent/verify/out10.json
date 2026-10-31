@@ -1,0 +1,1367 @@
+[
+  {
+    "brand": "TEGLUTIK",
+    "generic": "riluzole (oral suspension)",
+    "manufacturer": "EDW Pharma, Inc. (formerly ITF Pharma, Inc.; Italfarmaco subsidiary)",
+    "pharmacies": [
+      {
+        "name": "Anovo Specialty Pharmacy",
+        "source_url": "https://tiglutik.com/hcp/how-to-order-tiglutik-for-your-patients/",
+        "source_type": "manufacturer",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "AnovoRx",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": null,
+      "phone": "844-763-1198",
+      "url": "https://tiglutik.com/helping-patients-get-tiglutik/"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Shares the TIGLUTIK/Tiglutik-Teglutik network (TEGLUTIK is the ex-US brand name of the same riluzole oral suspension; US brand is TIGLUTIK). Read tiglutik.com/hcp/how-to-order-tiglutik-for-your-patients/ (EDW Pharma product site): 'TIGLUTIK is only available from Anovo Specialty Pharmacy' and calls Anovo 'our exclusive Specialty Pharmacy'; links an Anovo fax order form. tiglutik.com home and /how-does-anovo-help pages: Anovo ships to patient home, 'Contact Anovo at 844-763-1198' (same number labeled Medical/Product Inquiries); no formal hub program name shown, a 'TIGLUTIK Support' section and copay program referenced. TRICARE LDD PDF (Nov 2026) lists Tiglutik/Teglutik -> ANOVORX 844-288-5007. On-file AnovoRx matches."
+  },
+  {
+    "brand": "Tegsedi",
+    "generic": "inotersen",
+    "manufacturer": "Akcea Therapeutics, Inc. (Ionis Pharmaceuticals subsidiary)",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://ir.ionispharma.com/node/24126",
+        "source_type": "manufacturer",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "AKCEA CONNECT",
+      "phone": "1-866-252-3289",
+      "url": "http://www.AkceaConnect.com"
+    },
+    "rems": true,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": "Product discontinued in the US: LA Medicaid/Centene policy LA.PHAR.405 (01/2026) quotes Akcea: 'will discontinue the commercial availability of the product in the United States effective September 27, 2024'. Accredo on file matches the historical network, but the drug is no longer commercially available, so an active LDD record is questionable.",
+    "notes": "Read ir.ionispharma.com/node/24126 (Ionis/Akcea press release, 2018): Akcea 'working together with Accredo specialty pharmacy, a subsidiary of Express Scripts, to distribute TEGSEDI'; no exclusive wording; AKCEA CONNECT 1-866-AKCEATX (1-866-252-3289), www.AkceaConnect.com; 'available only through a restricted program' (TEGSEDI REMS). drugs.com availability page: all formulations 'discontinued' (labeler AKCEA THERAPS). ldh.la.gov LA.PHAR.405 PDF: discontinuation effective Sept 27, 2024, REMS program confirmed. Not on TRICARE LDD list (Nov 2026). Self-administered SC injection, not buy-and-bill."
+  },
+  {
+    "brand": "TEPEZZA",
+    "generic": "teprotumumab-trbw",
+    "manufacturer": "Amgen (formerly Horizon Therapeutics)",
+    "pharmacies": [
+      {
+        "name": "Accredo Ophthalmic TRC",
+        "source_url": "https://www.tepezzahcp.com/-/media/Themes/Horizon/Tepezzahcp-com/Tepezzahcp-com/Document/new-pdf/TEPEZZA_At_Your_Practice.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": {
+      "name": "Amgen By Your Side",
+      "phone": "1-833-583-7399",
+      "url": "https://www.amgenbyyourside.com/tepezza/hcp"
+    },
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": "Manufacturer PDF states 'TEPEZZA is available through 1 Amgen-authorized specialty pharmacy' (Accredo Ophthalmic TRC, 1-877-626-1511) plus 11 authorized specialty distributors for buy-and-bill (J3241). CVS Specialty on file is not named by the manufacturer. Product is a provider-administered IV infusion (infusion centers, offices, hospitals, home infusion), so it is primarily buy-and-bill rather than a specialty-pharmacy LDD.",
+    "notes": "Read tepezzahcp.com/starting-patients (sites of care: infusion centers, clinics/offices, hospitals, home infusion; Amgen By Your Side enrollment link), tepezzahcp.com/support-and-resources (Amgen By Your Side 1-833-5-TEPEZZA / 1-833-583-7399), and the 'TEPEZZA At Your Practice' PDF on tepezzahcp.com: specialty distributors BioCareSD, Cardinal Health SPD, Cardinal PR, Cencora/Besse, Cencora/ASD, Cencora/Oncology Supply, CuraScript SD, M&D, McKesson Plasma and Biologics, McKesson Specialty Health, Metro Medical; single authorized SP Accredo Ophthalmic TRC; J-code J3241; that PDF lists Amgen By Your Side as 1-844-469-4297 (different number from the web page). Not on TRICARE LDD list."
+  },
+  {
+    "brand": "Tepmetko",
+    "generic": "tepotinib",
+    "manufacturer": "EMD Serono, Inc. (Merck KGaA, Darmstadt, Germany)",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "CoverOne",
+      "phone": "1-844-826-8371",
+      "url": "https://www.coverone.com/"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": "Biologics by McKesson (exclusive) on file could not be confirmed or refuted: the manufacturer pages read name no specialty pharmacy or distributor.",
+    "notes": "Read tepmetko.com/us-en/home/resources.html and tepmetko.com/us-en/home/access-reimbursement.html (EMD Serono product site): CoverOne access/reimbursement program, phone 1-844-826-8371, fax 1-800-214-7295, CoverOne.com; no specialty pharmacy or distributor named, no limited/exclusive wording; the resources page refers to a downloadable 'Product Information Sheet' covering 'TEPMETKO distributors' that was not read. Not on TRICARE LDD list (Nov 2026). Oral tablet, not buy-and-bill. Two standard searches returned only payer PA policies and ex-US pages."
+  },
+  {
+    "brand": "TEZSPIRE",
+    "generic": "tezepelumab-ekko",
+    "manufacturer": "Amgen Inc. / AstraZeneca",
+    "pharmacies": [
+      {
+        "name": "AcariaHealth",
+        "source_url": "https://www.tezspirehcp.com/content/dam/intelligentcontent/brands/tezspirehcp/us/en/pdf/TEZSPIRE-SP_SD-network-list.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://www.tezspirehcp.com/content/dam/intelligentcontent/brands/tezspirehcp/us/en/pdf/TEZSPIRE-SP_SD-network-list.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Accredo",
+        "source_url": "https://www.tezspirehcp.com/content/dam/intelligentcontent/brands/tezspirehcp/us/en/pdf/TEZSPIRE-SP_SD-network-list.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CenterWell Pharmacy",
+        "source_url": "https://www.tezspirehcp.com/content/dam/intelligentcontent/brands/tezspirehcp/us/en/pdf/TEZSPIRE-SP_SD-network-list.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "AllianceRx Walgreens Pharmacy",
+        "source_url": "https://www.tezspirehcp.com/content/dam/intelligentcontent/brands/tezspirehcp/us/en/pdf/TEZSPIRE-SP_SD-network-list.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Kroger Specialty Pharmacy",
+        "source_url": "https://www.tezspirehcp.com/content/dam/intelligentcontent/brands/tezspirehcp/us/en/pdf/TEZSPIRE-SP_SD-network-list.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Optum Specialty Pharmacy",
+        "source_url": "https://www.tezspirehcp.com/content/dam/intelligentcontent/brands/tezspirehcp/us/en/pdf/TEZSPIRE-SP_SD-network-list.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "ASPN Pharmacies",
+        "source_url": "https://www.tezspirehcp.com/severe-asthma/support-and-resources/help-get-your-patients-started",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": {
+      "name": "TEZSPIRE Together",
+      "phone": "1-888-897-7473",
+      "url": "https://www.tezspiretogetherhcp.com/s/login/"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read tezspirehcp.com SP/SD network list PDF: 7 specialty pharmacies (AcariaHealth 800-511-5144, CVS Specialty 800-237-2767, Accredo 866-759-1557, CenterWell 800-486-2668, AllianceRx Walgreens 800-445-3674, Kroger Specialty 855-733-3126, Optum Specialty 855-427-4682) and 13 specialty distributors for buy-and-bill; headings 'OBTAINING TEZSPIRE THROUGH A SPECIALTY PHARMACY' and 'OBTAINING TEZSPIRE THROUGH BUY AND BILL'; no limited/exclusive wording. Read tezspirehcp.com help-get-your-patients-started: 'obtain TEZSPIRE through buy and bill or via a specialty pharmacy', Amgen contract with ASPN Pharmacies, TEZSPIRE Together 1-888-TZSPIRE. Dual-channel SC biologic (J2356); the SP network exists so buy_and_bill set false, but buy-and-bill is also offered. On-file CVS Specialty and Optum both appear in the network; network is broader than on file. Not on TRICARE LDD list."
+  },
+  {
+    "brand": "Thiola",
+    "generic": "tiopronin",
+    "manufacturer": "Travere Therapeutics, Inc. (THIOLA/THIOLA EC are trademarks of Mission Pharmacal Company)",
+    "pharmacies": [
+      {
+        "name": "Eversana",
+        "source_url": "https://thiolaec.com/total-care-hub",
+        "source_type": "manufacturer",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "Eversana",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "THIOLA Total Care HUB",
+      "phone": "844-484-4652",
+      "url": "https://thiolaec.com/total-care-hub"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Shares network with THIOLA EC (same manufacturer site covers both). Read thiolaec.com/total-care-hub (Travere product site): EVERSANA administers the Total Care HUB, 'the ONLY patient services and dispensing pharmacy for brand name THIOLA and THIOLA EC'; 'THIOLA EC: Only available through the Total Care HUB'; phone 844-4-THIOLA (844-484-4652); enrollment form PDF linked. travere.com/our-therapies still lists Thiola EC. TRICARE LDD PDF lists Thiola -> EVERSANA 636-519-2400. On-file Eversana matches. Generic tiopronin (Teva, Cycle/Torrent, Endo) is distributed separately."
+  },
+  {
+    "brand": "THIOLA EC",
+    "generic": "tiopronin (delayed-release)",
+    "manufacturer": "Travere Therapeutics, Inc. (THIOLA/THIOLA EC are trademarks of Mission Pharmacal Company)",
+    "pharmacies": [
+      {
+        "name": "Eversana",
+        "source_url": "https://thiolaec.com/total-care-hub",
+        "source_type": "manufacturer",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "Eversana",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "THIOLA Total Care HUB",
+      "phone": "844-484-4652",
+      "url": "https://thiolaec.com/total-care-hub"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Shares network with Thiola (researched once). Read thiolaec.com/total-care-hub: Eversana-run Total Care HUB is 'the ONLY patient services and dispensing pharmacy for brand name THIOLA and THIOLA EC'; 'THIOLA EC: Only available through the Total Care HUB'; 844-484-4652; DAW instruction to avoid generic substitution. TRICARE LDD PDF lists Thiola -> EVERSANA (THIOLA EC not listed separately). Nothing on file (current_type unknown); recommend Eversana / Total Care HUB, exclusive."
+  },
+  {
+    "brand": "THROMBATE III",
+    "generic": "antithrombin III (human)",
+    "manufacturer": "Grifols",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read thrombate.com/en/resources (Grifols product site): 'THROMBATE III is for intravenous use after reconstitution only'; no specialty pharmacy, distributor, or patient support program named; only a 'Request a Rep' link and general Grifols line 1-888-GRIFOLS (1-888-474-3657). Plasma-derived IV antithrombin concentrate; buy_and_bill=true is an inference from IV-only administration and the absence of any SP network on the manufacturer site (site of care not stated on the page). Not on TRICARE LDD list (Nov 2026). Nothing on file; no evidence of a specialty-pharmacy LDD network."
+  },
+  {
+    "brand": "Thyrogen",
+    "generic": "thyrotropin alfa",
+    "manufacturer": "Sanofi",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "ThyrogenONE",
+      "phone": "1-888-497-6436",
+      "url": "https://thyrogenone.careform.net/"
+    },
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": "On-file CVS Specialty and Optum Specialty could not be confirmed or refuted: Sanofi's how-to-order page offers buy-and-bill (direct from Sanofi or via wholesalers McKesson, Cardinal, Henry Schein and distributors Priority, Theracom, CuraScript) or an unnamed specialty-pharmacy route; no specialty pharmacy is named and no limited/exclusive wording appears, so there is no manufacturer evidence of a limited SP network.",
+    "notes": "Read pro.campus.sanofi/us/products/thyrogen/how-to-order (Sanofi HCP site): two routes, 'Buy and Bill' (Sanofi direct-buy application or wholesaler/distributor) and 'Specialty Pharmacy' (SP fulfillment coordinated by ThyrogenONE; no SP names); 'Call ThyrogenONE at 1-88 THYROGEN (1-888-497-6436)'; Thyrogen Copay program referenced. Provider-administered IM injection in the office so primarily buy-and-bill, though an open SP route exists. Not on TRICARE LDD list (Nov 2026). Several 2026 medfinder.com posts in results reference a Thyrogen kit shortage (not read)."
+  },
+  {
+    "brand": "TIGLUTIK",
+    "generic": "riluzole (oral suspension)",
+    "manufacturer": "EDW Pharma, Inc. (formerly ITF Pharma, Inc.; Italfarmaco subsidiary)",
+    "pharmacies": [
+      {
+        "name": "Anovo Specialty Pharmacy",
+        "source_url": "https://tiglutik.com/hcp/how-to-order-tiglutik-for-your-patients/",
+        "source_type": "manufacturer",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "AnovoRx",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": null,
+      "phone": "844-763-1198",
+      "url": "https://tiglutik.com/helping-patients-get-tiglutik/"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Shares network with TEGLUTIK and 'Tiglutik/Teglutik' (researched once). Read tiglutik.com/hcp/how-to-order-tiglutik-for-your-patients/ (EDW Pharma): 'TIGLUTIK is only available from Anovo Specialty Pharmacy', 'our exclusive Specialty Pharmacy', Anovo fax order form linked. tiglutik.com home/Anovo pages: 'Contact Anovo at 844-763-1198', home delivery, no formal hub name. TRICARE LDD PDF: Tiglutik/Teglutik -> ANOVORX 844-288-5007. On-file AnovoRx matches."
+  },
+  {
+    "brand": "Tiglutik/Teglutik",
+    "generic": "riluzole (oral suspension)",
+    "manufacturer": "EDW Pharma, Inc. (formerly ITF Pharma, Inc.; Italfarmaco subsidiary)",
+    "pharmacies": [
+      {
+        "name": "Anovo Specialty Pharmacy",
+        "source_url": "https://tiglutik.com/hcp/how-to-order-tiglutik-for-your-patients/",
+        "source_type": "manufacturer",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "AnovoRx",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": null,
+      "phone": "844-763-1198",
+      "url": "https://tiglutik.com/helping-patients-get-tiglutik/"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Shares network with TEGLUTIK and TIGLUTIK (researched once; this brand string matches the TRICARE LDD row 'Tiglutik/Teglutik'). Read tiglutik.com/hcp/how-to-order-tiglutik-for-your-patients/: 'TIGLUTIK is only available from Anovo Specialty Pharmacy'. TRICARE LDD PDF (Nov 2026): ANOVORX 844-288-5007. On-file AnovoRx matches."
+  },
+  {
+    "brand": "Tiopronin",
+    "generic": "tiopronin",
+    "manufacturer": "Multiple generic labelers: Teva (immediate-release generic of Thiola, 2021), Cycle Pharmaceuticals/Torrent Pharma (delayed-release, 2024), Endo (delayed-release)",
+    "pharmacies": [
+      {
+        "name": "Anovo Specialty Pharmacy",
+        "source_url": "https://www.businesswire.com/news/home/20240510381242/en",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.biospace.com/orsini-specialty-pharmacy-announces-access-to-tiopronin-for-the-treatment-of-severe-homozygous-cystinuria",
+        "source_type": "press_release",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "Cycle Vita (Cycle/Torrent product only)",
+      "phone": "+1 (888) 360-8482",
+      "url": "http://www.cyclevita.life"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "Network depends on labeler. Anovo on file is confirmed only as 'the exclusive specialty pharmacy' for Cycle/Torrent tiopronin DR tablets (Cycle press release, May 2024). Biologics by McKesson and CVS Specialty on file could not be confirmed or refuted. TRICARE LDD (Nov 2026) lists tiopronin -> Heritage Biologics only, and Orsini announced access to the Teva generic in 2021.",
+    "notes": "Related to Thiola/THIOLA EC (brand network is Eversana Total Care HUB) but generic tiopronin is distributed by its labelers separately. Read businesswire.com Cycle Pharmaceuticals release (2024-05-10): launch with Torrent, Anovo 'the exclusive specialty pharmacy for this product', Cycle Vita support +1 (888) 360-8482, www.cyclevita.life. Read biospace.com Orsini release (July 22, 2021): Orsini dispensing 'the first available generic version, in the US, of THIOLA' (PI link on tevagenerics.com), no exclusive wording. TRICARE LDD PDF: Tiopronin -> HERITAGE BIOLOGICS 855-937-7273. No manufacturer-domain page was read for any generic labeler. TRICARE Specialty Program LDD list (https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf) lists Heritage Biologics for tiopronin; recorded here in notes only because scripts/merge_raw.canon_pharmacy maps any name containing 'biologics' to Biologics by McKesson."
+  },
+  {
+    "brand": "TIVDAK",
+    "generic": "tisotumab vedotin-tftv",
+    "manufacturer": "Pfizer (Seagen) / Genmab",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "Pfizer Oncology Together",
+      "phone": "1-877-744-5675",
+      "url": "https://www.pfizeroncologytogether.com/hcp/codes-and-coverage"
+    },
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": "Provider-administered IV infusion ('given to you by intravenous (IV) infusion into your vein over 30 minutes', usually every 3 weeks) - not a specialty-pharmacy LDD. CVS Specialty on file is not named by any manufacturer page read; Pfizer Oncology Together describes specialty distributors and an SP network generically without naming TIVDAK pharmacies.",
+    "notes": "Read pfizermedical.com/patient/tivdak/how-will-i-receive-tivdak (Pfizer): IV infusion by healthcare provider every 3 weeks; no specialty pharmacy mentioned. Read pfizeroncologytogether.com/hcp/codes-and-coverage: TIVDAK billing/coding guide linked (code not shown on page), 'Pfizer Oncology Together can identify the specialty distributors and specialty pharmacies available through our network', phone 1-877-744-5675. Not on TRICARE LDD list (Nov 2026). Searches returned payer medical-benefit policies (Cigna, Aetna CPB, CareSource), consistent with medical-benefit/buy-and-bill administration."
+  },
+  {
+    "brand": "TOBI",
+    "generic": "tobramycin inhalation solution",
+    "manufacturer": "Mylan Specialty L.P., a Viatris Company",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "PodCare+ (TOBI PODHALER)",
+      "phone": "1-877-999-8624",
+      "url": "http://www.activatethecard.com/tobi"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": "CVS Specialty on file could not be confirmed or refuted; no source found describing a limited or exclusive network for TOBI or TOBI Podhaler, and TOBI/tobramycin is not on the TRICARE LDD list (Nov 2026). Generic tobramycin inhalation solution is widely available, so limited_network status is doubtful.",
+    "notes": "Shares research with TOBI NEB / TOBI PODHALER / tobramycin. Read tobipodhaler.com/PODCARE-Support-and-Savings (Viatris product site): PodCare+ patient support 1-877-999-TOBI (8624), savings card at www.activatethecard.com/tobi, prior-authorization resources; names no specialty pharmacy and does not describe distribution; page covers TOBI PODHALER only, not TOBI inhalation solution. Three searches returned payer PA criteria (CVS Caremark, Centene), EMA pages and a 2010s Diplomat Pharmacy news item, none describing a limited network. Self-administered inhaled product, not buy-and-bill."
+  },
+  {
+    "brand": "TOBI NEB",
+    "generic": "tobramycin inhalation solution",
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": "Could not be confirmed or refuted (no network source found).",
+    "notes": "TOBI NEB, TOBI PODHALER and tobramycin share one product family (Mylan/Viatris acquired from Novartis, per search snippets). Searches returned only coupon/payer pages; the TRICARE LDD PDF (read) has no Tobi entry. No manufacturer page found."
+  },
+  {
+    "brand": "TOBI PODHALER",
+    "generic": "tobramycin inhalation powder",
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": "On-file CVS Specialty could not be confirmed or refuted.",
+    "notes": "TOBI NEB, TOBI PODHALER and tobramycin share one product family (Mylan/Viatris acquired from Novartis, per search snippets). Searches returned only coupon/payer pages; the TRICARE LDD PDF (read) has no Tobi entry. No manufacturer page found."
+  },
+  {
+    "brand": "tobramycin",
+    "generic": "tobramycin",
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "TOBI NEB, TOBI PODHALER and tobramycin share one product family (Mylan/Viatris acquired from Novartis, per search snippets). Searches returned only coupon/payer pages; the TRICARE LDD PDF (read) has no Tobi entry. No manufacturer page found."
+  },
+  {
+    "brand": "Tolvapatan",
+    "generic": "tolvaptan",
+    "manufacturer": "Otsuka America Pharmaceutical",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Walgreens Specialty Pharmacy",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Optum Specialty Pharmacy",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "Otsuka Patient Experience Program",
+      "phone": "1-833-468-7852",
+      "url": null
+    },
+    "rems": true,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "Partially consistent: on-file Accredo/PANTHERx/Walgreens match TRICARE; Optum also listed by TRICARE. Otsuka form lists AllianceRx Optum and PANTHERx only; not a clear conflict.",
+    "notes": "Tolvapatan (TRICARE misspelling) and Tolvaptan share the tolvaptan/JYNARQUE network. TRICARE LDD PDF (read) lists Tolvapatan: Accredo, Walgreens, OptumRx, PANTHERx; Jynarque: AllianceRx Walgreens, PANTHERx. A pkdcure.org copy of the Otsuka JYNARQUE enrollment/REMS form (read; not Otsuka's own domain) lists AllianceRx Optum and PANTHERx as optional SP choices, Otsuka Patient Experience Program 1-833-468-7852, JYNARQUE REMS 1-866-244-9446 (JYNARQUErems.com), and says only enrolled pharmacies can dispense. No Otsuka-domain page read."
+  },
+  {
+    "brand": "Tolvaptan",
+    "generic": "tolvaptan (JYNARQUE)",
+    "manufacturer": "Otsuka America Pharmaceutical",
+    "pharmacies": [
+      {
+        "name": "AllianceRx Walgreens Pharmacy",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Accredo",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Walgreens Specialty Pharmacy",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Optum Specialty Pharmacy",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "AllianceRx Optum",
+        "source_url": "https://pkdcure.org/wp-content/uploads/Jynarque-REMS-and-PEL-Form-Blank-1-25-24.pdf",
+        "source_type": "other",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://pkdcure.org/wp-content/uploads/Jynarque-REMS-and-PEL-Form-Blank-1-25-24.pdf",
+        "source_type": "other",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "Otsuka Patient Experience Program",
+      "phone": "1-833-468-7852",
+      "url": null
+    },
+    "rems": true,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "CVS Specialty (on file) not seen in any source read; could not be confirmed or refuted.",
+    "notes": "Tolvapatan (TRICARE misspelling) and Tolvaptan share the tolvaptan/JYNARQUE network. TRICARE LDD PDF (read) lists Tolvapatan: Accredo, Walgreens, OptumRx, PANTHERx; Jynarque: AllianceRx Walgreens, PANTHERx. A pkdcure.org copy of the Otsuka JYNARQUE enrollment/REMS form (read; not Otsuka's own domain) lists AllianceRx Optum and PANTHERx as optional SP choices, Otsuka Patient Experience Program 1-833-468-7852, JYNARQUE REMS 1-866-244-9446 (JYNARQUErems.com), and says only enrolled pharmacies can dispense. No Otsuka-domain page read."
+  },
+  {
+    "brand": "Torpenz",
+    "generic": "everolimus tablets",
+    "manufacturer": "Upsher-Smith Laboratories",
+    "pharmacies": [
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://web2pdf.upsher-smith.com/hcp/how-to-prescribe/",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://drugstorenews.com/upsher-smith-selects-pantherx-rare-distribute-torpenz",
+        "source_type": "press_release",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "Promise of Support",
+      "phone": null,
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read Upsher-Smith HCP 'how to prescribe' page (web2pdf.upsher-smith.com): e-prescribe to PANTHERx Rare (1-866-923-1954); calls it a 'trusted specialty pharmacy partner', no exclusive wording. Promise of Support named without phone/URL; Upsher-Smith info line 1-888-650-3789. Press headline 'selects PANTHERx Rare to distribute' (title only, not read). TRICARE lists PANTHERx."
+  },
+  {
+    "brand": "Tracleer",
+    "generic": "bosentan",
+    "manufacturer": "Actelion (Janssen)",
+    "pharmacies": [
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://www.cvsspecialty.com/content/dam/enterprise/specialty/enrollment_forms/us/US_Tracleer.pdf",
+        "source_type": "pharmacy",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Accredo",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Walgreens Specialty Pharmacy",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Kaiser Permanente",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Optum Specialty Pharmacy",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "Janssen CarePath",
+      "phone": "866-228-3546",
+      "url": "JanssenCarePath.com"
+    },
+    "rems": true,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "Could not be confirmed or refuted for AllianceRx; TRICARE shows Accredo/Walgreens/Kaiser/Optum.",
+    "notes": "Read CVS Specialty Tracleer enrollment form (cvsspecialty.com): fax 866-279-0669, referral routed to appropriate certified pharmacy by benefits, Janssen CarePath 866-228-3546, Bosentan REMS 866-359-2612 (BosentanREMSProgram.com). Read TRICARE LDD. No manufacturer-domain page read. The CVS Specialty referral-form entry was recorded under the generic name 'certified pharmacy routed by benefit' by the researcher; normalized to CVS Specialty."
+  },
+  {
+    "brand": "Treprostinil",
+    "generic": "treprostinil",
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": "On-file CVS Specialty could not be confirmed or refuted.",
+    "notes": "Generic treprostinil injection (Sandoz, Liquidia etc. per search titles; Remodulin reference). Only search listings seen; TRICARE LDD has no generic treprostinil entry. No pharmacy network source or manufacturer page read."
+  },
+  {
+    "brand": "Tretten",
+    "generic": "coagulation factor XIII A-subunit (recombinant)",
+    "manufacturer": "Novo Nordisk",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "NovoCare",
+      "phone": "1-844-668-6732",
+      "url": "NovoCare.com"
+    },
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": true,
+    "conflict_note": "On-file CVS/Hemophilia of Georgia/Optum could not be confirmed or refuted.",
+    "notes": "Read novomedlink.com Tretten page (Novo Nordisk HCP site): names NovoCare patient support, but does not state distribution or pharmacies; links to a 'How to Order' page not read. TRICARE LDD has no Tretten entry. Likely plasma-derived/hemophilia-style distribution, unverified."
+  },
+  {
+    "brand": "Trikafta",
+    "generic": "elexacaftor/tezacaftor/ivacaftor",
+    "manufacturer": "Vertex Pharmaceuticals",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://www.vrtx.com/medicines/our-approved-medicines/authorized-specialty-pharmacies-and-distributors",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://www.vrtx.com/medicines/our-approved-medicines/authorized-specialty-pharmacies-and-distributors",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Fairview Specialty Pharmacy",
+        "source_url": "https://www.vrtx.com/medicines/our-approved-medicines/authorized-specialty-pharmacies-and-distributors",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Foundation Care (AcariaHealth)",
+        "source_url": "https://www.vrtx.com/medicines/our-approved-medicines/authorized-specialty-pharmacies-and-distributors",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Optum Specialty Pharmacy",
+        "source_url": "https://www.vrtx.com/medicines/our-approved-medicines/authorized-specialty-pharmacies-and-distributors",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "VytlOne Specialty Pharmacy",
+        "source_url": "https://www.vrtx.com/medicines/our-approved-medicines/authorized-specialty-pharmacies-and-distributors",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Walgreens Specialty Pharmacy",
+        "source_url": "https://www.vrtx.com/medicines/our-approved-medicines/authorized-specialty-pharmacies-and-distributors",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Maxor Specialty",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "Vertex GPS",
+      "phone": null,
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read vrtx.com authorized SP/distributor page: 7 SPs plus distributors DMS Pharmaceutical Group and McKesson Plasma and Biologics; no exclusivity language. Page did not mention GPS phone. TRICARE lists Accredo, Acaria, Walgreens, Optum, Fairview, Maxor. Maxor not on vrtx page but on TRICARE and a maxor.com GPS form. Broad network, not truly limited."
+  },
+  {
+    "brand": "Trodelvy",
+    "generic": "sacituzumab govitecan-hziy",
+    "manufacturer": "Gilead Sciences",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "Trodelvy Access Support",
+      "phone": "1-844-876-3358",
+      "url": "https://www.trodelvy.com/access-support"
+    },
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": "On-file exclusive Biologics by McKesson not supported: Trodelvy is an IV infusion given in clinic (oncology buy-and-bill); no SP network seen. Not a confirmed refutation of the distributor.",
+    "notes": "Read trodelvy.com/access-support: Trodelvy Access Support 1-844-TRODELVY; page did not describe distribution. Search results include a Gilead spoilage replacement program and ordering sheet (not read), consistent with provider-administered product. Not a specialty-pharmacy LDD."
+  },
+  {
+    "brand": "TROGARZO",
+    "generic": "ibalizumab-uiyk",
+    "manufacturer": "Theratechnologies",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": "On-file CVS Specialty could not be confirmed or refuted; product is an IV infusion with a J-code (buy-and-bill likely).",
+    "notes": "Read a Theratechnologies 2018 press release (not distribution-specific). Search showed a Paragon Healthcare Trogarzo order form and a J-code CMS announcement (titles only). No manufacturer ordering page read; TRICARE LDD has no entry. buy_and_bill left null: provider administration was inferred from route of administration/J-code, not confirmed on a manufacturer page."
+  },
+  {
+    "brand": "Truseltiq",
+    "generic": "infigratinib",
+    "manufacturer": "QED Therapeutics / BridgeBio (withdrawn)",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "Product reportedly no longer used (withdrawn); on-file Biologics by McKesson could not be confirmed or refuted.",
+    "notes": "Read oncolink.org: oral capsule, 'no longer being used'; no distribution info. Search found no Truseltiq-specific McKesson source. Manufacturer from background knowledge, not page read."
+  },
+  {
+    "brand": "Trutakna",
+    "generic": "atacicept-vymj",
+    "manufacturer": "Vera Therapeutics",
+    "pharmacies": [
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "On-file CVS Specialty not supported by TRICARE (lists PANTHERx only); could not be confirmed or refuted otherwise.",
+    "notes": "Read drugs.com label page (atacicept-vymj, Vera Therapeutics, SC autoinjector, accelerated approval; self-administered). TRICARE LDD (read) lists Trutakna: PANTHERx. No Vera-domain access page found (marketbeat page had nothing)."
+  },
+  {
+    "brand": "Tryngolza",
+    "generic": "olezarsen",
+    "manufacturer": "Ionis",
+    "pharmacies": [
+      {
+        "name": "PANTHERx Rare",
+        "source_url": "https://ionis.com/tryngolza/enrollment-form.pdf",
+        "source_type": "manufacturer",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Accredo",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "BlinkRx",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Accredo",
+        "source_url": "https://www.accredo.com/hi/prescribers/referral-forms/Tryngolza_07.01.26.pdf",
+        "source_type": "pharmacy",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "Ionis Every Step",
+      "phone": "844-789-8744",
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": "On file lists Optum Specialty Pharmacy; not confirmed by manufacturer form or TRICARE list (could not be confirmed or refuted). Manufacturer form names PANTHERx, which was not on file as listed (PANTHERx Rare).",
+    "notes": "Read ionis.com enrollment form: prescriber may e-prescribe to PANTHERx Specialty Pharmacy; Ionis Every Step hub phone 844-789-8744; Quick Start free drug. TRICARE LDD PDF lists Accredo, BlinkRx, CVS. Accredo's own Tryngolza referral form exists per search listing (not opened). Self-administered injection, so SP product."
+  },
+  {
+    "brand": "Tryvio",
+    "generic": "aprocitentan",
+    "manufacturer": "Idorsia",
+    "pharmacies": [
+      {
+        "name": "Walgreens Specialty Pharmacy",
+        "source_url": "https://www.idorsia.com/media/news/news-archive/media-release-details?id=3426097",
+        "source_type": "other",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Walgreens Specialty Pharmacy",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": false,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "On file also lists AllianceRx Walgreens Pharmacy; not separately confirmed (could not be confirmed or refuted; likely the same Walgreens entity).",
+    "notes": "Read Idorsia corporate press release (idorsia.com): REMS removed from label; Tryvio currently sold through Walgreens Specialty Pharmacy with plan to expand to retail; points to TRYVIOhcp.com (not read). TRICARE LDD lists Walgreens. No hub info seen. Oral tablet."
+  },
+  {
+    "brand": "Turalio",
+    "generic": "pexidartinib",
+    "manufacturer": "Daiichi Sankyo",
+    "pharmacies": [
+      {
+        "name": "Biologics by McKesson",
+        "source_url": "https://biologics.mckesson.com/turalio-pexidartinib-fda-approved-treatment-of-tgct-available-at-biologics-by-mckesson/",
+        "source_type": "pharmacy",
+        "exclusive_claimed": true
+      },
+      {
+        "name": "Biologics by McKesson",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": true,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Read biologics.mckesson.com page (2019): Daiichi Sankyo selected Biologics by McKesson as the exclusive specialty pharmacy provider; REMS due to liver injury. TRICARE LDD lists Biologics. Daiichi Sankyo's own page not read; page is dated 2019 so current status not reconfirmed. Consistent with on file."
+  },
+  {
+    "brand": "TYMLOS",
+    "generic": "abaloparatide",
+    "manufacturer": "Radius Health",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "Radius Assist (patient assistance)",
+      "phone": "1-866-896-5674",
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": true,
+    "conflict_note": null,
+    "notes": "Read tymlos.com/access-and-savings: Tymlos is prescribed through a specialty pharmacy, but no pharmacy is named. On-file CVS Specialty could not be confirmed or refuted. Not in TRICARE LDD list. Manufacturer name from SEC filings in search results (Radius Health; may since have changed ownership). Savings card line 1-855-243-6222."
+  },
+  {
+    "brand": "TYRUKO",
+    "generic": "natalizumab-sztn",
+    "manufacturer": "Sandoz",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": "Product is infused; no SP network found. On-file CVS Specialty could not be confirmed or refuted.",
+    "notes": "No manufacturer page read. Search results show Tyruko as an infused biologic with an FDA REMS document, order sets from infusion centers, and a McKesson listing for Sandoz (distributor product). Likely provider-administered/buy-and-bill under the natalizumab REMS, not an SP LDD, but this was not confirmed on a Sandoz page. Not in TRICARE LDD. REMS status left null: an FDA REMS document appeared in search results but was not opened."
+  },
+  {
+    "brand": "Tysabri",
+    "generic": "natalizumab",
+    "manufacturer": "Biogen",
+    "pharmacies": [],
+    "hub_program": {
+      "name": null,
+      "phone": null,
+      "url": null
+    },
+    "rems": true,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": "Manufacturer page says Tysabri is available only via TOUCH Prescribing Program at infusion centers and does not mention pharmacies; on-file CVS/Optum could not be confirmed.",
+    "notes": "Read tysabri.com infusion-center locator: restricted distribution via TOUCH REMS program, infused at doctor offices/hospitals/stand-alone centers; no pharmacy mentioned. Buy-and-bill/infusion-center product, not an SP LDD. Not in TRICARE LDD."
+  },
+  {
+    "brand": "Tyvaso",
+    "generic": "treprostinil",
+    "manufacturer": "United Therapeutics",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://accredo.com/prescribers/referral-forms/tyvaso.pdf",
+        "source_type": "pharmacy",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://accredo.com/prescribers/referral-forms/tyvaso.pdf",
+        "source_type": "pharmacy",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Accredo",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "United Therapeutics Cares",
+      "phone": "1-844-864-8437",
+      "url": "unitedtherapeuticscares.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Tyvaso, Tyvaso DPI, Inhalation System starter/refill kits share one network and one referral form. Read Accredo's Tyvaso referral form: names Accredo and CVS Specialty as preferred SPs if the payer does not mandate one (not exclusive), and lists United Therapeutics Cares hub. Manufacturer domain not read; manufacturer name taken from hub name on form. TRICARE LDD lists Accredo for Tyvaso and Tyvaso DPI. "
+  },
+  {
+    "brand": "Tyvaso DPI",
+    "generic": "treprostinil",
+    "manufacturer": "United Therapeutics",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://accredo.com/prescribers/referral-forms/tyvaso.pdf",
+        "source_type": "pharmacy",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://accredo.com/prescribers/referral-forms/tyvaso.pdf",
+        "source_type": "pharmacy",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Accredo",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "United Therapeutics Cares",
+      "phone": "1-844-864-8437",
+      "url": "unitedtherapeuticscares.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Tyvaso, Tyvaso DPI, Inhalation System starter/refill kits share one network and one referral form. Read Accredo's Tyvaso referral form: names Accredo and CVS Specialty as preferred SPs if the payer does not mandate one (not exclusive), and lists United Therapeutics Cares hub. Manufacturer domain not read; manufacturer name taken from hub name on form. TRICARE LDD lists Accredo for Tyvaso and Tyvaso DPI. "
+  },
+  {
+    "brand": "TYVASO INHALATION",
+    "generic": "treprostinil",
+    "manufacturer": "United Therapeutics",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://accredo.com/prescribers/referral-forms/tyvaso.pdf",
+        "source_type": "pharmacy",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://accredo.com/prescribers/referral-forms/tyvaso.pdf",
+        "source_type": "pharmacy",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Accredo",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "United Therapeutics Cares",
+      "phone": "1-844-864-8437",
+      "url": "unitedtherapeuticscares.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Tyvaso, Tyvaso DPI, Inhalation System starter/refill kits share one network and one referral form. Read Accredo's Tyvaso referral form: names Accredo and CVS Specialty as preferred SPs if the payer does not mandate one (not exclusive), and lists United Therapeutics Cares hub. Manufacturer domain not read; manufacturer name taken from hub name on form. TRICARE LDD lists Accredo for Tyvaso and Tyvaso DPI. "
+  },
+  {
+    "brand": "TYVASO REFILL",
+    "generic": "treprostinil",
+    "manufacturer": "United Therapeutics",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://accredo.com/prescribers/referral-forms/tyvaso.pdf",
+        "source_type": "pharmacy",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://accredo.com/prescribers/referral-forms/tyvaso.pdf",
+        "source_type": "pharmacy",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Accredo",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "United Therapeutics Cares",
+      "phone": "1-844-864-8437",
+      "url": "unitedtherapeuticscares.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Tyvaso, Tyvaso DPI, Inhalation System starter/refill kits share one network and one referral form. Read Accredo's Tyvaso referral form: names Accredo and CVS Specialty as preferred SPs if the payer does not mandate one (not exclusive), and lists United Therapeutics Cares hub. Manufacturer domain not read; manufacturer name taken from hub name on form. TRICARE LDD lists Accredo for Tyvaso and Tyvaso DPI. Refill kit is covered on the same form."
+  },
+  {
+    "brand": "TYVASO STARTER",
+    "generic": "treprostinil",
+    "manufacturer": "United Therapeutics",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://accredo.com/prescribers/referral-forms/tyvaso.pdf",
+        "source_type": "pharmacy",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://accredo.com/prescribers/referral-forms/tyvaso.pdf",
+        "source_type": "pharmacy",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Accredo",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "United Therapeutics Cares",
+      "phone": "1-844-864-8437",
+      "url": "unitedtherapeuticscares.com"
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Tyvaso, Tyvaso DPI, Inhalation System starter/refill kits share one network and one referral form. Read Accredo's Tyvaso referral form: names Accredo and CVS Specialty as preferred SPs if the payer does not mandate one (not exclusive), and lists United Therapeutics Cares hub. Manufacturer domain not read; manufacturer name taken from hub name on form. TRICARE LDD lists Accredo for Tyvaso and Tyvaso DPI. Starter kit is covered on the same form."
+  },
+  {
+    "brand": "Tzield",
+    "generic": "teplizumab-mzwv",
+    "manufacturer": "Provention Bio (now Sanofi)",
+    "pharmacies": [
+      {
+        "name": "Orsini Specialty Pharmacy",
+        "source_url": "https://www.orsini.com/orsini-specialty-pharmacy-selected-by-provention-bio-as-a-limited-distribution-partner-for-tzield/",
+        "source_type": "press_release",
+        "exclusive_claimed": null
+      },
+      {
+        "name": "Amber Specialty Pharmacy",
+        "source_url": "https://www.amberpharmacy.com/amber-specialty-pharmacy-dispensing-tzield-for-type-1-diabetes/",
+        "source_type": "press_release",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": "On file lists only Orsini; Amber Specialty Pharmacy also announced as Tzield dispenser (2022).",
+    "notes": "Read Amber 2022 press release (amberpharmacy.com): selected to dispense Tzield, tagged limited distribution, no exclusivity stated. Orsini press release title says limited distribution partner (title from search result only; orsini.com pages redirect-looped and could not be read). Tzield is an IV infusion; infusion-site order forms exist, so it may also be provider-administered. Sanofi pages not read. Not in TRICARE LDD."
+  },
+  {
+    "brand": "Ukoniq",
+    "generic": "umbralisib",
+    "manufacturer": "TG Therapeutics",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "Product withdrawn from market in 2022; on-file Onco360 could not be confirmed.",
+    "notes": "Search results (fdanews, onclive, Humana) indicate FDA withdrew approval and TG Therapeutics voluntarily withdrew Ukoniq in 2022; no current distribution network exists. Result pages not opened. Not in TRICARE LDD."
+  },
+  {
+    "brand": "Ultomiris",
+    "generic": "ravulizumab-cwvz",
+    "manufacturer": "Alexion Pharmaceuticals",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://accredo.com/prescribers/referral-forms/ultomiris.pdf",
+        "source_type": "pharmacy",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "OneSource",
+      "phone": "1.888.765.4747",
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": true,
+    "conflict_note": "On file lists AllianceRx Walgreens, CVS Specialty, Optum; only Accredo was confirmed (could not be confirmed or refuted for the others). Ultomiris is IV infused so SP is not the only channel.",
+    "notes": "Read alexion.com OneSource brochure: ONESOURCE phone 1.888.765.4747 offers pharmacy/distribution coordination incl. clinic delivery, but names no pharmacy. Read Accredo IV Ultomiris referral form: Accredo only pharmacy named, can ship to physician office. Search results also show Paragon, Optioncare and Optum LDD documents (not opened). IV infusion, so partly buy-and-bill; not in TRICARE LDD."
+  },
+  {
+    "brand": "UPLIZNA",
+    "generic": "inebilizumab-cdon",
+    "manufacturer": "Amgen (Horizon)",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "Amgen By Your Side",
+      "phone": "1-833-842-8477",
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": "On-file CVS Specialty and PANTHERx Rare could not be confirmed or refuted; no source names any pharmacy.",
+    "notes": "Read soleohealth.com-hosted Amgen UPLIZNA IgG4-RD enrollment form: names hub Amgen By Your Side, no pharmacy named (\"appropriate pharmacy designated by the patient's benefit plan\"), lists preferred infusion facility field. Not on TRICARE LDD list. IV-infused product, so likely provider/infusion-site administered rather than an SP LDD; no Amgen-domain page read. buy_and_bill left null: provider administration was inferred from route of administration/J-code, not confirmed on a manufacturer page."
+  },
+  {
+    "brand": "Uptravi",
+    "generic": "selexipag",
+    "manufacturer": "Actelion Pharmaceuticals US (Janssen / J&J)",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://accredo.com/prescribers/referral-forms/uptravi.pdf",
+        "source_type": "pharmacy",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://www.CVSSpecialty.com/content/dam/enterprise/specialty/enrollment_forms/us/US_Uptravi.pdf",
+        "source_type": "pharmacy",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "Accredo",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": {
+      "name": "J&J withMe (PAH Companion withMe)",
+      "phone": "866-228-3546",
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Read accredo.com Uptravi referral PDF: routes to Accredo or CVS/specialty, payer mandate decides; hub J&J withMe, phone 866-228-3546. TRICARE LDD PDF lists Accredo for Uptravi. CVS form seen only in search result, not fetched. No manufacturer-domain page read; no exclusivity language, so two-pharmacy network matches on-file."
+  },
+  {
+    "brand": "USTEKINUMAB",
+    "generic": "ustekinumab (Stelara and biosimilars)",
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "On-file CVS Specialty could not be confirmed or refuted; ustekinumab is a class of many products, not one LDD.",
+    "notes": "Only read pearceip.law article (CVS Caremark favoring ustekinumab biosimilars from July 2026) which says nothing on SP distribution. Search snippets mention Wezlana via Optum's Nuvaila private label but not read. Not in TRICARE LDD. Not a single-product limited distribution; record is low confidence."
+  },
+  {
+    "brand": "UZEDY",
+    "generic": "risperidone extended-release injectable suspension",
+    "manufacturer": "Teva Neuroscience",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": "On-file Genoa Healthcare could not be confirmed or refuted.",
+    "notes": "Fetched tevaproducts.tevapharm.com/uzedyhcp/resources; returned only page metadata, no distribution content. Not in TRICARE LDD. Subcutaneous long-acting injectable typically obtained by pharmacy or clinic; could not determine channel."
+  },
+  {
+    "brand": "VABYSMO",
+    "generic": "faricimab-svoa",
+    "manufacturer": "Genentech (Roche)",
+    "pharmacies": [],
+    "hub_program": {
+      "name": "Genentech Ophthalmology Access Solutions",
+      "phone": "(833) 393-4363",
+      "url": "https://www.vabysmo.com/dme/financial-support/case-managers.html"
+    },
+    "rems": null,
+    "buy_and_bill": true,
+    "manufacturer_page_found": true,
+    "conflict_note": "On-file CVS Specialty and Optum Specialty could not be confirmed; intravitreal injection given in clinic with J-code J2777, so not an SP LDD.",
+    "notes": "Read vabysmo.com case-manager page: hub Genentech Ophthalmology Access Solutions (833) EYE-GENE, works with doctor's office and/or specialty pharmacy; does not state distribution model. Buy-and-bill inference rests on intravitreal in-clinic administration and a search result titled 'vabysmo j2777' (buyandbill.com, not read). Not in TRICARE LDD."
+  },
+  {
+    "brand": "Valchlor",
+    "generic": "mechlorethamine gel",
+    "manufacturer": null,
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "On-file Optum Specialty could not be confirmed or refuted; TRICARE lists Accredo only.",
+    "notes": "TRICARE LDD PDF read: Valchlor -> Accredo (877-882-3324). Search results for manufacturer access returned only drug info pages; no manufacturer page read. Manufacturer from background knowledge, not a page. Manufacturer (Helsinn Therapeutics) was not confirmed on any page read, so the field is left null."
+  },
+  {
+    "brand": "Valstar",
+    "generic": "valrubicin",
+    "manufacturer": null,
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": "On-file CVS/Optum could not be confirmed or refuted.",
+    "notes": "Search returned payer policies and label only; no distribution page read. Not on TRICARE LDD. Intravesical instillation by clinician, so likely buy-and-bill (inference). Manufacturer (Endo) was not confirmed on any page read, so the field is left null. buy_and_bill left null: provider administration was inferred from route of administration/J-code, not confirmed on a manufacturer page."
+  },
+  {
+    "brand": "Vantas",
+    "generic": "histrelin acetate implant",
+    "manufacturer": "Endo",
+    "pharmacies": [],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": null,
+    "manufacturer_page_found": false,
+    "conflict_note": "On-file Optum Specialty could not be confirmed; product reportedly permanently discontinued.",
+    "notes": "Read medfinder.com article: Vantas discontinued by Endo in Sept 2021; no SP named. Surgically implanted in clinic. Not on TRICARE LDD. buy_and_bill left null: provider administration was inferred from route of administration/J-code, not confirmed on a manufacturer page."
+  },
+  {
+    "brand": "Varubi",
+    "generic": "rolapitant",
+    "manufacturer": "TerSera Therapeutics",
+    "pharmacies": [
+      {
+        "name": "Biologics by McKesson",
+        "source_url": "https://biologics.mckesson.com/?p=1370",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "Biologics release is Feb 2016 (TESARO era, now TerSera); current exclusivity could not be confirmed. On-file exclusive status rests on this dated release.",
+    "notes": "Read biologics.mckesson.com release: TESARO selected Biologics as 'exclusive specialty pharmacy provider for VARUBI' (Feb 2016) for patients not served by in-office dispensing; no hub info. Not on TRICARE LDD. Varubi and VARUBI TAB are the same product (shared network). Manufacturer TerSera per search result titles, no mfr page read."
+  },
+  {
+    "brand": "VARUBI TAB",
+    "generic": "rolapitant",
+    "manufacturer": "TerSera Therapeutics",
+    "pharmacies": [
+      {
+        "name": "Biologics by McKesson",
+        "source_url": "https://biologics.mckesson.com/?p=1370",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "Biologics release is Feb 2016 (TESARO era, now TerSera); current exclusivity could not be confirmed. On-file exclusive status rests on this dated release.",
+    "notes": "Read biologics.mckesson.com release: TESARO selected Biologics as 'exclusive specialty pharmacy provider for VARUBI' (Feb 2016) for patients not served by in-office dispensing; no hub info. Not on TRICARE LDD. Varubi and VARUBI TAB are the same product (shared network). Manufacturer TerSera per search result titles, no mfr page read."
+  },
+  {
+    "brand": "VECAMYL",
+    "generic": "mecamylamine",
+    "manufacturer": "Tilde Sciences",
+    "pharmacies": [
+      {
+        "name": "Optime Care",
+        "source_url": "https://www.santelog.com/actualites-sante-nasdaq/tilde-sciences-announces-availability-vecamyltm-mecamylamine-exclusive",
+        "source_type": "press_release",
+        "exclusive_claimed": true
+      }
+    ],
+    "hub_program": {
+      "name": null,
+      "phone": "1-877-794-0008",
+      "url": null
+    },
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "On file had no pharmacy; press release names Optime Care as exclusive SP (date not seen, may be outdated).",
+    "notes": "Read santelog.com mirror of Tilde Sciences release: Optime Care, an AscellaHealth company, exclusive specialty pharmacy; 1-877-794-0008 for enrollment/PA support. Not on TRICARE LDD. No manufacturer-domain page read; release undated."
+  },
+  {
+    "brand": "VELETRI",
+    "generic": "epoprostenol",
+    "manufacturer": "Actelion Pharmaceuticals US (Janssen)",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://accredo.com/prescribers/referral-forms/veletri.pdf",
+        "source_type": "pharmacy",
+        "exclusive_claimed": false
+      },
+      {
+        "name": "CVS Specialty",
+        "source_url": "https://accredo.com/prescribers/referral-forms/veletri.pdf",
+        "source_type": "pharmacy",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "Read accredo.com Veletri referral PDF: faxed to Accredo (1-866-344-4874) or CVS/specialty (1-877-242-2738), no hub listed, no exclusivity language. Not on TRICARE LDD. No manufacturer page read; continuously infused, home infusion via SP."
+  },
+  {
+    "brand": "Ventavis",
+    "generic": "iloprost inhalation solution",
+    "manufacturer": "Actelion Pharmaceuticals US (Janssen)",
+    "pharmacies": [
+      {
+        "name": "Accredo",
+        "source_url": "https://cn.accredo.com/prescribers/referral-forms/ventavisr-iloprost",
+        "source_type": "pharmacy",
+        "exclusive_claimed": false
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": "On-file CVS Specialty could not be confirmed (a CVS PAH infusions form appeared in search, not read).",
+    "notes": "Read accredo.com Ventavis referral page: Accredo named as referral provider, no exclusivity wording, no phone. Search results also show a 2000s fdanews item on Accredo selected by CoTherix for Ventavis distribution (not read). Not on TRICARE LDD."
+  },
+  {
+    "brand": "Venxxiva",
+    "generic": "unknown",
+    "manufacturer": null,
+    "pharmacies": [
+      {
+        "name": "Vanscoy Rare Pharmacy",
+        "source_url": "https://www.express-scripts.com/pdf/mrx/TRICARE-Specialty-Program-LDD.pdf",
+        "source_type": "pbm",
+        "exclusive_claimed": null
+      }
+    ],
+    "hub_program": null,
+    "rems": null,
+    "buy_and_bill": false,
+    "manufacturer_page_found": false,
+    "conflict_note": null,
+    "notes": "TRICARE LDD read: Venxxiva -> Vanscoy Rare Pharmacy, Pittsburgh PA, 855-826-7269. Web searches for the product found nothing else; generic and manufacturer could not be identified. No exclusivity wording."
+  }
+]
