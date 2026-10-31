@@ -284,39 +284,39 @@
    "CenterWell Specialty Pharmacy",
    "Humana Specialty Pharmacy"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://www.centerwellpharmacy.com/",
+  "intake_phone": "800-486-2668",
+  "intake_fax": "877-405-7940",
+  "enrollment_url": "https://www.centerwellpharmacy.com/prescriber-specialty-forms.html",
+  "is_pharmacy": true,
+  "source_url": "https://www.centerwellpharmacy.com/prescriber-information.html",
+  "notes": "Humana-owned specialty/mail pharmacy (formerly Humana Specialty Pharmacy; rebranded CenterWell). Prescriber Information page lists CenterWell Specialty Pharmacy prescriber phone 800-486-2668 (M-F 8am-11pm, Sat 8am-6:30pm ET) and fax 877-405-7940; disease-specific specialty Rx fax forms (PDFs hosted on assets.humana.com) are on the Specialty Pharmacy Forms page. Non-specialty CenterWell Pharmacy (mail) uses phone 800-967-9830 / fax 800-379-7617. Faxes accepted only from prescribers."
  },
  {
   "canonical_name": "BlinkRx",
   "aliases": [
    "Blinkrx"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
+  "website": "https://www.blinkrx.com/",
+  "intake_phone": "1 (844) 926-2480",
+  "intake_fax": "1 (866) 585-4631",
   "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "is_pharmacy": true,
+  "source_url": "https://www.blinkrx.com/providers",
+  "notes": "Blink Health (Blink Health Administration LLC) digital/mail-order pharmacy; prescriptions are e-prescribed to \"BlinkRx U.S., Boise, Idaho\" (12639 W Explorer Dr Ste 100, Boise ID 83713) or faxed to 1 (866) 585-4631 per blinkrx.com/providers and /faqs. 1 (844) 926-2480 is the general support line (M-F 8am-9pm ET, Sat 9am-5pm ET); a provider Practice Access Management line 415-450-5208 is listed on /faqs. No prescriber enrollment form on site - intake is via EMR/fax/phone; manufacturer-hosted BlinkRx fax forms exist (e.g. xiidra-ecp.com) but are third-party."
  },
  {
   "canonical_name": "Cardinal Health Specialty Pharmacy",
   "aliases": [
    "Cardinal Health Specialty Pharmacy"
   ],
-  "website": null,
+  "website": "https://www.cardinalhealth.com/",
   "intake_phone": null,
   "intake_fax": null,
   "enrollment_url": null,
-  "is_pharmacy": null,
+  "is_pharmacy": false,
   "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "notes": "Not a dispensing pharmacy today: Cardinal Health sold its dispensing specialty pharmacy (Cardinal Health Specialty Pharmacy, formerly OncoSourceRx) to BioMatrix Specialty Pharmacy in Nov 2018 (Drug Channels report); 'Cardinal Health Specialty Pharmacy Services' now denotes consulting/management services Cardinal sells to hospital-owned specialty pharmacies (cardinalhealth.com/en/services/hospital-pharmacy/.../specialty-pharmacy-services.html). Cardinal's only remaining dispensing specialty pharmacy brand is the renal-focused MMS Solutions (see separate entry). cardinalhealth.com blocks fetching (robots), so no intake phone/fax could be verified; route such referrals to BioMatrix or the hospital's own specialty pharmacy instead."
  },
  {
   "canonical_name": "CareMed Specialty Pharmacy",
@@ -324,286 +324,286 @@
    "CareMed Pharmaceutical Services",
    "CareMed Specialty Pharmacy"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://caremed.com/",
+  "intake_phone": "877-227-3405",
+  "intake_fax": "877-542-2731",
+  "enrollment_url": "https://caremed.com/provider-support/referral-forms/",
+  "is_pharmacy": true,
+  "source_url": "https://caremed.com/prescribers/",
+  "notes": "Independent specialty pharmacy (legal entity Sorkin's Rx Ltd. d/b/a CareMed Pharmaceutical Services, Lake Success NY). Prescribers page shows 'Call Us Today 877-227-3405' and 'Fax Your Prescription 877-542-2731'; same numbers in site footer. Referral-forms page hosts disease-specific PDFs incl. General Rx Referral Form (https://caremed.com/General-Referral-Form.pdf)."
  },
  {
   "canonical_name": "Carepoint Pharmacy",
   "aliases": [
    "Carepoint"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://carepoint.pharmacy/",
+  "intake_phone": "855-237-9112",
+  "intake_fax": "855-237-9113",
+  "enrollment_url": "https://provider.carepoint.pharmacy/",
+  "is_pharmacy": true,
+  "source_url": "https://carepoint.pharmacy/prescriptions/",
+  "notes": "Independent home-delivery/specialty pharmacy at 9 Commerce Drive, Schaumburg, IL (NCPDP 1487330); the site states it is not affiliated with CarePoint, Inc. Phone 855-237-9112 and prescription fax 855-237-9113 shown on the Prescriptions and Providers pages; no referral-form PDF, prescribers use the Provider Portal (provider.carepoint.pharmacy) or e-prescribe. Not to be confused with CarePoint Health Pharmacy (NJ hospital system) or MyCarePoint (CA)."
  },
  {
   "canonical_name": "CuraScript SD",
   "aliases": [
    "CuraScript"
   ],
-  "website": null,
+  "website": "https://curascriptsd.com/",
   "intake_phone": null,
   "intake_fax": null,
   "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Likely a specialty distributor (Express Scripts), not a dispensing pharmacy - unverified."
+  "is_pharmacy": false,
+  "source_url": "https://curascriptsd.com/FAQs",
+  "notes": "Not a dispensing pharmacy: CuraScript SD is a specialty drug distributor/wholesaler (self-described 'specialty distributor of choice'; operates in FL as Priority Healthcare Distribution, Inc.) owned by Express Scripts Holding Company / Evernorth (Cigna). Its FAQs page lists customer service phone 877.599.7748, customer service/new-account fax 800.862.6208 and email Customer.Service@curascript.com, which are provider-ordering (wholesale account) contacts, not prescriber intake; left null accordingly. Related Express Scripts dispensing pharmacy is Accredo."
  },
  {
   "canonical_name": "Curant Health",
   "aliases": [
    "Curant Health"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://curanthealth.com/",
+  "intake_phone": "866-460-8040",
+  "intake_fax": "1-866-461-8411",
+  "enrollment_url": "https://curanthealth.com/wp-content/uploads/2023/02/Curant-Health_Sublocade%C2%AE-Enrollment-Form-2023.pdf",
+  "is_pharmacy": true,
+  "source_url": "https://curanthealth.com/wp-content/uploads/2023/02/Curant-Health_Sublocade%C2%AE-Enrollment-Form-2023.pdf",
+  "notes": "Independent (\"100% Independent\") URAC/ACHC-accredited specialty pharmacy, HQ 200 Technology Ct Ste B, Smyrna GA; dispensing entities include Curant Health Georgia LLC and Curant Health Florida LLC (11001 Roosevelt Blvd Ste 1400, St. Petersburg FL). Main phone 866-460-8040 and customerservice@curanthealth.com on curanthealth.com/contact; no general prescriber fax published - the fax recorded (Rx fax 1-866-461-8411, enrollment-form fax 1-866-427-1464, phone 1-866-200-0371, FLintake@curanthealth.com) comes from the Florida-site Sublocade enrollment PDF, so it may be program/site-specific. Provider site curantspecialty.com has no contact numbers or forms."
  },
  {
   "canonical_name": "DirectRx",
   "aliases": [
    "Directrx"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://www.directrx.com/",
+  "intake_phone": "(855) 362-3397",
+  "intake_fax": "(877) 892-4007",
+  "enrollment_url": "https://www.directrx.com/prescribers/rx-referral-form/",
+  "is_pharmacy": true,
+  "source_url": "https://www.directrx.com/patients/resources/news/directrx-rebrands-specialty-pharmacy-services-as-growth-in-patients-and-providers-climbs/",
+  "notes": "Identified as DirectRx Pharmacy, independent pharmacist-owned, URAC/ACHC-accredited specialty pharmacy in Troy, MI (830 Kirts Blvd Ste 300) serving all 50 states. Toll-free (855) 362-3397 appears on the prescribers 'Why DirectRx' page; fax (877) 892-4007 appears only in the Feb 2023 rebrand news release on directrx.com (not on the referral page). Referral page hosts condition-specific referral-form PDFs (respiratory, CF, oncology, MS, transplant, etc.) and the site promotes a DirectReferral online portal; PDFs returned errors when fetched so form-level fax numbers were not confirmed."
  },
  {
   "canonical_name": "Express Scripts Specialty Distribution Services (ESSDS)",
   "aliases": [
    "ESSDS (Express Scripts Specialty Distribution Services)"
   ],
-  "website": null,
+  "website": "https://www.express-scripts.com/",
   "intake_phone": null,
   "intake_fax": null,
   "enrollment_url": null,
-  "is_pharmacy": null,
+  "is_pharmacy": false,
   "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Likely a specialty distributor, not a dispensing pharmacy - unverified."
+  "notes": "Specialty drug distributor / limited-distribution logistics unit of Express Scripts (Evernorth/Cigna), St. Louis MO (NPI 1083029540 lists it as a pharmacy entity, but it functions as a manufacturer-contracted distributor, not a patient-facing dispensing SP). No ESSDS-specific prescriber intake page found on express-scripts.com or evernorth.com; a third-party directory (pharmaceuticalonline.com) lists 1-800-332-5455 - unverified, not recorded."
  },
  {
   "canonical_name": "Elixir Specialty Pharmacy",
   "aliases": [
    "Elixir Specialty"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Elixir (Rite Aid PBM) was sold in 2024; specialty pharmacy status unverified."
+  "website": "https://www.elixirsolutions.com/plansponsors/pharmacy/specialty-pharmacy/elixir-specialty/",
+  "intake_phone": "877-437-9013",
+  "intake_fax": "877-309-0687",
+  "enrollment_url": "https://www.birdirx.com/sites/default/files/2025-01/Specialty_by_Birdi_Standard_Enrollment_Form_2.2024_NPD.pdf",
+  "is_pharmacy": true,
+  "source_url": "https://www.elixirsolutions.com/plansponsors/pharmacy/specialty-pharmacy/elixir-specialty/elixir-specialty-prescribers/",
+  "notes": "Still operating but rebranded: Elixir (ex-Rite Aid PBM) was acquired by MedImpact in 2024 and elixirsolutions.com now says 'Elixir is now MedImpact'; the North Canton, OH specialty pharmacy (7835 Freedom Ave NW, NCPDP 3679252) now operates as 'Specialty by Birdi' (MedImpact's Birdi pharmacy). Elixir Specialty Prescribers page (still live) lists Rx-by-phone 877-437-9013, customer service/clinical 24/7 877-437-9012, fax 877-309-0687; Birdi-hosted Specialty by Birdi enrollment PDFs show the same phone (877) 437-9012 and fax (877) 309-0687. birdirx.com/for-prescribers is JS-rendered and could not be parsed."
  },
  {
   "canonical_name": "Elwyn Specialty Care",
   "aliases": [
    "Elwyn"
   ],
-  "website": null,
+  "website": "https://www.elwynspecialtycare.com/",
   "intake_phone": null,
   "intake_fax": null,
   "enrollment_url": null,
-  "is_pharmacy": null,
+  "is_pharmacy": true,
   "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "notes": "No public intake details confirmed: elwynspecialtycare.com (incl. its HCV portal) could not be fetched (robots disallowed / proxy 403), so phone/fax left null. Elwyn Specialty Care is a Garnet Valley/Glen Mills, PA specialty pharmacy, part of Elwyn Pharmacy Group (Elwyn Pharmacy, Glen Rock Medical Pharmacy, Med Center Specialty Pharmacy) acquired by BioMatrix Specialty Pharmacy in Nov 2017 (per ACON Investments announcement). Unrelated to Elwyn.org (disability services nonprofit, 610-891-2000). Third-party directories (Yelp, ZoomInfo) list numbers but are unverified. Consider checking BioMatrix Specialty Pharmacy intake as the likely current operator."
  },
  {
   "canonical_name": "Eversana Specialty Pharmacy",
   "aliases": [
    "Eversana"
   ],
-  "website": null,
+  "website": "https://www.eversana.com/our-services/patient-services/specialty-pharmacy/",
   "intake_phone": null,
   "intake_fax": null,
   "enrollment_url": null,
-  "is_pharmacy": null,
+  "is_pharmacy": true,
   "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "notes": "No public intake details. EVERSANA (commercial-services company, HQ Chicago; Chesterfield MO area pharmacy operations) runs a URAC/ACHC/NABP-accredited specialty/direct-to-patient dispensing pharmacy (legal entity Eversana Life Science Services, LLC per NPI registries) used mainly for manufacturer-sponsored programs, shipping to all 50 states, DC, PR and Guam. eversana.com/patients tells patients/providers to use the contact information in their program enrollment documentation; no phone, fax or referral form is published on eversana.com, so intake is program-specific."
  },
  {
   "canonical_name": "Fairview Specialty Pharmacy",
   "aliases": [
    "Fairview Pharmacy Services"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
+  "website": "https://specialtypharmacy.fairview.org/",
+  "intake_phone": "1-800-595-7140",
+  "intake_fax": "1-866-347-4939",
   "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "is_pharmacy": true,
+  "source_url": "https://specialtypharmacy.fairview.org/prescribers",
+  "notes": "Health-system specialty pharmacy of M Health Fairview / Fairview Pharmacy Services (Minneapolis, MN). Prescribers page lists Rx fax 1-866-347-4939, phone 612-672-5260 or toll-free 1-800-595-7140 (M-F 8a-7p, Sat 8a-4p CT), and e-prescribing as 'Fairview Mail Order/Specialty Pharmacy'; contact-us page repeats these plus transplant line 612-617-3700 / 1-855-257-0942 and manufacturer line 612-516-7461. No prescriber referral form was found on the Important Documents page (only privacy/billing PDFs)."
  },
  {
   "canonical_name": "Fillpoint",
   "aliases": [
    "Fillpoint"
   ],
-  "website": null,
+  "website": "https://fillpointhealth.com/",
   "intake_phone": null,
   "intake_fax": null,
   "enrollment_url": null,
   "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "source_url": "https://fillpointhealth.com/",
+  "notes": "Only match found is FillPoint Health (Dublin OH, 'a Lyceum Company'), which markets 'Specialty Pharmacy and Management Services' that help clinics dispense specialty meds via a 'Pharmacy and Distribution Network'; its FAQ says it may use partner pharmacy Noble Health Services (Syracuse NY). Homepage shows general numbers Phone (614) 943-8801, Toll-Free (833) 462-5469, Fax (614) 943-8804 / (833) 765-9701 - these are corporate contacts, not a prescriber intake line, so not recorded. Could not confirm it is itself a licensed dispensing/mail-order pharmacy; no referral form on site."
  },
  {
   "canonical_name": "Genoa Healthcare",
   "aliases": [
    "Genoa Healthcare"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://www.genoahealthcare.com/",
+  "intake_phone": "855-657-6554",
+  "intake_fax": "1-763-540-6830",
+  "enrollment_url": "https://www.genoahealthcare.com/provider-resources.html",
+  "is_pharmacy": true,
+  "source_url": "https://www.genoahealthcare.com/provider-resources.html",
+  "notes": "UnitedHealth/Optum-owned behavioral-health pharmacy chain (750+ pharmacies inside mental-health/community clinics in 48 states + DC; URAC-accredited specialty pharmacies). Provider Resources page lists Genoa Clinical Services phone 855-657-6554 and referral fax 1-763-540-6830 plus drug-specific referral PDFs (Austedo, Brixadi/Sublocade, Caplyta, Cobenfy, Ingrezza, Rexulti, Spravato, Vivitrol); Clinical Services routes referrals to the appropriate local pharmacy. Most routine prescriptions go directly to individual clinic pharmacies via the locations directory."
  },
  {
   "canonical_name": "Hemophilia of Georgia Pharmacy",
   "aliases": [
    "Hemophilia of Georgia"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
+  "website": "https://www.hog.org/",
+  "intake_phone": "(770) 518-8272",
+  "intake_fax": "(770) 518-3310",
   "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "is_pharmacy": true,
+  "source_url": "https://www.hog.org/pharmacy/",
+  "notes": "Nonprofit-owned specialty pharmacy (Hemophilia of Georgia, Sandy Springs GA) dispensing clotting factor and other specialty drugs. Pharmacy page lists phone (770) 518-8272 and fax (770) 518-3310 (same as the organization's main numbers); after-hours pharmacist line 770-518-8272 or toll-free (800) 866-4366; pharmacy email pharmacy@hog.org. No prescriber referral/enrollment form found on site; patients order via the my_hog portal."
  },
  {
   "canonical_name": "Hy-Vee Pharmacy Solutions",
   "aliases": [
    "Hy-Vee Pharmacy Solutions"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://www.hvrxsolutions.com/",
+  "intake_phone": "877.794.9833",
+  "intake_fax": "855.861.4941",
+  "enrollment_url": "https://www.hvrxsolutions.com/providers/referral-forms/",
+  "is_pharmacy": true,
+  "source_url": "https://www.hvrxsolutions.com/wp-content/uploads/HPS_Oncology-Referral-Form_73118.pdf",
+  "notes": "Hy-Vee Inc.-owned specialty/infusion pharmacy (HPS), HQ 10004 S 152nd St Ste C, Omaha NE 68138. Phone 877.794.9833 (877.RxHyVee, 24/7) on hvrxsolutions.com/contact; specialty referral forms (oncology, rheum, derm, etc.) on the referral-forms page say fax to 855.861.4941, while the contact page lists 402.861.4941 (fax) and the 2023 infusion referral forms list F 855.370.0086 - so the specialty fax vs infusion fax differ; use the therapy-specific form. Several forms are hosted on a staging subdomain and may be dated."
  },
  {
   "canonical_name": "KabaFusion",
   "aliases": [
    "KabaFusion"
   ],
-  "website": null,
-  "intake_phone": null,
+  "website": "https://www.kabafusion.com/",
+  "intake_phone": "877.577.4844",
   "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "enrollment_url": "https://www.kabafusion.com/referral-forms/",
+  "is_pharmacy": true,
+  "source_url": "https://www.kabafusion.com/easy-patient-referral-form/",
+  "notes": "National home-infusion specialty pharmacy (IVIG/SCIG, IV antibiotics, TPN, biologics) with ~28 branch pharmacies. Intake specialist line 877.577.IVIG (4844) and general line 888.204.9304 shown on the Easy Patient Referral page; there is no single national intake fax -- referrals are faxed to the local branch, whose fax is printed on each location-specific referral PDF (e.g., Chesapeake VA 757.424.5871, Charlotte NC 704.583.2130, Albany NY 518.862.1400, Boca Raton FL 877.309.2209) linked from the referral-forms page."
  },
  {
   "canonical_name": "KnippeRx",
   "aliases": [
    "KnippeRx"
   ],
-  "website": null,
-  "intake_phone": null,
+  "website": "https://www.knipperx.com/",
+  "intake_phone": "1-855-647-7379",
   "intake_fax": null,
   "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "is_pharmacy": true,
+  "source_url": "https://www.knipperx.com/contact/",
+  "notes": "Independent rare/orphan specialty and non-commercial (free goods/PAP) pharmacy, Charlestown IN; affiliate of Knipper Health, which rebranded to CareTria (knipper.com now redirects to caretria.com). Contact page lists only a general line 'CALL US AT 1-85-KNIPPERx (1-855-647-7379)' plus a sales contact; no fax or referral form published - prescribers page says KnippeRx is found in most EMR/eRx systems. Third-party SCNIR page lists KnippeRx phone 833-254-6030 / fax 877-855-5349 - unverified, not recorded."
  },
  {
   "canonical_name": "Kroger Specialty Pharmacy",
   "aliases": [
    "Kroger Specialty Pharmacy"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Reported sold to Elevance/CarelonRx in 2024; current branding unverified."
+  "website": "https://bioplusrx.com/",
+  "intake_phone": "1-866-514-8082",
+  "intake_fax": "800-269-5493",
+  "enrollment_url": "https://bioplusrx.com/therapies/",
+  "is_pharmacy": true,
+  "source_url": "https://bioplusrx.com/providers/",
+  "notes": "Kroger sold Kroger Specialty Pharmacy to CarelonRx (Elevance Health) in 2024; krogerspecialtypharmacy.com now 302-redirects to bioplusrx.com and the site states 'Kroger Specialty Pharmacy is now BioPlus Specialty Pharmacy, a Carelon Company' (mapping: Kroger SP Lake Mary->BioPlus Lake Mary 855-733-3126/fax 888-315-3270; Kroger SP NOLA->BioPlus NOLA 888-355-4191/fax 888-355-4192; Kroger SP CA->BioPlus Garden Grove 800-228-3643/fax 866-539-1092). Providers page gives referral fax 800-269-5493 and e-Rx entity BioPlus Specialty Pharmacy, LLC (FL), Altamonte Springs, NCPDP 1078535, NPI 1174517452; therapy-specific referral PDFs on the Therapies page. No separate prescriber phone published; 1-866-514-8082 is the 24/7 customer-service line from the Contact page."
  },
  {
   "canonical_name": "LeMed Specialty Pharmacy",
   "aliases": [
    "LeMed Specialty Pharmacy"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://www.lemedrx.com/",
+  "intake_phone": "1-844-795-3633",
+  "intake_fax": "718-231-2727",
+  "enrollment_url": "https://www.lemedrx.com/prescribers/forms",
+  "is_pharmacy": true,
+  "source_url": "https://www.lemedrx.com/contact",
+  "notes": "Independent rare/orphan-disease and transplant specialty pharmacy with bi-coastal sites in Bronx, NY (2417 3rd Ave, Ste 406) and Gilbert, AZ; licensed in all 50 states + PR; ACHC and URAC accredited. Contact and Prescriber Forms pages list toll-free 1-844-795-3633 and fax 718-231-2727 (no separate prescriber-only line). Prescriber forms page hosts a Transplant Medication List form and a Hepatitis C referral form (PDFs); welcome packet shows local Bronx number (347) 913-4656."
  },
  {
   "canonical_name": "Lumicera Health Services",
   "aliases": [
    "Lumicera Health Services"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://www.lumicera.com/",
+  "intake_phone": "(855) 847-3553",
+  "intake_fax": "(855) 847-3558",
+  "enrollment_url": "https://www.lumicera.com/wp-content/uploads/2025/10/Lumicera-Enrollment-Form.pdf",
+  "is_pharmacy": true,
+  "source_url": "https://www.lumicera.com/contact-us/",
+  "notes": "Specialty pharmacy subsidiary of Navitus Health Solutions (ownership not stated on site), main site 310 Integrity Dr #101, Madison WI 53717 plus Scottsdale AZ, Germantown MD and Irvine CA (833-210-5964 / fax 833-210-5968). Phone (855) 847-3553 and fax (855) 847-3558 confirmed on lumicera.com/contact-us and the 2025 general Enrollment Form PDF (linked from /prescribers/prescriber-information, which also has a prescriber brochure). Also operates health-system partner specialty pharmacies (SSM Health, OSF, Saint Francis, Costco, Valley Health) with separate numbers listed on the contact page; e-prescribing via Surescripts."
  },
  {
   "canonical_name": "MMS Solutions",
   "aliases": [
    "MMS Solutions"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
+  "website": "https://www.mmspharmacy.com/pharmacy/index.html",
+  "intake_phone": "866.716.5486",
+  "intake_fax": "866.750.0823",
   "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Identity unclear; may not be a pharmacy."
+  "is_pharmacy": true,
+  "source_url": "https://www.mmspharmacy.com/pharmacy/contact-us.aspx",
+  "notes": "Identified as Cardinal Health MMS Solutions Specialty Pharmacy (mmspharmacy.com), a Cardinal Health-owned, ACHC/URAC-accredited renal specialty pharmacy at 239 Mason Road, La Vergne, TN 37086, licensed in all 50 states; serves home-dialysis patients, dialysis centers and nephrology practices (dialysis meds, supplies, bundled contract meds). Toll-free 866.716.5486 (M-F 8:00-4:30 CT, after-hours pharmacist paging) and fax 866.750.0823 shown on contact-us page and General Information PDF. Forms page has only patient/agent-designation and policy PDFs, no prescriber referral form."
  },
  {
   "canonical_name": "Magellan Rx Pharmacy",
   "aliases": [
    "Magellan Rx Pharmacy"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://www.primetherapeutics.com/",
+  "intake_phone": "866-554-2673",
+  "intake_fax": "866-364-2673",
+  "enrollment_url": "https://web.primetherapeutics.com/member/external/commercial/common/doc/en-us/MRx_Specialty_General_Prescription_Order_Form.pdf",
+  "is_pharmacy": true,
+  "source_url": "https://web.primetherapeutics.com/member/external/commercial/common/doc/en-us/MRx_Specialty_General_Prescription_Order_Form.pdf",
+  "notes": "Magellan Rx Pharmacy, LLC (Magellan Rx Management) specialty/home-delivery pharmacy; Magellan Rx was acquired by Prime Therapeutics (2022) and the pharmacy has since rebranded as Prime Therapeutics Specialty Pharmacy. Numbers taken from the official MRx Specialty General Prescription Order Form PDF now hosted by Prime: 'Fax completed form to 866-364-2673', 'Questions about Magellan Rx Pharmacy 866-554-2673' (form prints magellanrx.com/specialtypharmacy, which now blocks fetch). BCBSKS third-party notice says phone 866-554-2673 unchanged post-rebrand and lists fax 800-424-7913 - unverified; a Prime-branded successor form exists at primetherapeutics.com but could not be fetched."
  },
  {
   "canonical_name": "Maxor Specialty",
   "aliases": [
    "Maxor Specialty"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://vytlone.com/",
+  "intake_phone": "1 (800) 658-6046",
+  "intake_fax": "1 (866) 217-8034",
+  "enrollment_url": "https://vytlone.com/patients/",
+  "is_pharmacy": true,
+  "source_url": "https://vytlone.com/patients/",
+  "notes": "Maxor (Amarillo, TX; PBM MaxorPlus + Maxor Specialty) rebranded to VytlOne; maxor.com now redirects to vytlone.com and a hosted enrollment form names 'Maxor Specialty Pharmacy, A VytlOne Company'. VytlOne Specialty Pharmacy (Joint Commission accredited) is listed on the Patients page with phone 1 (800) 658-6046 and fax 1 (866) 217-8034, with provider enrollment forms (CF, Arikayce, Brinsupri, Cayston, Fensolvi, Vertex GPS, infusion referral) in its Provider Forms section; Contact page lists specialty-patient line 1 (866) 629-6779 / fax 1 (866) 217-8034 and PBM provider hotline 1 (800) 687-0707. Providers page fax 866-589-7656 is for VytlOne (mail) Pharmacy new prescriptions."
  },
  {
   "canonical_name": "McKesson Specialty Health / OncologyRx Care Advantage",
@@ -612,13 +612,13 @@
    "OncologyRx Care Advantage (McKesson Specialty Health)",
    "Oncology Supply"
   ],
-  "website": null,
+  "website": "https://www.mckesson.com/",
   "intake_phone": null,
   "intake_fax": null,
   "enrollment_url": null,
-  "is_pharmacy": null,
+  "is_pharmacy": false,
   "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Oncology Supply is a McKesson distributor, not a pharmacy; OncologyRx Care Advantage is McKesson's oncology specialty pharmacy - grouping unverified."
+  "notes": "Not a dispensing pharmacy: McKesson Specialty Health and Oncology Supply are McKesson specialty distribution arms, so no intake contacts are recorded under this label. McKesson's dispensing specialty pharmacy is Biologics by McKesson (Cary NC): biologics.mckesson.com/contact/ lists phone 800.850.4306 / fax 800.823.4506, and /prescribe/ lists eScribe NCPDP 3430369 / NPI 1487640314 and a referral-form PDF (https://biologics.mckesson.com/wp-content/uploads/2019/09/Biologics-by-McKesson-Referral-Form.pdf, not fetched). OncologyRx Care Advantage was a small McKesson/US Oncology pharmacy renamed Care Advantage (Drug Channels 2016); no current public intake page found. If a drug record truly names a McKesson pharmacy, add a separate 'Biologics by McKesson' directory entry rather than mapping distributor labels to it."
  },
  {
   "canonical_name": "MedPlus Specialty Pharmacy (Puerto Rico)",
@@ -626,52 +626,52 @@
    "MedPlus Specialty",
    "Medplus (Puerto Rico)"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://www.medpluspr.com/",
+  "intake_phone": "787-523-3888",
+  "intake_fax": "1-888-855-8865",
+  "enrollment_url": "https://www.medpluspr.com/envioderecetaspecialty",
+  "is_pharmacy": true,
+  "source_url": "https://www.medpluspr.com/envioderecetaspecialty",
+  "notes": "Identified as Medplus Solutions / Medplus Specialty, an ACHC-accredited specialty (plus LTC and compounding) pharmacy at 282 Av. Jesus T. Pinero, San Juan PR 00918 (medpluspr.com, Spanish-language). The specialty prescription-submission page gives fax 1-888-855-8865, email sprx@medpluspr.com, and e-prescribe routing to \"PRRX Specialty Solution / Medplus Specialty\" (NPI 1235605197, NCPDP 4030095); phone 787-523-3888 is on the prescriber page (/medicos-especializados). No PDF referral form - the submission page serves as the prescriber instructions."
  },
  {
   "canonical_name": "Nufactor",
   "aliases": [
    "Nufactor"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://www.nufactor.com/",
+  "intake_phone": "(800) 323-6832",
+  "intake_fax": "(855) 270-7347",
+  "enrollment_url": "https://www.nufactor.com/site/refer-a-patient/",
+  "is_pharmacy": true,
+  "source_url": "https://www.nufactor.com/site/refer-a-patient/",
+  "notes": "Wholly owned specialty pharmacy subsidiary of FFF Enterprises (Temecula, CA HQ; additional pharmacies in Kernersville NC, Flower Mound TX, Ronkonkoma NY); URAC/TJC accredited; IVIG/SCIG, bleeding-disorder factor, infliximab/golimumab, rituximab, eculizumab, plasminogen, tetrabenazine, VTAMA, YCANTH. Refer-a-Patient page says to fax completed therapy-specific order forms (PDFs hosted at resource.nufactor.com/assets/downloads/) to (855) 270-7347; main line (800) 323-6832, separate YCANTH line (800) 315-0155, corporate (951) 296-2516; Alabama patients use a separate referral page (/site/refer-a-patient-al/)."
  },
  {
   "canonical_name": "Optime Care",
   "aliases": [
    "Optime Care"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
+  "website": "https://www.optimecare.com/",
+  "intake_phone": "(888) 287-2017",
+  "intake_fax": "(888) 868-3147",
   "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Rare-disease specialty pharmacy; now part of AnovoRx per 2022 news - unverified here."
+  "is_pharmacy": true,
+  "source_url": "https://www.optimecare.com/",
+  "notes": "Optime Care, Inc. - rare/orphan-disease specialty pharmacy (also wholesale distributor/3PL), Earth City (St. Louis) MO; 'an AscellaHealth Company' per 2022-2024 releases (not AnovoRx - that earlier note appears incorrect). Homepage lists only general Phone (888) 287-2017 and Fax (888) 868-3147 (not labeled prescriber-specific) plus businessdevelopment@optimecare.com; no referral/enrollment form or prescriber page published."
  },
  {
   "canonical_name": "Optum Frontier Therapies",
   "aliases": [
    "Optum Frontier Therapies"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://business.optum.com/en/pharmacy-services/frontier-therapies.html",
+  "intake_phone": "1-855-768-9727",
+  "intake_fax": "1-866-991-9929",
+  "enrollment_url": "https://business.optum.com/en/support/frontier-therapies-referral-enrollment-forms.html",
+  "is_pharmacy": true,
+  "source_url": "https://business.optum.com/en/support/frontier-therapies-referral-enrollment-forms.html",
+  "notes": "Optum Rx (UnitedHealth) rare-disease / limited-distribution specialty pharmacy; frontiertherapies.optum.com now redirects to business.optum.com. Referral & Enrollment Forms page lists phone 1-855-768-9727, fax 1-866-991-9929, e-Rx entity 'Frontier Therapies II - Optum', 6425 Santa Margarita St #110, Las Vegas, NV 89118 (NCPDP 2992750, NPI 1720364532), and drug-specific enrollment PDFs (Adstiladrin, Bylvay, Elevidys, Filspari, Kuvan, Lumryz, Nityr, Palynziq, Rebyota, Ryoncil, Sephience, sodium oxybate, Sucraid, Voxzogo)."
  },
  {
   "canonical_name": "Orsini Specialty Pharmacy",
@@ -679,39 +679,39 @@
    "Orisni",
    "Orsini Specialty Pharmacy"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. 'Orisni' treated as a typo of Orsini."
+  "website": "https://www.orsini.com/",
+  "intake_phone": "1-800-410-8575",
+  "intake_fax": "1-847-879-9551",
+  "enrollment_url": "https://www.orsini.com/medication-search/",
+  "is_pharmacy": true,
+  "source_url": "https://www.orsini.com/refer-a-patient/",
+  "notes": "Independent rare-disease and gene-therapy specialty pharmacy headquartered in Elk Grove Village, IL (second site Columbus, OH); site rebranded from orsinispecialtypharmacy.com to orsini.com. Pharmacy phone 1-800-410-8575 and enrollment fax 1-847-879-9551 are on the Prescribe a Therapy page and repeated on Contact Us (corporate 1-847-734-7373); e-prescribe NPI 1073608998. Enrollment forms are per-drug via the medication search tool, and several drug-specific forms carry their own dedicated therapy phone/fax lines (e.g. Austedo 800.691.0718 / fax 877.819.2424), so the general fax above may not apply to every therapy."
  },
  {
   "canonical_name": "Oso",
   "aliases": [
    "Oso"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Identity unclear (possibly Oso Home Care infusion pharmacy); may not be a pharmacy."
+  "website": "https://www.osospecialtyinfusion.com/",
+  "intake_phone": "(800) 310-6611",
+  "intake_fax": "(949) 660-7138",
+  "enrollment_url": "https://www.osospecialtyinfusion.com/make-a-referral",
+  "is_pharmacy": true,
+  "source_url": "https://www.osospecialtyinfusion.com/make-a-referral",
+  "notes": "Identified as Oso Home Care, Inc. dba Oso Specialty Infusion Services, a Southern California home-infusion/specialty pharmacy (17175 Gillette Ave Ste B, Irvine CA 92614; Burbank site 2811 N Lima St, P 818.557.0308 / F 818.433.7662) that also appears in third-party listings as a specialty pharmacy for drugs like Vonjo; identity is probable, not certain, since the directory label is just \"Oso\". The Make-a-Referral page says to fax referrals to 949-660-7138 and lists toll-free (800) 310-6611 (local 949.660.7126), with drug-specific referral PDFs (Xolair, Nucala, Fasenra, Ocrevus, Injectafer, Leqvio, etc.); an older \"OSO Specialty Pharmacy Referral Form\" PDF on its Squarespace host shows the same Irvine/Burbank numbers."
  },
  {
   "canonical_name": "PANTHERx Rare",
   "aliases": [
    "PANTHERx Rare"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
+  "website": "https://pantherxrare.com/",
+  "intake_phone": "855.726.8479",
+  "intake_fax": "855.246.3986",
   "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "is_pharmacy": true,
+  "source_url": "https://pantherxrare.com/prescribers/",
+  "notes": "Rare/orphan-disease specialty pharmacy (PANTHERx Specialty, LLC), HQ 121 Bayer Road, Pittsburgh, PA 15205, with sites in Moon Township PA, Canfield OH and Collierville TN; pharmacy hours M-F 8a-8p, Sat 9a-3p. Prescribers and contact pages list 24/7 phone 855.726.8479 (855.PANTHRX; local 412.246.9858) and fax 855.246.3986 (local 412.787.9400). No general prescriber referral/enrollment form is posted; referral intake is drug-specific via limited-distribution programs, and the prescriber-resources page offers only patient welcome kit/transplant brochures."
  },
  {
   "canonical_name": "Premier Specialty",
@@ -724,72 +724,72 @@
   "enrollment_url": null,
   "is_pharmacy": null,
   "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded. Identity ambiguous; may not be a pharmacy."
+  "notes": "Identity could not be established - two dispensing candidates and neither is clearly the directory's 'Premier Specialty'. (a) Literal name match 'Premier Specialty Pharmacy' (premierspecialty.pharmacy), Johns Creek GA: an independent compounding/hormone pharmacy, not an LDD-type specialty pharmacy; own site shows PH 770.622.8901 / FX 770.622.8900, no referral form. (b) 'Premier Health Specialty Pharmacy' (premierhealth.com/locations/pharmacies/specialty-pharmacy), URAC-accredited health-system SP in Moraine/Dayton OH: own site shows Phone (937) 208-0330 / Fax (937) 641-2722, no prescriber referral form. Caller should confirm which entity is intended before recording either."
  },
  {
   "canonical_name": "Publix Pharmacy",
   "aliases": [
    "Publix Pharmacy"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://www.publix.com/pharmacy/pharmacy-services/specialty",
+  "intake_phone": "855-797-8254",
+  "intake_fax": "863-413-5723",
+  "enrollment_url": "https://images.publixcdn.com/cms/documents/pharmacy/intake-blank.pdf",
+  "is_pharmacy": true,
+  "source_url": "https://images.publixcdn.com/cms/documents/pharmacy/intake-blank.pdf",
+  "notes": "Publix Super Markets' central specialty pharmacy: Publix Specialty Pharmacy #3213, 1950 Sand Lake Road Bldg 5, Orlando, FL 32809 (URAC/ACHC accredited). The Specialty Care Prescribers page on publix.com shows no numbers but links disease-state intake PDFs (atopic dermatitis, Crohn's/UC, dermatology, HCV, HIV, oncology, MS, rheumatology, blank referral) on Publix's CDN; the blank referral form prints phone 855-797-8254 and fax 863-413-5723. Retail Publix store pharmacies are separate and not covered here."
  },
  {
   "canonical_name": "Soleo Health",
   "aliases": [
    "Soleo Health"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://www.soleohealth.com/",
+  "intake_phone": "844.575.1515",
+  "intake_fax": "844.797.5050",
+  "enrollment_url": "https://www.soleohealth.com/referral-form",
+  "is_pharmacy": true,
+  "source_url": "https://www.soleohealth.com/referrals/",
+  "notes": "National specialty pharmacy and home/ambulatory infusion provider (pharmacy licensure in all 50 states; URAC/ACHC accredited). The Referrals page lists National Referral Team phone 844.575.1515 and referral fax 844.797.5050, with therapy-area referral forms and a general referral form PDF (uploads.soleohealth.com/2024/04/02171932/general-referral-form-universal-1.pdf); referral email specialtyreferrals@soleohealth.com. Secondary numbers on Contact Us: HQ 833.234.1010 / fax 844.293.9842, billing 844.474.1515 / fax 781.850.4193; local branches also accept referrals directly."
  },
  {
   "canonical_name": "Special Care Pharmacy Services (Puerto Rico)",
   "aliases": [
    "Special Care Puerto Rico"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://specialcarepr.com/en/",
+  "intake_phone": "787-781-4585",
+  "intake_fax": "787-783-2951",
+  "enrollment_url": "https://specialcarepr.com/wp-content/uploads/2019/02/Formato-de-Referido-de-Receta-General.pdf",
+  "is_pharmacy": true,
+  "source_url": "https://specialcarepr.com/en/prescribers/",
+  "notes": "Special Care Pharmacy Services, LLC (SCPS), self-described first/leading specialty pharmacy in Puerto Rico, independent (no parent named), #55 Arzuaga St, San Juan PR 00925. Prescribers page lists phone 787-781-4585, toll-free 1-877-899-8997 / 1-888-727-1727, fax 787-783-2951 / 1-855-230-9963, a general prescription referral form PDF (Spanish; shows older address 1210 Ave. Americo Miranda, tel (787) 783-8579, fax (787) 783-2951, rxmail@scpspr.com) and an online send-us-a-prescription upload page. No NPI/NCPDP published on site."
  },
  {
   "canonical_name": "TotalCare Rx",
   "aliases": [
    "TotalCare Rx"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://www.totalcarerx.com/",
+  "intake_phone": "(718) 762-7111",
+  "intake_fax": "(718) 947-1079",
+  "enrollment_url": "https://www.totalcarerx.com/pharmacy-information-for-prescribers",
+  "is_pharmacy": true,
+  "source_url": "https://www.totalcarerx.com/pharmacy-information-for-prescribers",
+  "notes": "Identified as Total Care Rx (totalcarerx.com), an independent URAC/ACHC-accredited specialty pharmacy at 223-10 Union Tpke, Oakland Gardens (Queens), NY 11364, shipping to 49 states (not CA); specialties epilepsy, TSC, transplant, CF, pulmonology, neurology, long-term care. Prescriber information page lists phone (718) 762-7111, fax (718) 947-1079, NPI 1821329731, NCPDP 3364510, plus a pharmacy-info PDF; FAQ adds pharmacist line 718-358-1300 and refill/order line 866-868-2579. No referral form, only prescriber-fax/mail instructions. Not to be confused with Total Care Rx Pharmacy (Huntington Beach, CA) or Total Health Care Specialty Pharmacy."
  },
  {
   "canonical_name": "Trinity Health Hackley Specialty Pharmacy",
   "aliases": [
    "Trinity Health Pharmacy Hackley"
   ],
-  "website": null,
-  "intake_phone": null,
+  "website": "https://www.trinityhealthmichigan.org/location/trinity-health-pharmacy-hackley",
+  "intake_phone": "(231) 672-7822",
   "intake_fax": null,
   "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "is_pharmacy": true,
+  "source_url": "https://www.trinityhealthmichigan.org/location/trinity-health-pharmacy-hackley",
+  "notes": "Health-system outpatient/specialty pharmacy of Trinity Health Michigan (formerly Mercy Health Hackley), 1675 Leahy St Ste 111, Muskegon MI; 'Specialty Pharmacy services available'. Location page lists main phone (231) 672-7822 and a second unlabeled number 231-672-8425 (possibly fax, not confirmed - not recorded), plus 'specialty pharmacy services at 231-672-7836'. No fax or prescriber referral form published on trinityhealthmichigan.org specialty page."
  },
  {
   "canonical_name": "US Bioservices",
@@ -797,51 +797,51 @@
    "US Bioservices",
    "Us Bio"
   ],
-  "website": null,
+  "website": "https://www.cvsspecialty.com/",
   "intake_phone": null,
   "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
+  "enrollment_url": "https://www.cvsspecialty.com/providers/get-patients-started/enrollment-forms.html",
+  "is_pharmacy": false,
   "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "notes": "Brand no longer operates as a dispensing pharmacy: AmerisourceBergen (now Cencora) quietly sold US Bioservices to CVS Health in 2022 (Drug Channels, May 2022; held-for-sale in ABC's FY2021 10-K) and usbioservices.com now 302-redirects to cvsspecialty.com, where the name does not appear - treat as absorbed into CVS Specialty and route referrals via CVS Specialty's enrollment-forms page. No public intake details under the US Bioservices name; stale pre-2022 referral PDFs still hosted on Cencora's worldcourier.com list US Bioservices support (877) 757-0667 / Rx fax (888) 899-0067 (unverified, likely defunct). CVS Specialty prescriber phone/fax were not visible on the fetched CVS pages."
  },
  {
   "canonical_name": "Vanscoy Rare Pharmacy",
   "aliases": [
    "Vanscoy Rare Pharmacy"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
+  "website": "https://www.vanscoyrare.com/",
+  "intake_phone": "855-VANSCOY (826-7269)",
+  "intake_fax": "888-467-3003",
   "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "is_pharmacy": true,
+  "source_url": "https://www.vanscoyrare.com/get-started/",
+  "notes": "Independent rare/orphan-disease specialty pharmacy in Pittsburgh, PA (310 Merchant Lane), launched by the founders of an earlier rare-disease pharmacy per its own Insights blog; URAC/ACHC accredited, also offers exclusive-distribution services. Phone 855-VANSCOY (826-7269) and fax 888-467-3003 appear in the site footer and on the Get Started and For Providers pages, but they are general contact lines, not a labeled prescriber intake line. No public referral/enrollment form, NPI or e-prescribe details found; providers are directed to a contact form or partnerships@vanscoyrare.com."
  },
  {
   "canonical_name": "Walmart Specialty Pharmacy",
   "aliases": [
    "Walmart Specialty Pharmacy"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://www.walmart.com/cp/specialty-pharmacy/4101489",
+  "intake_phone": "1-877-453-4566",
+  "intake_fax": "1-866-537-0877",
+  "enrollment_url": "https://i5.walmartimages.com/dfw/4ff9c6c9-922e/k2-_0a8a568a-4eb2-40c5-b726-2c98d00061e8.v1.pdf",
+  "is_pharmacy": true,
+  "source_url": "https://www.walmart.com/cp/specialty-pharmacy/4101489",
+  "notes": "Walmart Inc.-owned ACHC-accredited central-fill specialty pharmacy, 2354 Commerce Park Dr, Orlando FL (page says 32827; patient-info PDF says Suite 100, 32819); hours M-F 9am-9pm, Sat 9am-3pm. Phone 1-877-453-4566, fax 1-866-537-0877 and specialty@walmart.com appear on walmart.com/cp/specialty-pharmacy and on the Walmart-hosted Specialty Rx referral form PDF (i5.walmartimages.com). Separate from the in-store \"Specialty Pharmacy of the Community\" program and Walmart mail-order pharmacy; no NPI/NCPDP published."
  },
  {
   "canonical_name": "Zeal Pharmacy",
   "aliases": [
    "Zeal Pharmacy"
   ],
-  "website": null,
-  "intake_phone": null,
-  "intake_fax": null,
-  "enrollment_url": null,
-  "is_pharmacy": null,
-  "source_url": null,
-  "notes": "NOT RESEARCHED - WebSearch budget for this turn was exhausted before this company was reached; no official-site data recorded."
+  "website": "https://www.zealsp.com/",
+  "intake_phone": "888-412-9325",
+  "intake_fax": "877-329-9325",
+  "enrollment_url": "https://www.zealsp.com/forms/",
+  "is_pharmacy": true,
+  "source_url": "https://www.zealsp.com/prescribers/",
+  "notes": "Identified as Zeal Specialty Pharmacy (Zeal SP, LLC), a URAC/ACHC-accredited rare/orphan-disease specialty pharmacy, HQ 100 Business Center Drive Ste 300, Pittsburgh, PA 15205 with redundant fulfillment site in Peachtree Corners, GA; licensed in all 50 states. Prescribers page lists phone 888-412-ZEAL (9325) (option 2 for verbal orders), referral fax 877-FAX-ZEAL (329-9325), ePrescribe NPI 1093424905, and drug-specific referral-form PDFs on the Forms page (e.g., PNH, Vyleesi)."
  }
 ]
