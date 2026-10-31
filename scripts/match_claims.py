@@ -106,6 +106,7 @@ def main() -> int:
                 "ldd_pharmacies": pharm,
                 "ldd_hub": " | ".join(x for x in [hub.get("name"), hub.get("phone"), hub.get("url")] if x),
                 "ldd_rems": d.get("rems"),
+                "ldd_inactive": d.get("inactive", False),
                 "ldd_status": d["status"],
                 "ldd_confidence": d["confidence"],
                 "matched_on": how,

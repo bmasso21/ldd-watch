@@ -68,7 +68,8 @@
         `<span class="chip">Confidence: ${esc(d.confidence)}</span>`,
         d.rems ? '<span class="chip warn">REMS</span>' : '',
         d.cold_chain ? '<span class="chip">Cold chain</span>' : '',
-        d.controlled_substance ? '<span class="chip warn">Controlled</span>' : ''
+        d.controlled_substance ? '<span class="chip warn">Controlled</span>' : '',
+        d.inactive ? '<span class="chip warn">INACTIVE — withdrawn</span>' : ''
       ].join('');
       const ph = (d.pharmacies||[]).length ? d.pharmacies.map(p => `
         <div class="ph"><div class="n">${esc(p.name)}</div>
@@ -85,6 +86,7 @@
         ${hub}
         ${(d.ndcs||[]).length?`<div class="row"><b>NDCs</b>${d.ndcs.map(esc).join(', ')}</div>`:''}
         <div class="row src"><b>Sources</b>${(d.sources||[]).map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener">[${esc(s.type)}] ${esc(s.url)} (${esc(s.date_checked)})</a>`).join('')}</div>
+        ${d.inactive_reason?`<div class="row"><b>Inactive</b>${esc(d.inactive_reason)}</div>`:''}
         ${d.notes?`<div class="row"><b>Notes</b><div class="notes">${esc(d.notes)}</div></div>`:''}
         ${d.verified_by?`<div class="row"><b>Verified</b>${esc(d.verified_by)} on ${esc(d.verified_date)}${d.next_review_date?` · next review ${esc(d.next_review_date)}`:''}</div>`:''}
       </article>`;
