@@ -1,0 +1,541 @@
+[
+ {
+  "brand": "Yutiq",
+  "generic": "fluocinolone acetonide (intravitreal implant)",
+  "manufacturer": "ANI Pharmaceuticals",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": true,
+  "manufacturer_page_found": false,
+  "conflict_note": "Yutiq is a physician-implanted intravitreal implant billed under HCPCS J7314 with administration CPT 67027 (provider-administered buy-and-bill), so it is NOT a specialty-pharmacy limited-distribution drug. None of the pharmacies on file (CVS Specialty, Optum Specialty Pharmacy, US Bioservices) were named by any source read; they could not be confirmed.",
+  "notes": "Read buyandbill.com/yutiq-j7314/ (source_type other), which lists generic fluocinolone acetonide, manufacturer ANI Pharmaceuticals, HCPCS J7314, route intravitreal implant and CPT 67027, and names no distributors, specialty pharmacies or manufacturer hub ('not identified a manufacturer-published source of patient assistance information'). Search results (NC Medicaid, CMS J-code news) consistently treat Yutiq as a J-coded medical-benefit product. The manufacturer PI PDF on yutiq.com was blocked (fetch permission not granted), so no manufacturer-domain page was read. REMS status not stated in any source read. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "Yutrepia",
+  "generic": "treprostinil (inhalation powder)",
+  "manufacturer": "Liquidia Technologies, Inc. (Liquidia Corporation)",
+  "pharmacies": [
+   {
+    "name": "Accredo",
+    "source_url": "https://www.cvsspecialty.com/content/dam/enterprise/specialty/enrollment_forms/us/US_Yutrepia.pdf",
+    "source_type": "other",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "CVS Specialty",
+    "source_url": "https://www.cvsspecialty.com/content/dam/enterprise/specialty/enrollment_forms/us/US_Yutrepia.pdf",
+    "source_type": "other",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": {
+   "name": "YUTREPIA Voucher Program (free 28-day supply)",
+   "phone": null,
+   "url": "https://www.yutrepia.com/Voucher"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": null,
+  "notes": "Read the YUTREPIA Enrollment Form hosted on cvsspecialty.com (a Liquidia enrollment form offering a choice of two SPs): it states 'YUTREPIA is available through select specialty pharmacy (SP) providers' and lists only Accredo Health Group (ph 1-866-344-4874, fax 1-800-711-3526) and CVS Specialty (ph 1-877-242-2738, fax 1-877-943-1000), matching the two pharmacies on file; limited-network ('select') but not exclusive language. Read the Liquidia press release liquidia.com/node/12661 (manufacturer domain, June 2, 2025 first commercial shipment), which names no pharmacy and no hub phone, only that PI is at YUTREPIA.com. The manufacturer voucher page yutrepia.com/Voucher was blocked (fetch permission not granted). No REMS mentioned anywhere read; no separate hub phone line shown. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "YUVIWEL",
+  "generic": "navepegritide (TransCon CNP)",
+  "manufacturer": "Ascendis Pharma A/S (US: Ascendis Pharma Endocrinology, Inc.)",
+  "pharmacies": [],
+  "hub_program": {
+   "name": "Ascendis Signature Access Program (A.S.A.P.)",
+   "phone": null,
+   "url": "https://yuviwel.com/support-services/"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": "AnovoRx (on file) was not named in any source read; the manufacturer launch release and FDA label name no specialty pharmacy, so the on-file network could not be confirmed or refuted.",
+  "notes": "Read the Ascendis launch press release on investors.ascendispharma.com (manufacturer domain, April 6, 2026; orphan drug exclusivity through Feb 27, 2033) and its GlobeNewswire copy: both name the A.S.A.P. hub with URL yuviwel.com/support-services/ but give no hub phone (the only phone, 1-844-442-7236, is for adverse-event reporting) and no specialty pharmacy. Read the FDA label (accessdata.fda.gov, NDA 219164): once-weekly subcutaneous injection self-/caregiver-administered after HCP training, single-dose vial kits, no REMS mentioned, so it is a pharmacy-dispensed product rather than buy-and-bill. The yuviwel.com/support-services page itself was blocked (fetch permission not granted). Search surfaced the Express Scripts TRICARE LDD PDF as a hit, but express-scripts.com could not be fetched (blocked)."
+ },
+ {
+  "brand": "Zavesca",
+  "generic": "miglustat",
+  "manufacturer": "ADVANZ PHARMA (global rights acquired from Actelion Pharmaceuticals Ltd, a Johnson & Johnson company; announced Oct 13, 2025)",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": "Accredo (on file) was not named by any source read; the only pharmacy named in any Zavesca/miglustat source was Orsini Specialty Pharmacy, and that was for Edenbridge's generic miglustat (2020), not brand Zavesca. On-file network unconfirmed.",
+  "notes": "Read the ADVANZ PHARMA press release on advanzpharma.com (manufacturer domain): confirms generic miglustat, seller Actelion/J&J, sold in 40+ markets, but says nothing about US distribution, specialty pharmacies, patient support or REMS. The brand patient-support page zavesca.com/patient-patient-support.html returned a client error and could not be read. Read the Edenbridge generic miglustat launch release (nnpdf.org, source_type other), which says the generic is distributed through Orsini Specialty Pharmacy with no exclusivity language and does not address brand Zavesca. Remaining search hits were payer PA policies (Health Net, CareSource, SHP NC) that do not list dispensing pharmacies. Oral capsule, so not buy-and-bill. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "Zejula",
+  "generic": "niraparib",
+  "manufacturer": "GSK (originally TESARO, Inc.)",
+  "pharmacies": [
+   {
+    "name": "Biologics by McKesson",
+    "source_url": "https://www.mckesson.com/about-us/newsroom/press-releases/2017/biologics-inc-selected-by-tesaro-as-a-specialty-pharmacy-provider-for-zejula",
+    "source_type": "press_release",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "US Bioservices",
+    "source_url": "https://www.amerisourcebergen.com/newsroom/press-releases/us-bioservices-selected-by-tesaro-to-dispense-zejula",
+    "source_type": "press_release",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Optum Specialty Pharmacy (as Diplomat Pharmacy, 2017)",
+    "source_url": "https://drugstorenews.com/pharmacy/diplomat-dispense-zejula",
+    "source_type": "other",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": {
+   "name": "Together with GSK Oncology (Zejula Quick Start and Bridge Programs)",
+   "phone": null,
+   "url": null
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": "Sources read are 2017 TESARO-era press releases; they confirm Biologics by McKesson and (via Diplomat, since acquired by Optum) Optum Specialty Pharmacy, but CVS Specialty (on file) was not named by any source read, and US Bioservices was named but is not on file. No current GSK manufacturer page was read, so the present-day network could not be verified.",
+  "notes": "Read three 2017 press releases: McKesson/Biologics (April 24, 2017; Biologics 'selected ... to be a specialty pharmacy provider in the distribution network for ZEJULA'), McKesson Specialty Health (May 12, 2017; 'one of ZEJULA's distributors of choice for in-office dispensing practices', a distributor rather than a dispensing SP so not listed as a pharmacy) and AmerisourceBergen/US Bioservices (April 19, 2017; 'ZEJULA is only available from select specialty pharmacies, in-office dispensing practices, and hospitals', i.e. limited-network but not exclusive language). Read the Drug Store News item naming Diplomat as 'selected to the specialty pharmacy panel dispensing Zejula'. Read the Oncology Practice Management 2024 GSK PSS guide (source_type other): Together with GSK Oncology / Zejula Quick Start and Bridge Programs, fax 800-645-9043 only, no phone or URL shown, no pharmacies named. No GSK/zejulahcp manufacturer page surfaced in search, so manufacturer_page_found is false; REMS not mentioned in any source. Oral tablet, not buy-and-bill. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "Zelvysia",
+  "generic": "sapropterin dihydrochloride",
+  "manufacturer": "Aucta Pharmaceuticals, Inc.",
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": false,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": "Orsini Specialty Pharmacy (on file) could not be confirmed from any fetched source; no source read names any specialty pharmacy for Zelvysia. A search snippet titled 'ZELVYSIA (sapropterin dihydrochloride)' pointed to orsini.com/?p=1749, but the fetched page was a news index that did not mention Zelvysia. Unverified, not contradicted.",
+  "notes": "Read drugpatentwatch.com (NDA 218645, Aucta, approved 2025-04-29, oral powder for solution), drugs.com/pro/zelvysia.html (PI: 'Manufactured for: Aucta Pharmaceuticals, Inc.', oral powder for solution for BH4-responsive PKU, no REMS, 'go to www.Zelvysia.com or call 1-800-655-9902' - an info/AE line, not a named hub), the Vermont AG new-high-cost-drug notice (launched 2026-03-09, no distribution channel stated), prescriberpoint.com (no pharmacies named), and a PRNewswire Aucta/PYQUVI release (says Zelvysia anticipated March 2026 and PYQUVI 'exclusively through a specialty pharmacy', unnamed; Orsini not mentioned). orsini.com/?p=1749, /?p=1625 and the Orsini medication-search page did not list Zelvysia or any PKU product. The fetch of www.zelvysia.com (manufacturer domain) was blocked (fetch permission not granted), so manufacturer_page_found is false. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "Zemaira",
+  "generic": "alpha1-proteinase inhibitor (human)",
+  "manufacturer": "CSL Behring LLC",
+  "pharmacies": [],
+  "hub_program": {
+   "name": "ZEMAIRA Connect",
+   "phone": "1-855-ZEMAIRA",
+   "url": null
+  },
+  "rems": null,
+  "buy_and_bill": null,
+  "manufacturer_page_found": true,
+  "conflict_note": "CVS Specialty and Optum Specialty Pharmacy (on file) are not named on any CSL Behring page read; the manufacturer pages name no specialty pharmacies or distributors at all, so the on-file network can be neither confirmed nor contradicted.",
+  "notes": "Read two CSL Behring manufacturer pages: zemaira-review2.cslbehring.com/hcp/prescribing ('Getting your patients started' - names the ZEMAIRA Connect support program with case managers, enrollment via 1-855-ZEMAIRA, referral form, PA checklist, coding/reimbursement guide; names no pharmacies, no REMS) and marketaccess.cslbehring.com/Respiratory/Zemaira ('ZEMAIRA is manufactured and distributed by CSL Behring LLC'; no pharmacies, no site-of-care statement; 1-866-915-6958 is pharmacovigilance only). Also read the alpha1.org Oct 2021 CSL supply announcement, which refers generically to 'pharmacies and distributors' with no names and no exclusive language. Zemaira is a weekly IV infusion; the pages read do not state whether it is provider-administered buy-and-bill vs. dispensed by specialty pharmacy/home infusion, so buy_and_bill is null. No source read used limited/exclusive-distribution language. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "Zeposia",
+  "generic": "ozanimod",
+  "manufacturer": "Bristol Myers Squibb (Celgene Corporation, a BMS company)",
+  "pharmacies": [
+   {
+    "name": "AcariaHealth",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-specialty-pharmacy-resource.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Accredo",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-specialty-pharmacy-resource.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "AhmaRx",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-specialty-pharmacy-resource.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "altScripts Specialty Pharmacy",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-specialty-pharmacy-resource.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Ardon Health",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-specialty-pharmacy-resource.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "BioPlus",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-specialty-pharmacy-resource.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Birdi",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-specialty-pharmacy-resource.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "CenterWell Specialty Pharmacy",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-specialty-pharmacy-resource.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "CVS Specialty",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-specialty-pharmacy-resource.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Meijer Specialty Pharmacy",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-specialty-pharmacy-resource.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Optum Specialty Pharmacy",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-specialty-pharmacy-resource.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Polaris Specialty Pharmacy",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-specialty-pharmacy-resource.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Prime Therapeutics Specialty Pharmacy",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-specialty-pharmacy-resource.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Senderra Rx",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-specialty-pharmacy-resource.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Walgreens Specialty Pharmacy",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-specialty-pharmacy-resource.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Walmart Specialty Pharmacy",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-specialty-pharmacy-resource.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Kroger Specialty Pharmacy",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-access-hcp-resources.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "US Bioservices",
+    "source_url": "https://www.zeposiahcp.com/assets/commercial/us/zeposiahcp/en/pdf/zeposia-access-hcp-resources.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": {
+   "name": "ZEPOSIA 360 Support",
+   "phone": "1-833-ZEPOSIA (1-833-937-6742)",
+   "url": "https://www.zeposiaportal.com"
+  },
+  "rems": false,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": "On file as limited_network with only CVS Specialty and Optum Specialty Pharmacy, but the manufacturer (zeposiahcp.com) explicitly states ZEPOSIA is available through 'an open network of specialty pharmacies', that its list is 'not an exhaustive list', and that it 'is available at any other specialty pharmacy of your choice'. CVS Specialty and Optum are in the network, but the network is open, not limited, and the manufacturer lists at least 16 pharmacies. Recommend reclassifying from limited_network to open.",
+  "notes": "Read two BMS manufacturer PDFs on zeposiahcp.com: the specialty-pharmacy resource (16 pharmacies with phone/fax, 'open network', 'not an exhaustive list', BMS cannot guarantee availability) and the older access/HCP resources PDF (16 incl. Diplomat, AllianceRx Walgreens Prime, Elixir, Humana, Magellan Rx, Special Care, Kroger, US Bioservices; 'An open network of specialty pharmacies has been established'; ZEPOSIA 360 Support 1-833-ZEPOSIA, fax 1-833-727-7702, www.ZEPOSIAportal.com). Also read prescriberpoint.com's Zeposia pharmacy list (many pharmacies incl. Acaria, Accredo, ACS, Aetna Specialty), consistent with an open network. Oral capsule, self-administered; no REMS mentioned anywhere. Curation: the older PDF's Diplomat, AllianceRx Walgreens Prime, Elixir, Humana and Magellan Rx entries are stale corporate names superseded by Optum/Walgreens/CenterWell and were not added as pharmacies; Kroger Specialty, US Bioservices were kept. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "Zilbrysq",
+  "generic": "zilucoplan",
+  "manufacturer": "UCB, Inc.",
+  "pharmacies": [
+   {
+    "name": "PANTHERx Rare",
+    "source_url": "https://www.ucbonward.com/sites/default/files/2024-02/ZILBRYSQ-Exclusive-SP-Announcement-Flashcard.pdf",
+    "source_type": "manufacturer",
+    "exclusive_claimed": true
+   },
+   {
+    "name": "PANTHERx Rare",
+    "source_url": "https://www.biospace.com/zilbrysq-zilucoplan-is-now-commercially-available-in-the-u-s-for-the-treatment-of-generalized-myasthenia-gravis-gmg-in-adult-patients-who-are-anti-acetylcholine-receptor-achr-antibody-positive",
+    "source_type": "press_release",
+    "exclusive_claimed": true
+   }
+  ],
+  "hub_program": {
+   "name": "ONWARD",
+   "phone": "1-844-ONWARD",
+   "url": "https://www.ucbonward.com"
+  },
+  "rems": true,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": null,
+  "notes": "Read the UCB manufacturer flashcard on ucbonward.com (US-ZL-2500139, March 2025): 'Is Available Exclusively Through a Single Specialty Pharmacy - PANTHERx Rare'; 'Prescriptions will be fulfilled exclusively through PANTHERx Rare'; PANTHERx phone 833-418-7760, fax 412-567-6135; 'available only through a restricted program called ZILBRYSQ REMS'. Read the UCB launch press release (via biospace.com mirror; the ucb-usa.com URL itself was rejected by the fetch proxy): 'dispensed by UCB's selected exclusive specialty pharmacy PANTHERx Rare Pharmacy', ONWARD 1-844-ONWARD / www.UCBONWARD.com, ZILBRYSQ REMS 1-877-414-8353 / www.ZILBRYSQREMS.com, once-daily self-administered subcutaneous prefilled syringe. pharmacompass.com showed the PR Newswire headline 'PANTHERx Rare Selected by UCB as the Exclusive Specialty Pharmacy for ZILBRYSQ' (10 Jan 2024). On-file network (PANTHERx Rare) confirmed and exclusive; on-file type limited_network should be exclusive. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "ZIPRASIDONE MESYLATE",
+  "generic": "ziprasidone mesylate (for injection, 20 mg/mL IM)",
+  "manufacturer": null,
+  "pharmacies": [],
+  "hub_program": null,
+  "rems": false,
+  "buy_and_bill": true,
+  "manufacturer_page_found": false,
+  "conflict_note": "Genoa Healthcare (on file) is not named by any source as a limited-distribution pharmacy for ziprasidone mesylate injection. This is a multi-source generic of Geodon IM (Pfizer/Viatris brand; Dr. Reddy's and other generics) stocked by general wholesalers (McKesson lists Geodon 20 mg/mL SDV as a standard catalog item with no restriction noted). It is an acute-agitation IM injection administered by clinicians in hospital/ED/facility settings (HCPCS J3486), i.e. provider-administered, not a specialty-pharmacy limited-distribution drug. Recommend removing the limited_network classification; Genoa's association is likely a behavioral-health pharmacy relationship, not an LDD network.",
+  "notes": "Read the McKesson SupplyManager product page for Geodon 20 mg/mL single-dose vials (NDC 00049-3920-83, Viatris Specialty LLC): ordinary wholesale catalog listing, no limited-distribution or specialty-only language. Read the Chain Drug Review item on Dr. Reddy's launch of generic ziprasidone mesylate for injection (therapeutic equivalent to Geodon Injection 20 mg/mL), which mentions no restricted channel. Search results also showed other generic NDCs (e.g., 68083-340, 43598-0848) confirming multiple manufacturers; no manufacturer HCP/access page exists for this generic, so manufacturer_page_found is false and manufacturer is null (multi-source). No REMS mentioned in any source read. No source linked Genoa Healthcare to this product; no evidence it is a limited-distribution product at all. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "Zokinvy",
+  "generic": "lonafarnib",
+  "manufacturer": "Sentynl Therapeutics, Inc.",
+  "pharmacies": [
+   {
+    "name": "Biologics by McKesson",
+    "source_url": "https://www.mckesson.com/about-us/newsroom/press-releases/2024/zokinvy-the-only-fda-approved-treatment-for-hutchinson-gilford-progeria-syndrome/",
+    "source_type": "press_release",
+    "exclusive_claimed": true
+   },
+   {
+    "name": "Biologics by McKesson",
+    "source_url": "https://biologics.mckesson.com/tag/zokinvy",
+    "source_type": "press_release",
+    "exclusive_claimed": true
+   }
+  ],
+  "hub_program": {
+   "name": "Sentynl Cares",
+   "phone": "1-888-251-2800",
+   "url": "https://sentynl.com/sentynl-cares/"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": "Pharmacies on file list CVS Specialty, but the Sept 10, 2024 McKesson press release states Sentynl selected Biologics by McKesson as 'the exclusive specialty pharmacy for ZOKINVY (lonafarnib) in the United States' and that 'Sentynl is implementing this exclusive relationship with Biologics.' CVS Specialty was not named by any source read; consider removing it or re-verifying.",
+  "notes": "Read the McKesson press release (www.mckesson.com) and the biologics.mckesson.com Zokinvy tag page, both of which say Zokinvy is exclusively available through Biologics by McKesson as of Sept 2024. Read the manufacturer page sentynl.com/sentynl-cares/, which gives the Sentynl Cares hub phone (1-888-251-2800, Mon-Fri 8am-8pm ET) but does not name Zokinvy or any pharmacy. Oral capsule, pharmacy benefit; no REMS mentioned on any page read. No manufacturer page naming the specialty pharmacy was found. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "ZOLGENSMA",
+  "generic": "onasemnogene abeparvovec-xioi",
+  "manufacturer": "Novartis (Novartis Gene Therapies)",
+  "pharmacies": [
+   {
+    "name": "Accredo",
+    "source_url": "https://www.cdn.fuse.novartis.com/FA-11574514-1_ZOL_ITA_Product_Ordering_Pathways_Digital_5.26/FA-11574514-1.PDF",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Orsini Specialty Pharmacy",
+    "source_url": "https://www.cdn.fuse.novartis.com/FA-11574514-1_ZOL_ITA_Product_Ordering_Pathways_Digital_5.26/FA-11574514-1.PDF",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "Axium/Farmacia Doral Specialty Pharmacy (Puerto Rico only)",
+    "source_url": "https://www.cdn.fuse.novartis.com/FA-11574514-1_ZOL_ITA_Product_Ordering_Pathways_Digital_5.26/FA-11574514-1.PDF",
+    "source_type": "manufacturer",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": {
+   "name": "Novartis Patient Support",
+   "phone": "1-855-441-4363",
+   "url": "https://www.zolgensma-enrollment.com"
+  },
+  "rems": null,
+  "buy_and_bill": true,
+  "manufacturer_page_found": true,
+  "conflict_note": "No conflict with Accredo and Orsini, but the Novartis ordering-pathways document also lists Axium/Farmacia Doral Specialty Pharmacy (Puerto Rico only) and a separate buy-and-bill pathway via CuraScript SD Specialty Distribution; the 'limited_network' specialty-pharmacy type understates that Zolgensma is primarily a provider-administered IV gene therapy with an SP-assisted pathway.",
+  "notes": "Read the Novartis 'Product Ordering Pathways' PDF (cdn.fuse.novartis.com, dated 5/26). It states Zolgensma is available through 2 ordering pathways: (1) buy-and-bill, where the treatment site orders directly from CuraScript SD Specialty Distribution (1-866-263-8464) at least 48 hours before delivery and bills J-code J3399; and (2) specialty pharmacy, where Accredo (1-800-803-2523), Orsini (1-800-697-5048) or Axium/Farmacia Doral (PR only, 1-844-355-4191) procures product from CuraScript SD and manages product reimbursement while the site bills administration. Product is shipped frozen to the site of care for IV infusion, so it is a one-time IV gene therapy infused at treatment centers with both buy-and-bill and SP-assisted pathways, not a classic pharmacy-benefit LDD. Hub is Novartis Patient Support (1-855-441-4363; enrollment at zolgensma-enrollment.com, forms at zolgensma-hcp.com/resources). No REMS mentioned in the document. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "ZOLINZA",
+  "generic": "vorinostat",
+  "manufacturer": "Merck & Co., Inc.",
+  "pharmacies": [],
+  "hub_program": {
+   "name": "Merck Patient Assistance Program (ZOLINZA)",
+   "phone": "800-727-5400",
+   "url": "https://www.merckhelps.com/ZOLINZA"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": "No source read names Amber Specialty Pharmacy, CVS Specialty, or any other specialty pharmacy as a designated/limited-distribution pharmacy for Zolinza; the limited_network designation and both pharmacies on file could not be confirmed.",
+  "notes": "Three searches found no manufacturer HCP ordering page, pharmacy 'selected as' press release, or payer LDD list naming Zolinza's pharmacies. Read merckhelps.com/ZOLINZA (Merck domain): the Merck Patient Assistance Program page (800-727-5400) listing vorinostat 100 mg capsules, with no specialty-pharmacy or distribution information. Read hematology.org's vorinostat access page (Merck Access Program 1-855-257-3932, fax 855-755-0518) and the FEP Blue 52115 policy (cites Merck & Co. package insert July 2022); neither names a pharmacy or states limited distribution. The Mercy Care AZ April 2026 specialty drug list includes ZOLINZA in oral oncology with no designated-pharmacy marker. Oral capsule, pharmacy benefit; REMS not mentioned anywhere read. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "Zorbtive",
+  "generic": "somatropin (rDNA origin) for injection",
+  "manufacturer": "EMD Serono, Inc.",
+  "pharmacies": [],
+  "hub_program": {
+   "name": "AXIS Center",
+   "phone": "1-877-714-2847",
+   "url": null
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": "Optum Specialty Pharmacy on file could not be confirmed by any source read; no source named any specialty pharmacy for Zorbtive.",
+  "notes": "Three searches returned only payer prior-authorization policies (Mass General Brigham, CareFirst, FEP Blue, CVS Caremark, CareSource, Kaiser) and the drugs.com prescribing information; no EMD Serono HCP/access page or pharmacy press release surfaced, so no manufacturer-domain page was fetched. Read drugs.com/pro/zorbtive.html: 'Manufactured for: EMD Serono, Inc., Rockland, MA', NDC 44087-3388-7 kit, and 'For more information call the AXIS Center at 1-877-714-2847' (label text reproduced by a third party, not a manufacturer page). Current US marketing status and distribution channel could not be confirmed. Self-administered subcutaneous injection (not buy-and-bill); REMS not mentioned. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "Ztalmy",
+  "generic": "ganaxolone",
+  "manufacturer": "Immedica Pharma US Inc. (formerly Marinus Pharmaceuticals, Inc.)",
+  "pharmacies": [
+   {
+    "name": "Orsini Specialty Pharmacy",
+    "source_url": "https://www.biospace.com/orsini-specialty-pharmacy-selected-by-marinus-pharmaceuticals-as-the-exclusive-specialty-pharmacy-partner-for-ztalmy",
+    "source_type": "press_release",
+    "exclusive_claimed": true
+   }
+  ],
+  "hub_program": {
+   "name": "ZTALMY One",
+   "phone": "1-844-982-5691",
+   "url": null
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": null,
+  "notes": "Read the July 28, 2022 PRNewswire release (republished on BioSpace) stating Marinus Pharmaceuticals 'has selected [Orsini] as the exclusive specialty pharmacy for ZTALMY (ganaxolone)', consistent with the 'exclusive' type on file. Read prescriberpoint.com's ZTALMY One page (third-party): the ZTALMY One patient support program is offered by Immedica Pharma US Inc. (Marinus acquired by Immedica in 2025 per search results), phone 1-844-982-5691, fax 844-982-5693; it names no pharmacy. No ztalmy.com manufacturer HCP page surfaced in three searches, so the exclusive arrangement post-acquisition is not confirmed from a manufacturer source. Oral suspension, pharmacy benefit; REMS not mentioned. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "Zurzuvae",
+  "generic": "zuranolone",
+  "manufacturer": "Biogen / Supernus Pharmaceuticals, Inc. (ZURZUVAE trademark owned by Sage Therapeutics, licensed to Supernus)",
+  "pharmacies": [
+   {
+    "name": "CVS Specialty",
+    "source_url": "https://www.cvsspecialty.com/content/dam/enterprise/specialty/enrollment_forms/us/US_Zurzuvae.pdf",
+    "source_type": "other",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": {
+   "name": "ZURZUVAE For You",
+   "phone": "1-844-987-9882",
+   "url": "https://www.zurzuvae.com/en-us/home/taking-zurzuvae/getting-zurzuvae.html"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": "Manufacturer pages read say only that 'ZURZUVAE is only available from a specialty pharmacy' and do not name any pharmacy; Accredo, Alto Pharmacy and Walmart Specialty Pharmacy on file were not confirmed by any source read (CVS Specialty was confirmed only via its own Zurzuvae enrollment form).",
+  "notes": "Read two manufacturer-domain pages on zurzuvae.com: the 'Getting ZURZUVAE' patient page and the patient-support leave-behind PDF. Both state the prescription is sent to 'a specialty pharmacy' and that Zurzuvae is not stocked at retail pharmacies, name the ZURZUVAE For You program (1-844-987-9882, Mon-Fri 8am-6pm ET; enrollment at ZURZUVAE.com/signup), identify it as a federal C-IV controlled substance with a Boxed Warning, and carry 2026 Biogen copyright with trademarks 'licensed to Supernus Pharmaceuticals, Inc.'. Neither page lists pharmacy names. Read the CVS Specialty 'Zurzuvae Enrollment Form' (phone 1-866-933-4779, fax 1-844-850-7915), confirming CVS Specialty dispenses it. No HCP-site pharmacy network list surfaced in three searches; REMS not mentioned (Boxed Warning only). Oral capsule, pharmacy benefit. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "Zycubo",
+  "generic": "copper histidinate",
+  "manufacturer": "Sentynl Therapeutics, Inc. (wholly owned by Zydus Lifesciences)",
+  "pharmacies": [
+   {
+    "name": "Biologics by McKesson",
+    "source_url": "https://biologics.mckesson.com/zycubo-copper-histidinate-first-fda-approved-treatment-for-patients-with-menkes-disease-exclusively-available-at-biologics-by-mckesson-in-the-united-states/",
+    "source_type": "press_release",
+    "exclusive_claimed": true
+   }
+  ],
+  "hub_program": {
+   "name": "Sentynl Cares",
+   "phone": "1-888-251-2800",
+   "url": "https://sentynl.com/sentynl-cares/"
+  },
+  "rems": null,
+  "buy_and_bill": false,
+  "manufacturer_page_found": true,
+  "conflict_note": null,
+  "notes": "Read drugs.com/dosage/zycubo.html (generic copper histidinate, lyophilized powder for daily subcutaneous injection, Rx only), the Biologics by McKesson press release dated Jan 13, 2026 (Biologics is 'the exclusive specialty pharmacy provider for ZYCUBO' and also exclusive Hub Services provider and PAP dispensing pharmacy, selected by Sentynl Therapeutics), the Sentynl FDA-approval press release on biopharmadive.com (manufacturer Sentynl/Zydus; no pharmacy or hub named), and the manufacturer page sentynl.com/sentynl-cares/ (Sentynl Cares access/support program, 1-888-251-2800, M-F 8am-8pm ET; the page does not name products or a specialty pharmacy). REMS is not mentioned on any page read. The single pharmacy on file (Biologics by McKesson) matches the exclusive claim, so type should be exclusive rather than limited_network; no zycubo.com HCP ordering page was located. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "ZYMFENTRA",
+  "generic": "infliximab-dyyb (subcutaneous)",
+  "manufacturer": "Celltrion (Celltrion USA)",
+  "pharmacies": [
+   {
+    "name": "Accredo",
+    "source_url": "https://d.static.cigna.com/assets/chcp/pdf/resourceLibrary/prescription/Zymfentra.pdf",
+    "source_type": "pbm",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": null,
+  "rems": null,
+  "buy_and_bill": null,
+  "manufacturer_page_found": true,
+  "conflict_note": "No source read names CVS Specialty (on file) for ZYMFENTRA. Manufacturer press releases describe broad PBM/formulary coverage (Express Scripts NPF preferred brand, 'top 3 PBMs') with no limited or exclusive specialty-pharmacy network; the only pharmacy named is Accredo on a Cigna coverage form (payer preference, not a manufacturer LDD network). Limited-network status could not be confirmed.",
+  "notes": "Read two manufacturer-domain press releases (celltrion.com/en-us press release 3212, April 2024 commercial availability + Express Scripts agreement; and 3503, Oct 31 2024 coverage expansion with top-3 PBMs) - neither names any specialty pharmacy, hub program, or exclusive/limited distribution. Read the Cigna Zymfentra prescription form, which lists Accredo as 'Cigna's nationally preferred specialty pharmacy' (payer preference, not exclusivity). No ZYMFENTRA HCP/access page with a specialty-pharmacy list or patient-support program contact was located. REMS not mentioned on any page read; product is a subcutaneous injection for maintenance after IV infliximab, but self- vs provider-administration was not stated on the pages read. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "ZYNTEGLO",
+  "generic": "betibeglogene autotemcel",
+  "manufacturer": "bluebird bio",
+  "pharmacies": [],
+  "hub_program": {
+   "name": "my bluebird support",
+   "phone": "833-888-NEST (833-888-6378)",
+   "url": "https://www.mybluebirdsupport.com"
+  },
+  "rems": null,
+  "buy_and_bill": true,
+  "manufacturer_page_found": false,
+  "conflict_note": "On file with CVS Specialty and Orsini Specialty Pharmacy, but every source read says ZYNTEGLO is available only through bluebird bio Qualified Treatment Centers (QTCs); it is an autologous gene therapy (apheresis, ex vivo manufacturing, single infusion at the QTC), not a specialty-pharmacy-dispensed product. No source names any specialty pharmacy in a ZYNTEGLO network; the two pharmacies on file could not be confirmed and appear inconsistent with the distribution model.",
+  "notes": "Read bluebird bio's FDA approval press release on businesswire.com (Aug 17, 2022): 'available only through bluebird's Qualified Treatment Centers', my bluebird support program at 833-888-NEST with site mybluebirdsupport.com, $2.8M WAC, outcomes-based agreements; no specialty pharmacy mentioned. Read the Children's Hospital of Michigan QTC page: available only at qualified treatment centers, patient stem cells genetically modified and infused back as a single treatment. No bluebirdbio.com-domain page was fetched, so manufacturer_page_found is false; the hub details come from the manufacturer's press release hosted on businesswire. REMS not stated on pages read. Provider-administered gene therapy delivered via QTCs, not a specialty-pharmacy LDD. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "ZYPREXA",
+  "generic": "olanzapine",
+  "manufacturer": "Eli Lilly and Company",
+  "pharmacies": [
+   {
+    "name": "Genoa Healthcare",
+    "source_url": "https://files.guidewell.com/m/4be1381d12edb626/original/providers-news-2024-pharmacy-genoa-lai-drugs-12-2024.pdf",
+    "source_type": "pbm",
+    "exclusive_claimed": false
+   },
+   {
+    "name": "CVS Specialty",
+    "source_url": "https://files.guidewell.com/m/4be1381d12edb626/original/providers-news-2024-pharmacy-genoa-lai-drugs-12-2024.pdf",
+    "source_type": "pbm",
+    "exclusive_claimed": false
+   }
+  ],
+  "hub_program": null,
+  "rems": false,
+  "buy_and_bill": false,
+  "manufacturer_page_found": false,
+  "conflict_note": "Oral ZYPREXA (olanzapine) is not a manufacturer limited-distribution product: generic olanzapine has been widely available since 2011 (Teva/Dr. Reddy's launch; Prasco authorized generic) and is dispensed at retail. The Genoa Healthcare listing on file traces to a Florida Blue/Truli provider notice naming Genoa as the in-network behavioral-health pharmacy for a list of 25 drugs including Zyprexa and olanzapine, with CVS Specialty (Caremark) as the alternative for plans without the pharmacy benefit; that is a payer network arrangement, not an LDD. The limited_network classification appears incorrect.",
+  "notes": "Read the Florida Blue (Guidewell) December 2024 provider news PDF: Genoa Pharmacy is in-network for LAI antipsychotic, SUD and behavioral-health drugs; 'Zyprexa' and 'Olanzapine' appear on the covered list with no exclusive or limited-distribution language; FEP/State/BlueCard plans are directed to CVS Specialty (Caremark). Search results also surfaced Teva/Dr. Reddy's generic Zyprexa launch and the Prasco authorized-generic agreement, confirming broad generic availability (not fetched). No Lilly page for oral Zyprexa was fetched and no hub program was found. Oral olanzapine has no REMS and is patient self-administered. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ },
+ {
+  "brand": "ZYPREXA RELPREVV",
+  "generic": "olanzapine pamoate",
+  "manufacturer": "Eli Lilly and Company",
+  "pharmacies": [],
+  "hub_program": {
+   "name": "ZYPREXA RELPREVV Patient Care Program (REMS)",
+   "phone": "1-877-772-9390",
+   "url": null
+  },
+  "rems": true,
+  "buy_and_bill": true,
+  "manufacturer_page_found": true,
+  "conflict_note": "On file with CVS Specialty and Genoa Healthcare, but no source read names any specific pharmacy for ZYPREXA RELPREVV. The Lilly label states the product is available only through the ZYPREXA RELPREVV Patient Care Program REMS, requires prescriber, healthcare facility, patient AND pharmacy enrollment, 'must not be dispensed directly to a patient,' and is administered by a healthcare professional at a registered facility with 3-hour post-injection observation. It is a REMS restricted-distribution, clinic-administered injection rather than a conventional specialty-pharmacy LDD; the Florida Blue Genoa notice read did not list Zyprexa Relprevv. The pharmacies on file could not be confirmed.",
+  "notes": "Read the Lilly US prescribing information at uspl.lilly.com/zyprexa-relprevv (manufacturer domain) and the FDA 2026 label PDF (accessdata.fda.gov): REMS name 'ZYPREXA RELPREVV Patient Care Program', enrollment line 1-877-772-9390, no REMS website URL shown, deep IM gluteal injection every 2-4 weeks by a healthcare professional in a certified setting with emergency-response access, continuous 3-hour observation. Also read the Florida Blue Genoa LAI provider notice, which lists many LAI antipsychotics (Abilify Maintena, Invega Sustenna, etc.) but not Zyprexa Relprevv. Any REMS-enrolled pharmacy can participate, so no exclusive specialty-pharmacy network was identified; CVS Specialty and Genoa on file are unverified. TRICARE/Express Scripts LDD list could not be checked (blocked)."
+ }
+]
