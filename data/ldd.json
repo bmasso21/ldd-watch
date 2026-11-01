@@ -2,7 +2,7 @@
   "meta": {
     "name": "LDD Watch",
     "description": "Limited-distribution drug directory: which specialty pharmacies can dispense each drug.",
-    "last_updated": "2026-10-31",
+    "last_updated": "2026-11-01",
     "disclaimer": "Public information compiled from manufacturer, pharmacy, and FDA sources. Verify with the manufacturer or pharmacy before relying on it for a patient."
   },
   "drugs": [
@@ -585,10 +585,12 @@
       "id": "adalimumab-aaty",
       "brand": "ADALIMUMAB-AATY",
       "generic": "adalimumab-aaty",
-      "manufacturer": "unknown",
-      "approval_date": null,
+      "manufacturer": "Celltrion",
+      "approval_date": "2023-05-23",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "injectable injection"
+      ],
       "ndcs": [],
       "distribution_type": "limited_network",
       "pharmacies": [
@@ -616,6 +618,12 @@
           "type": "pharmacy",
           "date_checked": "2026-10-29",
           "note": "CVS Specialty"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761219",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA BLA761219"
         }
       ],
       "confidence": "medium",
@@ -631,10 +639,12 @@
       "id": "adalimumab-adaz",
       "brand": "ADALIMUMAB-ADAZ",
       "generic": "adalimumab-adaz",
-      "manufacturer": "unknown",
-      "approval_date": null,
+      "manufacturer": "Sandoz Inc",
+      "approval_date": "2018-10-30",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "injectable injection"
+      ],
       "ndcs": [],
       "distribution_type": "limited_network",
       "pharmacies": [
@@ -662,6 +672,12 @@
           "type": "pharmacy",
           "date_checked": "2026-10-29",
           "note": "CVS Specialty"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761071",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA BLA761071"
         }
       ],
       "confidence": "medium",
@@ -677,10 +693,12 @@
       "id": "adalimumab-fkjp",
       "brand": "ADALIMUMAB-FKJP",
       "generic": "adalimumab-fkjp",
-      "manufacturer": "unknown",
-      "approval_date": null,
+      "manufacturer": "Mylan Pharms Inc",
+      "approval_date": "2020-07-06",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "injectable injection"
+      ],
       "ndcs": [],
       "distribution_type": "limited_network",
       "pharmacies": [
@@ -708,6 +726,12 @@
           "type": "pharmacy",
           "date_checked": "2026-10-29",
           "note": "CVS Specialty"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761154",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA BLA761154"
         }
       ],
       "confidence": "medium",
@@ -4032,9 +4056,12 @@
       "brand": "Arzerra",
       "generic": "ofatumumab",
       "manufacturer": "Novartis",
-      "approval_date": null,
+      "approval_date": "2009-10-26",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "injectable injection",
+        "solution subcutaneous"
+      ],
       "ndcs": [],
       "distribution_type": "limited_network",
       "pharmacies": [
@@ -4066,6 +4093,12 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Health Alliance"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=125326",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA BLA125326"
         }
       ],
       "confidence": "medium",
@@ -12911,10 +12944,12 @@
       "id": "depen-titratabs",
       "brand": "DEPEN TITRATABS",
       "generic": "penicillamine",
-      "manufacturer": "unknown",
-      "approval_date": null,
+      "manufacturer": "Valeant Pharms Intl",
+      "approval_date": "1970-12-04",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "capsule oral"
+      ],
       "ndcs": [],
       "distribution_type": "unknown",
       "pharmacies": [],
@@ -12928,6 +12963,12 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Prime Therapeutics"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=019853",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA NDA019853"
         }
       ],
       "confidence": "low",
@@ -15693,9 +15734,11 @@
       "brand": "ENTYVIO IV",
       "generic": "vedolizumab",
       "manufacturer": "Takeda",
-      "approval_date": null,
+      "approval_date": "2014-05-20",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "injectable injection"
+      ],
       "ndcs": [],
       "distribution_type": "open",
       "pharmacies": [],
@@ -15713,6 +15756,12 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Florida Blue"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=125476",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA BLA125476"
         }
       ],
       "confidence": "high",
@@ -15729,9 +15778,11 @@
       "brand": "Entyvio Sc",
       "generic": "vedolizumab",
       "manufacturer": "Takeda",
-      "approval_date": null,
+      "approval_date": "2014-05-20",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "injectable injection"
+      ],
       "ndcs": [],
       "distribution_type": "limited_network",
       "pharmacies": [
@@ -15792,6 +15843,12 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Express Scripts (TRICARE Pharmacy Program)"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=125476",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA BLA125476"
         }
       ],
       "confidence": "high",
@@ -15860,9 +15917,11 @@
       "brand": "ENYVIO PEN SC",
       "generic": "vedolizumab",
       "manufacturer": "Takeda",
-      "approval_date": null,
+      "approval_date": "2014-05-20",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "injectable injection"
+      ],
       "ndcs": [],
       "distribution_type": "unknown",
       "pharmacies": [],
@@ -15880,6 +15939,12 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Florida Blue"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=125476",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA BLA125476"
         }
       ],
       "confidence": "high",
@@ -20884,9 +20949,11 @@
       "brand": "HALDOL DECANOATE 100 OR 50",
       "generic": "haloperidol decanoate",
       "manufacturer": "Janssen",
-      "approval_date": null,
+      "approval_date": "2000-02-28",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "injectable injection"
+      ],
       "ndcs": [],
       "distribution_type": "limited_network",
       "pharmacies": [
@@ -20914,6 +20981,12 @@
           "type": "pbm",
           "date_checked": "2026-10-31",
           "note": "verification: Genoa Healthcare"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=075440",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA ANDA075440"
         }
       ],
       "confidence": "medium",
@@ -21816,9 +21889,11 @@
       "brand": "Hetlioz Suspension",
       "generic": "tasimelteon",
       "manufacturer": "Vanda Pharmaceuticals Inc.",
-      "approval_date": null,
+      "approval_date": "2014-01-31",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "capsule oral"
+      ],
       "ndcs": [],
       "distribution_type": "limited_network",
       "pharmacies": [
@@ -21884,6 +21959,12 @@
           "type": "other",
           "date_checked": "2026-10-31",
           "note": "verification: Accredo"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=205677",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA NDA205677"
         }
       ],
       "confidence": "high",
@@ -24761,9 +24842,11 @@
       "brand": "Ingrezza Sprinkle Caps",
       "generic": "valbenazine",
       "manufacturer": "Neurocrine Biosciences",
-      "approval_date": null,
+      "approval_date": "2017-04-11",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "capsule oral"
+      ],
       "ndcs": [],
       "distribution_type": "limited_network",
       "pharmacies": [
@@ -24836,6 +24919,12 @@
           "type": "manufacturer",
           "date_checked": "2026-10-31",
           "note": "verification: CVS Specialty"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=209241",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA NDA209241"
         }
       ],
       "confidence": "high",
@@ -25902,9 +25991,11 @@
       "brand": "Istodax OVR",
       "generic": "romidepsin",
       "manufacturer": "Celgene Corporation (Bristol Myers Squibb)",
-      "approval_date": null,
+      "approval_date": "2026-06-02",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "solution intravenous"
+      ],
       "ndcs": [],
       "distribution_type": "open",
       "pharmacies": [],
@@ -25918,6 +26009,12 @@
           "type": "pharmacy",
           "date_checked": "2026-10-29",
           "note": "Optum Specialty"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=219099",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA ANDA219099"
         }
       ],
       "confidence": "medium",
@@ -27461,9 +27558,11 @@
       "brand": "Jynarque",
       "generic": "tolvaptan",
       "manufacturer": "Otsuka America Pharmaceutical, Inc.",
-      "approval_date": null,
+      "approval_date": "2021-07-16",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "tablet oral"
+      ],
       "ndcs": [
         "59148-079-28",
         "59148-080-28",
@@ -27554,6 +27653,12 @@
           "type": "other",
           "date_checked": "2026-10-31",
           "note": "verification: AllianceRx Walgreens Pharmacy"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=205646",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA ANDA205646"
         }
       ],
       "confidence": "medium",
@@ -36013,9 +36118,11 @@
       "brand": "Nityr",
       "generic": "nitisinone",
       "manufacturer": "Cycle Pharmaceuticals Ltd.",
-      "approval_date": null,
+      "approval_date": "2019-08-26",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "capsule oral"
+      ],
       "ndcs": [
         "70709-000-60",
         "70709-002-60",
@@ -36094,6 +36201,12 @@
           "type": "press_release",
           "date_checked": "2026-10-31",
           "note": "verification: Optum Specialty Pharmacy (exclusive)"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=211041",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA ANDA211041"
         }
       ],
       "confidence": "high",
@@ -38433,9 +38546,11 @@
       "brand": "ONAPGO",
       "generic": "apomorphine hydrochloride",
       "manufacturer": "MDD US Operations, LLC, a subsidiary of Supernus Pharmaceuticals, Inc",
-      "approval_date": null,
+      "approval_date": "2022-02-23",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "injectable subcutaneous"
+      ],
       "ndcs": [
         "27505-006-05"
       ],
@@ -38477,6 +38592,12 @@
           "type": "pharmacy",
           "date_checked": "2026-10-29",
           "note": "CVS Specialty"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=212025",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA ANDA212025"
         }
       ],
       "confidence": "medium",
@@ -48453,9 +48574,11 @@
       "brand": "SELARSDI",
       "generic": "ustekinumab-aekn",
       "manufacturer": "Teva Pharmaceuticals USA, Inc.",
-      "approval_date": null,
+      "approval_date": "2024-04-16",
       "indication": "SELARSDI is a human interleukin-12 and -23 antagonist indicated for the treatment of: Adult patients with: moderate to severe plaque psoriasis (PsO) who are candidates for phototherapy or systemic therapy.",
-      "dosage_forms": [],
+      "dosage_forms": [
+        "injectable injection"
+      ],
       "ndcs": [
         "50090-7769-0",
         "51759-505-13",
@@ -48502,6 +48625,12 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Health Alliance"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761343",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA BLA761343"
         }
       ],
       "confidence": "high",
@@ -50798,9 +50927,12 @@
       "brand": "STEQEYMA IV",
       "generic": "ustekinumab-stba",
       "manufacturer": "Celltrion USA (Celltrion, Inc.)",
-      "approval_date": null,
+      "approval_date": "2024-12-17",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "injectable intravenous",
+        "injectable subcutaneous"
+      ],
       "ndcs": [],
       "distribution_type": "limited_network",
       "pharmacies": [
@@ -50845,6 +50977,12 @@
           "type": "other",
           "date_checked": "2026-10-31",
           "note": "verification: Costco Specialty Pharmacies"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761338",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA BLA761338"
         }
       ],
       "confidence": "high",
@@ -50861,9 +50999,12 @@
       "brand": "STEQEYMA SQ",
       "generic": "ustekinumab-stba",
       "manufacturer": "Celltrion USA (Celltrion, Inc.)",
-      "approval_date": null,
+      "approval_date": "2024-12-17",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "injectable intravenous",
+        "injectable subcutaneous"
+      ],
       "ndcs": [],
       "distribution_type": "unknown",
       "pharmacies": [
@@ -50895,6 +51036,12 @@
           "type": "other",
           "date_checked": "2026-10-31",
           "note": "verification: Costco Specialty Pharmacies"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761338",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA BLA761338"
         }
       ],
       "confidence": "high",
@@ -51490,9 +51637,11 @@
       "brand": "SUNLENCA tablets",
       "generic": "lenacapavir",
       "manufacturer": "Gilead Sciences, Inc.",
-      "approval_date": null,
+      "approval_date": "2022-12-22",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "solution subcutaneous"
+      ],
       "ndcs": [],
       "distribution_type": "unknown",
       "pharmacies": [
@@ -51530,6 +51679,12 @@
           "type": "other",
           "date_checked": "2026-10-31",
           "note": "verification: CVS Specialty"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=215973",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA NDA215973"
         }
       ],
       "confidence": "high",
@@ -55326,10 +55481,12 @@
       "id": "tobi-neb",
       "brand": "TOBI NEB",
       "generic": "tobramycin inhalation solution",
-      "manufacturer": "unknown",
-      "approval_date": null,
+      "manufacturer": "Dr Reddys Labs Sa",
+      "approval_date": "2018-07-09",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "solution inhalation"
+      ],
       "ndcs": [],
       "distribution_type": "unknown",
       "pharmacies": [],
@@ -55343,6 +55500,12 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Florida Blue"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=207080",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA ANDA207080"
         }
       ],
       "confidence": "low",
@@ -55479,9 +55642,11 @@
       "brand": "Tolvapatan",
       "generic": "tolvaptan",
       "manufacturer": "Otsuka America Pharmaceutical",
-      "approval_date": null,
+      "approval_date": "2021-07-16",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "tablet oral"
+      ],
       "ndcs": [],
       "distribution_type": "limited_network",
       "pharmacies": [
@@ -55528,6 +55693,12 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Express Scripts (TRICARE Pharmacy Program)"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=205646",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA ANDA205646"
         }
       ],
       "confidence": "medium",
@@ -57227,9 +57398,11 @@
       "brand": "Tysabri",
       "generic": "natalizumab",
       "manufacturer": "Biogen Inc.",
-      "approval_date": null,
+      "approval_date": "2023-08-24",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "injectable injection"
+      ],
       "ndcs": [
         "64406-008-01"
       ],
@@ -57263,6 +57436,12 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Health Alliance"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761322",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA BLA761322"
         }
       ],
       "confidence": "high",
@@ -57511,9 +57690,11 @@
       "brand": "TYVASO INHALATION",
       "generic": "treprostinil",
       "manufacturer": "United Therapeutics",
-      "approval_date": null,
+      "approval_date": "2009-07-30",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "solution inhalation"
+      ],
       "ndcs": [],
       "distribution_type": "unknown",
       "pharmacies": [
@@ -57558,6 +57739,12 @@
           "type": "pbm",
           "date_checked": "2026-10-31",
           "note": "verification: Accredo"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=022387",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA NDA022387"
         }
       ],
       "confidence": "low",
@@ -57574,9 +57761,11 @@
       "brand": "TYVASO REFILL",
       "generic": "treprostinil",
       "manufacturer": "United Therapeutics",
-      "approval_date": null,
+      "approval_date": "2009-07-30",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "solution inhalation"
+      ],
       "ndcs": [],
       "distribution_type": "unknown",
       "pharmacies": [
@@ -57621,6 +57810,12 @@
           "type": "pbm",
           "date_checked": "2026-10-31",
           "note": "verification: Accredo"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=022387",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA NDA022387"
         }
       ],
       "confidence": "low",
@@ -57637,9 +57832,11 @@
       "brand": "TYVASO STARTER",
       "generic": "treprostinil",
       "manufacturer": "United Therapeutics",
-      "approval_date": null,
+      "approval_date": "2009-07-30",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "solution inhalation"
+      ],
       "ndcs": [],
       "distribution_type": "unknown",
       "pharmacies": [
@@ -57684,6 +57881,12 @@
           "type": "pbm",
           "date_checked": "2026-10-31",
           "note": "verification: Accredo"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=022387",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA NDA022387"
         }
       ],
       "confidence": "low",
@@ -58870,9 +59073,11 @@
       "brand": "VARUBI TAB",
       "generic": "rolapitant",
       "manufacturer": "TerSera Therapeutics",
-      "approval_date": null,
+      "approval_date": "2015-09-01",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "tablet oral"
+      ],
       "ndcs": [],
       "distribution_type": "exclusive",
       "pharmacies": [
@@ -58900,6 +59105,12 @@
           "type": "press_release",
           "date_checked": "2026-10-31",
           "note": "verification: Biologics by McKesson (exclusive)"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=206500",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA NDA206500"
         }
       ],
       "confidence": "medium",
@@ -60047,9 +60258,11 @@
       "brand": "Vigpoder",
       "generic": "vigabatrin",
       "manufacturer": "Pyros Pharmaceuticals, Inc.",
-      "approval_date": null,
+      "approval_date": "2009-08-21",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "for solution oral"
+      ],
       "ndcs": [],
       "distribution_type": "limited_network",
       "pharmacies": [
@@ -60071,6 +60284,12 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Express Scripts (TRICARE Pharmacy Program)"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=022006",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA NDA022006"
         }
       ],
       "confidence": "medium",
@@ -60087,9 +60306,11 @@
       "brand": "Vijoice",
       "generic": "alpelisib",
       "manufacturer": "Novartis Pharmaceuticals Corporation",
-      "approval_date": null,
+      "approval_date": "2019-05-24",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "tablet oral"
+      ],
       "ndcs": [
         "0078-1021-84",
         "0078-1021-91",
@@ -60143,6 +60364,12 @@
           "type": "press_release",
           "date_checked": "2026-10-31",
           "note": "verification: Biologics by McKesson (exclusive)"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=212526",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA NDA212526"
         }
       ],
       "confidence": "medium",
@@ -64010,9 +64237,11 @@
       "brand": "XENLETA INJECTION",
       "generic": "lefamulin",
       "manufacturer": "Nabriva Therapeutics",
-      "approval_date": null,
+      "approval_date": "2019-08-19",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "tablet oral"
+      ],
       "ndcs": [],
       "distribution_type": "open",
       "pharmacies": [],
@@ -64026,6 +64255,12 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Florida Blue"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=211672",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA NDA211672"
         }
       ],
       "confidence": "medium",
@@ -64042,9 +64277,11 @@
       "brand": "XENLETA TABLET",
       "generic": "lefamulin",
       "manufacturer": "Nabriva Therapeutics",
-      "approval_date": null,
+      "approval_date": "2019-08-19",
       "indication": null,
-      "dosage_forms": [],
+      "dosage_forms": [
+        "tablet oral"
+      ],
       "ndcs": [],
       "distribution_type": "unknown",
       "pharmacies": [],
@@ -64058,6 +64295,12 @@
           "type": "pbm",
           "date_checked": "2026-10-29",
           "note": "Florida Blue"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=211672",
+          "type": "fda",
+          "date_checked": "2026-11-01",
+          "note": "Drugs@FDA NDA211672"
         }
       ],
       "confidence": "low",
