@@ -2,7 +2,7 @@
   "meta": {
     "name": "LDD Watch",
     "description": "Limited-distribution drug directory: which specialty pharmacies can dispense each drug.",
-    "last_updated": "2026-10-31",
+    "last_updated": "2026-11-09",
     "disclaimer": "Public information compiled from manufacturer, pharmacy, and FDA sources. Verify with the manufacturer or pharmacy before relying on it for a patient."
   },
   "drugs": [
@@ -68904,6 +68904,46 @@
       "verified_date": null,
       "next_review_date": "2027-01-27",
       "notes": "Bulk-loaded from 7 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Cross-ref 2026-10-30: TRICARE Mar 2024 list names seven pharmacies; not on the Oct 2026 list. Broad network (generic abiraterone available).",
+      "inactive": false,
+      "inactive_reason": null
+    },
+    {
+      "id": "apraclonidine",
+      "brand": "BRYTLY",
+      "generic": "apraclonidine hydrochloride",
+      "manufacturer": "Alcon Laboratories, Inc.",
+      "approval_date": "2026-10-16",
+      "indication": "Nonprescription (OTC) use to relieve redness of the eye due to minor eye irritations.",
+      "dosage_forms": [
+        "solution/drops ophthalmic"
+      ],
+      "ndcs": [],
+      "distribution_type": "open",
+      "pharmacies": [],
+      "hub_program": null,
+      "rems": false,
+      "cold_chain": null,
+      "controlled_substance": false,
+      "sources": [
+        {
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/220341Orig1s000ltr.pdf",
+          "type": "fda",
+          "date_checked": "2026-11-09",
+          "note": "FDA approval letter NDA220341: approves nonprescription use of Brytly (apraclonidine) ophthalmic solution, 0.125%, to relieve redness of the eye due to minor eye irritations."
+        },
+        {
+          "url": "https://www.alcon.com/media-release/fda-approves-alcons-brytly-redness-reliever-eye-drops-12-hours-whiter-brighter/",
+          "type": "manufacturer",
+          "date_checked": "2026-11-09",
+          "note": "Alcon media release 2026-10-16: OTC redness reliever; 'expected to be available at major retailers nationwide and online in the coming months'. No specialty pharmacy or limited-distribution language."
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft",
+      "verified_by": null,
+      "verified_date": null,
+      "next_review_date": "2027-05-08",
+      "notes": "Drafted 2026-11-09 from issue #10 (FDA original approval NDA220341). Not a specialty drug: OTC ophthalmic redness reliever (apraclonidine 0.125%) sold through general retail and online, so classified open. Not yet launched as of the Alcon release ('in the coming months'). ndcs left empty because openFDA was unreachable from the research run; the FDA approval letter's labeling table lists NDCs 0065-8596-04, 0065-8596-05 and 0065-8596-06 (0.5 mL, 2 mL, 5 mL containers) - confirm against the NDC directory before adding.",
       "inactive": false,
       "inactive_reason": null
     }
