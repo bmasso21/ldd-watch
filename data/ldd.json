@@ -2,7 +2,7 @@
   "meta": {
     "name": "LDD Watch",
     "description": "Limited-distribution drug directory: which specialty pharmacies can dispense each drug.",
-    "last_updated": "2026-10-31",
+    "last_updated": "2026-11-16",
     "disclaimer": "Public information compiled from manufacturer, pharmacy, and FDA sources. Verify with the manufacturer or pharmacy before relying on it for a patient."
   },
   "drugs": [
@@ -68904,6 +68904,58 @@
       "verified_date": null,
       "next_review_date": "2027-01-27",
       "notes": "Bulk-loaded from 7 public LDD list row(s) on 2026-10-29. Pharmacy list = union of lists that carry it; confirm exclusivity and current network on the manufacturer HCP page. Cross-ref 2026-10-30: TRICARE Mar 2024 list names seven pharmacies; not on the Oct 2026 list. Broad network (generic abiraterone available).",
+      "inactive": false,
+      "inactive_reason": null
+    },
+    {
+      "id": "cisplatin-axycis",
+      "brand": "Axycis",
+      "generic": "cisplatin",
+      "manufacturer": "Avyxa Pharma, LLC (Avyxa Holdings, LLC)",
+      "approval_date": "2026-10-29",
+      "indication": "Advanced testicular cancer, advanced ovarian cancer, advanced bladder cancer (ready-to-dilute cisplatin injection, 50 mg/50 mL, 1 mg/mL, multiple-dose vial)",
+      "dosage_forms": [
+        "injection, intravenous (ready-to-dilute solution, multiple-dose vial)"
+      ],
+      "ndcs": [],
+      "distribution_type": "open",
+      "pharmacies": [],
+      "hub_program": null,
+      "rems": false,
+      "cold_chain": null,
+      "controlled_substance": false,
+      "sources": [
+        {
+          "url": "https://avyxaproducts.com/wp-content/uploads/2026/10/AXY-002_Ordering_Sheet_v5-2.pdf",
+          "type": "manufacturer",
+          "date_checked": "2026-11-16",
+          "note": "Avyxa ordering sheet (US-AXY-0002-1, Oct 2026): 'contact one of the authorized specialty distributors' \u2014 ASD Healthcare (Cencora), Cardinal Health Specialty, McKesson Plasma & Biologics for institutions/hospitals; BioCare, Cardinal Health Specialty, McKesson Specialty, Oncology Supply (Cencora) for physician offices. No specialty pharmacy, limited-distribution, or REMS language."
+        },
+        {
+          "url": "https://avyxaproducts.com/wp-content/uploads/2026/10/AXYCIS-Billing-and-Coding-Guide.pdf",
+          "type": "manufacturer",
+          "date_checked": "2026-11-16",
+          "note": "Billing and coding guide (US-AXY-0004-1, Oct 2026): AXYCIS (cisplatin) Injection 50 mg/50 mL, NDC 83831-0158-01, IV infusion (CPT 96413); buy-and-bill, 'Unique J-Code Expected July 2027'."
+        },
+        {
+          "url": "https://avyxaproducts.com/",
+          "type": "manufacturer",
+          "date_checked": "2026-11-16",
+          "note": "Avyxa product portal lists AXYCIS (cisplatin) Injection with links to prescribing information (boxed warning), order sheet, and billing guide."
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220748",
+          "type": "fda",
+          "date_checked": "2026-11-16",
+          "note": "Drugs@FDA NDA220748 (Avyxa Holdings, approved 2026-10-29 per the weekly FDA check). Page could not be fetched this run (fda.gov blocked by proxy); application number and date taken from the research issue."
+        }
+      ],
+      "confidence": "medium",
+      "status": "draft",
+      "verified_by": null,
+      "verified_date": null,
+      "next_review_date": "2027-05-15",
+      "notes": "Hospital/clinic-administered IV chemotherapy (505(b)(2) ready-to-dilute cisplatin) sold buy-and-bill through authorized specialty distributors (Cencora ASD/Oncology Supply, Cardinal Health Specialty, McKesson Specialty/Plasma & Biologics, BioCare); not dispensed by specialty pharmacies, so classified open. ndcs left empty: openFDA unreachable from the research run (proxy 403); manufacturer documents list NDC 83831-0158-01 \u2014 confirm against the NDC directory before adding. DailyMed label (setid 93edf309-993c-48ec-be90-27d89c86b62b) and FDA approval letter could not be fetched this run.",
       "inactive": false,
       "inactive_reason": null
     }
